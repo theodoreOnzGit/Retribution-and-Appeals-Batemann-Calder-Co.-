@@ -3,6 +3,26 @@
 Supplied by the project owner, 2026-10-17, verbatim below. The table that
 follows records decisions made since, which take precedence where they differ.
 
+## Rule: everything is grounded in literature (owner, 2026-10-17)
+
+**All science, and all human behaviour, must be grounded in published
+literature**, so that every mechanism and every motive is plausible.
+
+- A scientific claim (physics, chemistry, medicine, dosimetry, reactor
+  engineering, forensics) cites a published source: a peer-reviewed paper, a
+  standard (e.g. ICRP, IAEA), a textbook, or an official report.
+- A behavioural claim (why a person or institution acts as it does: cover-ups,
+  whistleblowing, loyalty, coercion, grief, corruption, how inquiries and
+  appeals unfold) cites research (psychology, criminology, sociology,
+  organisational studies) or a documented real case (a public inquiry, court
+  record or investigative report).
+- Speculative 2189 engineering is allowed, but it must say which real result
+  it extrapolates from, and how far.
+- A claim with no source found is marked **"unsourced"**, never given an
+  invented citation. Every citation must be checkable (DOI, ISBN, or URL).
+- Fiction (Doyle's canon) is a literary source, not evidence for science or
+  behaviour.
+
 ## Decisions since the brief (2026-10-17)
 
 | Topic | Decision |
@@ -13,6 +33,7 @@ follows records decisions made since, which take precedence where they differ.
 | Game licence | AGPL-3.0 |
 | Avoid | EA names and concepts (Nod, CABAL, …); "cabal" as a word for the conspiracy; anything from modern Holmes adaptations; "Sherlock Holmes" as title or brand |
 | Rogue AI | Three options proposed (captured, conscientious, feared-by-the-Compact); **not decided** |
+| Food, water and the economy (owner canon, added 2026-10-17) | **Radiocatalysis makes ammonia at room temperature**; ammonia is fertiliser. **Radioactive sources purify otherwise toxic water** for drinking and farming. The sources are made in **molten-salt reactors**, and **a few companies hold an oligopoly** on them. Whoever owns the ammonia owns the food, and so the economy; the same holds for water. Which companies form the oligopoly, and whether Batemann & Calder is one, is **not decided**. The science behind it is open for review (story-proposals branch, `story/science-review-questions.md` SQ-38, SQ-56 to SQ-58). |
 
 ---
 
