@@ -5,7 +5,7 @@
 id = "pattern:the-detectives-ruse"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:40:00+08:00"
 origin = "ai"
 title = "The detective's ruse"
 verified = true
@@ -100,15 +100,27 @@ note = "A gramophone plays the violin while Holmes, in the dummy's chair, listen
 target = "work:CAS11"
 kind = "appears_in"
 note = "A fake telegram sends Amberley and Watson to Essex."
+
+[[relation]]
+target = "work:N3"
+kind = "appears_in"
+note = "Holmes announces his return to London and sends Sir Henry home across the moor alone as bait."
+
+[[relation]]
+target = "work:N4"
+kind = "appears_in"
+note = "A note announcing that the moat will be drained brings Barker to fish out the bundle Holmes has already found and put back."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
 
 Holmes stages an event (a fire alarm, a bait advertisement, a drained moat) to make someone reveal themselves.
 
-## Occurrences (18 works)
+## Occurrences (20 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): A lost-ring advertisement baits the murderer.
+- [N3 The Hound of the Baskervilles](../works/N3.md): Holmes announces his return to London and sends Sir Henry home across the moor alone as bait.
+- [N4 The Valley of Fear](../works/N4.md): A note announcing that the moat will be drained brings Barker to fish out the bundle Holmes has already found and put back.
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): A staged street brawl and a false fire alarm make Irene reveal the hiding place.
 - [MEM01 Silver Blaze](../works/MEM01.md): Holmes lets Colonel Ross race a horse he does not recognise.
 - [MEM07 The Reigate Squire](../works/MEM07.md): A deliberate mistake on a reward notice, and a pretended fit.

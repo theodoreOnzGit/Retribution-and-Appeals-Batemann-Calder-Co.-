@@ -5,7 +5,7 @@
 id = "pattern:the-vanishing-or-faked-death"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:38:00+08:00"
 origin = "ai"
 title = "The vanishing and the faked death"
 verified = true
@@ -75,14 +75,20 @@ note = "A death hidden for a week."
 target = "work:CAS11"
 kind = "appears_in"
 note = "The wife and the doctor \"vanish\"."
+
+[[relation]]
+target = "work:N3"
+kind = "appears_in"
+note = "Selden, dead in Sir Henry's clothes, is taken for the baronet; Stapleton vanishes into the mire and is never found."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
 
 Someone disappears or is thought dead, and the truth is a deliberate staging or a misreading.
 
-## Occurrences (13 works)
+## Occurrences (14 works)
 
+- [N3 The Hound of the Baskervilles](../works/N3.md): Selden, dead in Sir Henry's clothes, is taken for the baronet; Stapleton vanishes into the mire and is never found.
 - [N4 The Valley of Fear](../works/N4.md): Douglas lets Baldwin's body pass for his own.
 - [ADV03 A Case of Identity](../works/ADV03.md): Hosmer Angel vanishes between the doors of a four-wheeler.
 - [ADV06 The Man with the Twisted Lip](../works/ADV06.md): Apparent murder of a man who never died.

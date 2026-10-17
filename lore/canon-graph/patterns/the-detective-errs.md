@@ -5,7 +5,7 @@
 id = "pattern:the-detective-errs"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:40:00+08:00"
 origin = "ai"
 title = "The detective errs"
 verified = true
@@ -55,6 +55,21 @@ note = "Holmes nearly arrives too late, and calls it a \"temporary eclipse\"."
 target = "work:CAS12"
 kind = "appears_in"
 note = "\"I was slow at the outset--culpably slow.\""
+
+[[relation]]
+target = "work:N1"
+kind = "appears_in"
+note = "The \"old woman\" who claims the ring gives Holmes the slip from a moving cab, and he never learns who it was."
+
+[[relation]]
+target = "work:N3"
+kind = "appears_in"
+note = "Holmes is \"checkmated in London\", and later believes he has \"thrown away the life of my client\"."
+
+[[relation]]
+target = "work:N4"
+kind = "appears_in"
+note = "Douglas: \"You slipped up there, Mr. Holmes\" over the plaster; and Holmes's warning does not save him at sea."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -63,8 +78,11 @@ Holmes is wrong, too late or outwitted.
 
 ADV01 (beaten by a woman), ADV05 (client killed), ADV08 (first theory wrong), MEM03 ("Norbury"). Important for the brief's principle that wrong conclusions should have consequences rather than a game-over screen.
 
-## Occurrences (9 works)
+## Occurrences (12 works)
 
+- [N1 A Study in Scarlet](../works/N1.md): The "old woman" who claims the ring gives Holmes the slip from a moving cab, and he never learns who it was.
+- [N3 The Hound of the Baskervilles](../works/N3.md): Holmes is "checkmated in London", and later believes he has "thrown away the life of my client".
+- [N4 The Valley of Fear](../works/N4.md): Douglas: "You slipped up there, Mr. Holmes" over the plaster; and Holmes's warning does not save him at sea.
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): Holmes's plan is beaten "by a woman's wit".
 - [ADV05 The Five Orange Pips](../works/ADV05.md): Holmes sends his client away to his death.
 - [ADV08 The Adventure of the Speckled Band](../works/ADV08.md): Holmes first suspects the gipsies.

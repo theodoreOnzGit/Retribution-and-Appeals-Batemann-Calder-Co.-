@@ -5,7 +5,7 @@
 id = "pattern:the-disguised-identity"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:36:00+08:00"
 origin = "ai"
 title = "The disguised identity"
 verified = true
@@ -135,6 +135,11 @@ note = "Evans as an American lawyer named Garrideb."
 target = "work:CAS10"
 kind = "appears_in"
 note = "The maid's husband plays the dead lady in her carriage."
+
+[[relation]]
+target = "work:N2"
+kind = "appears_in"
+note = "Achmet travels \"under the guise of a merchant\"; Holmes, as an old seaman, fools both Watson and Jones."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -143,9 +148,10 @@ A person is not who they appear to be: an alias, a costume, a double life, or th
 
 The most frequent device in the canon. It splits into: the criminal's alias (ADV02, MEM01), the double life (ADV06), the family member in disguise (ADV03), and Holmes's own disguises (ADV01, ADV06, ADV11). The fair-play rule Doyle often follows is that a disguise is betrayed by a detail it cannot cover: knees, typeface, ears, a voice.
 
-## Occurrences (25 works)
+## Occurrences (26 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Hope's accomplice comes for the ring as old "Mrs. Sawyer".
+- [N2 The Sign of the Four](../works/N2.md): Achmet travels "under the guise of a merchant"; Holmes, as an old seaman, fools both Watson and Jones.
 - [N3 The Hound of the Baskervilles](../works/N3.md): Stapleton's false name and false beard; his wife posed as his sister.
 - [N4 The Valley of Fear](../works/N4.md): Douglas is Edwards is McMurdo.
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): The King comes as "Count Von Kramm"; Holmes plays a groom and a clergyman; Irene follows Holmes in male dress.

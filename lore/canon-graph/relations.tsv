@@ -1,11 +1,15 @@
 # source	kind	target
+character:abdullah-khan	appears_in	work:N2
+character:abdullah-khan	member_of	organisation:the-four
 character:abe-slaney	appears_in	work:RET03
+character:achmet	appears_in	work:N2
 character:agatha	appears_in	work:RET07
 character:alec-cunningham	appears_in	work:MEM07
 character:alec-fairbairn	appears_in	work:MEM02
 character:alec-macdonald	appears_in	work:N4
 character:alexander-holder	appears_in	work:ADV11
 character:alexis	appears_in	work:RET10
+character:alice-charpentier	appears_in	work:N1
 character:alice-morphy	appears_in	work:CAS08
 character:alice-rucastle	appears_in	work:ADV12
 character:alice-turner	appears_in	work:ADV04
@@ -17,6 +21,7 @@ character:anna	appears_in	work:RET10
 character:annie-fraser	appears_in	work:BOW05
 character:annie-harrison	appears_in	work:MEM11
 character:annie-morrison	appears_in	work:MEM07
+character:anthony	appears_in	work:N3
 character:arthur-cadogan-west	appears_in	work:BOW03
 character:arthur-charpentier	appears_in	work:N1
 character:arthur-holder	appears_in	work:ADV11
@@ -38,6 +43,8 @@ character:bob-carruthers	appears_in	work:RET04
 character:breckinridge	appears_in	work:ADV07
 character:brenda-tregennis	appears_in	work:BOW06
 character:brigham-young	appears_in	work:N1
+character:brother-morris	appears_in	work:N4
+character:brother-morris	member_of	organisation:scowrers
 character:brunton	appears_in	work:MEM06
 character:captain-morstan	appears_in	work:N2
 character:carrie-evans	appears_in	work:CAS10
@@ -62,6 +69,8 @@ character:daulat-ras	appears_in	work:RET09
 character:dolores	appears_in	work:CAS05
 character:don-murillo	appears_in	work:BOW01
 character:dorak	appears_in	work:CAS08
+character:dost-akbar	appears_in	work:N2
+character:dost-akbar	member_of	organisation:the-four
 character:douglas-maberley	appears_in	work:CAS04
 character:duke-of-holdernesse	appears_in	work:RET05
 character:duncan-ross	appears_in	work:ADV02
@@ -140,6 +149,7 @@ character:jack-mcginty	appears_in	work:N4
 character:jack-prendergast	appears_in	work:MEM05
 character:jack-stapleton	appears_in	work:N3
 character:jack-woodley	appears_in	work:RET04
+character:jacob-shafter	appears_in	work:N4
 character:james-barclay	appears_in	work:MEM08
 character:james-calhoun	appears_in	work:ADV05
 character:james-m-dodd	appears_in	work:CAS02
@@ -229,6 +239,7 @@ character:john-watson	appears_in	work:RET13
 character:john-watson	married_to	character:mary-morstan
 character:jonas-oldacre	appears_in	work:RET02
 character:jonathan-small	appears_in	work:N2
+character:jonathan-small	member_of	organisation:the-four
 character:joseph-harrison	appears_in	work:MEM11
 character:joseph-openshaw	appears_in	work:ADV05
 character:joseph-stangerson	appears_in	work:N1
@@ -243,6 +254,8 @@ character:lady-beatrice-falder	appears_in	work:CAS10
 character:lady-eva-blackwell	appears_in	work:RET07
 character:lady-frances-carfax	appears_in	work:BOW05
 character:lady-hilda	appears_in	work:RET13
+character:lal-chowdar	appears_in	work:N2
+character:lal-rao	appears_in	work:N2
 character:langdale-pike	appears_in	work:CAS04
 character:lascar-of-the-bar-of-gold	appears_in	work:ADV06
 character:laura-lyons	appears_in	work:N3
@@ -276,7 +289,10 @@ character:lucy-ferrier	appears_in	work:N1
 character:lucy-hebron	appears_in	work:MEM03
 character:lucy-parr	appears_in	work:ADV11
 character:lysander-stark	appears_in	work:ADV09
+character:madame-charpentier	appears_in	work:N1
 character:maggie-oakshott	appears_in	work:ADV07
+character:mahomet-singh	appears_in	work:N2
+character:mahomet-singh	member_of	organisation:the-four
 character:major-murphy	appears_in	work:MEM08
 character:major-sholto	appears_in	work:N2
 character:maria-gibson	appears_in	work:CAS07
@@ -292,6 +308,9 @@ character:mary-morstan	client_of	character:sherlock-holmes
 character:mary-morstan	kin_of	character:captain-morstan
 character:mary-sutherland	appears_in	work:ADV03
 character:maud-bellamy	appears_in	work:CAS12
+character:mcmurdo	appears_in	work:N2
+character:mike-scanlan	appears_in	work:N4
+character:mike-scanlan	member_of	organisation:scowrers
 character:miles-mclaren	appears_in	work:RET09
 character:milvertons-killer	appears_in	work:RET07
 character:miss-dobney	appears_in	work:BOW05
@@ -309,6 +328,7 @@ character:mr-norlett	appears_in	work:CAS10
 character:mr-roundhay	appears_in	work:BOW06
 character:mr-sandeford	appears_in	work:RET08
 character:mr-sherman	appears_in	work:N2
+character:mrs-allen	appears_in	work:N4
 character:mrs-douglas-birlstone	appears_in	work:N4
 character:mrs-ferguson	appears_in	work:CAS05
 character:mrs-hudson	appears_in	work:ADV07
@@ -469,6 +489,7 @@ character:tobias-gregson	appears_in	work:BOW02
 character:tobias-gregson	appears_in	work:MEM10
 character:tobias-gregson	appears_in	work:N1
 character:tobias-gregson	member_of	organisation:scotland-yard
+character:toby	appears_in	work:N2
 character:toller	appears_in	work:ADV12
 character:tonga	appears_in	work:N2
 character:trelawney-hope	appears_in	work:RET13
@@ -625,6 +646,9 @@ pattern:the-detective-errs	appears_in	work:BOW05
 pattern:the-detective-errs	appears_in	work:CAS12
 pattern:the-detective-errs	appears_in	work:MEM03
 pattern:the-detective-errs	appears_in	work:MEM10
+pattern:the-detective-errs	appears_in	work:N1
+pattern:the-detective-errs	appears_in	work:N3
+pattern:the-detective-errs	appears_in	work:N4
 pattern:the-detective-errs	appears_in	work:RET03
 pattern:the-detective-errs	appears_in	work:RET04
 pattern:the-detectives-ruse	appears_in	work:ADV01
@@ -639,6 +663,8 @@ pattern:the-detectives-ruse	appears_in	work:MEM01
 pattern:the-detectives-ruse	appears_in	work:MEM07
 pattern:the-detectives-ruse	appears_in	work:MEM11
 pattern:the-detectives-ruse	appears_in	work:N1
+pattern:the-detectives-ruse	appears_in	work:N3
+pattern:the-detectives-ruse	appears_in	work:N4
 pattern:the-detectives-ruse	appears_in	work:RET01
 pattern:the-detectives-ruse	appears_in	work:RET02
 pattern:the-detectives-ruse	appears_in	work:RET03
@@ -664,6 +690,7 @@ pattern:the-disguised-identity	appears_in	work:MEM04
 pattern:the-disguised-identity	appears_in	work:MEM05
 pattern:the-disguised-identity	appears_in	work:MEM12
 pattern:the-disguised-identity	appears_in	work:N1
+pattern:the-disguised-identity	appears_in	work:N2
 pattern:the-disguised-identity	appears_in	work:N3
 pattern:the-disguised-identity	appears_in	work:N4
 pattern:the-disguised-identity	appears_in	work:RET01
@@ -686,6 +713,7 @@ pattern:the-false-account	appears_in	work:CAS05
 pattern:the-false-account	appears_in	work:CAS09
 pattern:the-false-account	appears_in	work:MEM03
 pattern:the-false-account	appears_in	work:MEM08
+pattern:the-false-account	appears_in	work:N1
 pattern:the-false-account	appears_in	work:N3
 pattern:the-false-account	appears_in	work:N4
 pattern:the-false-account	appears_in	work:RET05
@@ -772,6 +800,7 @@ pattern:the-vanishing-or-faked-death	appears_in	work:CAS11
 pattern:the-vanishing-or-faked-death	appears_in	work:MEM05
 pattern:the-vanishing-or-faked-death	appears_in	work:MEM06
 pattern:the-vanishing-or-faked-death	appears_in	work:MEM12
+pattern:the-vanishing-or-faked-death	appears_in	work:N3
 pattern:the-vanishing-or-faked-death	appears_in	work:N4
 pattern:the-vanishing-or-faked-death	appears_in	work:RET01
 pattern:the-vanishing-or-faked-death	appears_in	work:RET02
@@ -2007,8 +2036,10 @@ work:MEM12	involves	organisation:moriarty-organisation
 work:MEM12	set_in	place:london
 work:MEM12	set_in	place:reichenbach-falls
 work:N1	exhibits	pattern:the-avenging-brotherhood
+work:N1	exhibits	pattern:the-detective-errs
 work:N1	exhibits	pattern:the-detectives-ruse
 work:N1	exhibits	pattern:the-disguised-identity
+work:N1	exhibits	pattern:the-false-account
 work:N1	exhibits	pattern:the-hidden-message
 work:N1	exhibits	pattern:the-past-returning-from-abroad
 work:N1	exhibits	pattern:the-staged-scene
@@ -2016,6 +2047,7 @@ work:N1	exhibits	pattern:the-wrongly-accused
 work:N1	explores	theme:empire-and-its-returns
 work:N1	explores	theme:justice-outside-the-law
 work:N1	explores	theme:policing-official-and-private
+work:N1	features	character:alice-charpentier
 work:N1	features	character:arthur-charpentier
 work:N1	features	character:brigham-young
 work:N1	features	character:enoch-drebber
@@ -2026,6 +2058,7 @@ work:N1	features	character:john-watson
 work:N1	features	character:joseph-stangerson
 work:N1	features	character:lestrade
 work:N1	features	character:lucy-ferrier
+work:N1	features	character:madame-charpentier
 work:N1	features	character:sherlock-holmes
 work:N1	features	character:stamford
 work:N1	features	character:tobias-gregson
@@ -2046,6 +2079,7 @@ work:N1	uses_technique	technique:poisons-and-toxicology
 work:N1	uses_technique	technique:tobacco-ash
 work:N2	exhibits	pattern:the-animal-instrument
 work:N2	exhibits	pattern:the-avenging-brotherhood
+work:N2	exhibits	pattern:the-disguised-identity
 work:N2	exhibits	pattern:the-hidden-message
 work:N2	exhibits	pattern:the-locked-room
 work:N2	exhibits	pattern:the-past-returning-from-abroad
@@ -2054,17 +2088,25 @@ work:N2	explores	theme:addiction
 work:N2	explores	theme:empire-and-its-returns
 work:N2	explores	theme:greed-and-inheritance
 work:N2	explores	theme:policing-official-and-private
+work:N2	features	character:abdullah-khan
+work:N2	features	character:achmet
 work:N2	features	character:athelney-jones
 work:N2	features	character:bartholomew-sholto
 work:N2	features	character:captain-morstan
+work:N2	features	character:dost-akbar
 work:N2	features	character:john-watson
 work:N2	features	character:jonathan-small
+work:N2	features	character:lal-chowdar
+work:N2	features	character:lal-rao
+work:N2	features	character:mahomet-singh
 work:N2	features	character:major-sholto
 work:N2	features	character:mary-morstan
+work:N2	features	character:mcmurdo
 work:N2	features	character:mordecai-smith
 work:N2	features	character:mr-sherman
 work:N2	features	character:sherlock-holmes
 work:N2	features	character:thaddeus-sholto
+work:N2	features	character:toby
 work:N2	features	character:tonga
 work:N2	features	character:wiggins
 work:N2	involves	organisation:baker-street-irregulars
@@ -2085,14 +2127,18 @@ work:N2	uses_technique	technique:records-and-registers
 work:N2	uses_technique	technique:scent-tracking-dogs
 work:N3	exhibits	pattern:the-animal-instrument
 work:N3	exhibits	pattern:the-concealed-marriage
+work:N3	exhibits	pattern:the-detective-errs
+work:N3	exhibits	pattern:the-detectives-ruse
 work:N3	exhibits	pattern:the-disguised-identity
 work:N3	exhibits	pattern:the-false-account
 work:N3	exhibits	pattern:the-hidden-message
 work:N3	exhibits	pattern:the-past-returning-from-abroad
 work:N3	exhibits	pattern:the-uncanny-explained
+work:N3	exhibits	pattern:the-vanishing-or-faked-death
 work:N3	explores	theme:greed-and-inheritance
 work:N3	explores	theme:reason-against-superstition
 work:N3	explores	theme:women-money-and-marriage
+work:N3	features	character:anthony
 work:N3	features	character:barrymore
 work:N3	features	character:beryl-stapleton
 work:N3	features	character:cartwright
@@ -2123,6 +2169,8 @@ work:N3	uses_technique	technique:observation-of-the-person
 work:N3	uses_technique	technique:records-and-registers
 work:N3	uses_technique	technique:scent-tracking-dogs
 work:N4	exhibits	pattern:the-avenging-brotherhood
+work:N4	exhibits	pattern:the-detective-errs
+work:N4	exhibits	pattern:the-detectives-ruse
 work:N4	exhibits	pattern:the-disguised-identity
 work:N4	exhibits	pattern:the-dog-that-did-nothing
 work:N4	exhibits	pattern:the-false-account
@@ -2136,13 +2184,17 @@ work:N4	explores	theme:policing-official-and-private
 work:N4	explores	theme:secrecy-and-the-state
 work:N4	features	character:alec-macdonald
 work:N4	features	character:ames
+work:N4	features	character:brother-morris
 work:N4	features	character:cecil-barker
 work:N4	features	character:ettie-shafter
 work:N4	features	character:fred-porlock
 work:N4	features	character:jack-mcginty
+work:N4	features	character:jacob-shafter
 work:N4	features	character:james-moriarty
 work:N4	features	character:john-douglas
 work:N4	features	character:john-watson
+work:N4	features	character:mike-scanlan
+work:N4	features	character:mrs-allen
 work:N4	features	character:mrs-douglas-birlstone
 work:N4	features	character:sherlock-holmes
 work:N4	features	character:ted-baldwin
