@@ -312,7 +312,7 @@ corner, a bank of free terminals on the priority tier, and a nurse who
 remembers people's children's names. You can talk to a dozen residents here
 (optional), and none of them has a bad word for the clinic.
 
-**Anthony Vale** speaks for four minutes. He is slight, silver-haired,
+**Anthony Vale** speaks for four minutes. He is slight and
 plainly dressed, and he does not use notes.
 
 "This estuary kept the city alive for eighty years," he says. "The people

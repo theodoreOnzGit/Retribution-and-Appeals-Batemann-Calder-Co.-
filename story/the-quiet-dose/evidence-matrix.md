@@ -375,7 +375,8 @@
 - *Where / how:* any conversation with Julian after E25 is in hand.
 - *Proves:* he says he and Elias "hadn't talked shop in months"; E25 shows
   they discussed 2158 on D−25. He calls the dinner "ordinary"; E22 says
-  otherwise.
+  otherwise. On D+4 he offered to "sort out Dad's papers" for Mara, which she
+  had not yet done (Mara mentions it, puzzled, if asked about him).
 - *Does NOT prove:* murder. It proves he is hiding the 2158 conversation,
   which he has every reason to hide even if innocent of the killing.
 - *Insight:* none.
