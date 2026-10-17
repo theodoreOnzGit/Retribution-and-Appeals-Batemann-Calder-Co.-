@@ -161,7 +161,7 @@ where *you've* been. Danny wasn't on that hook. His badge was."
 > **Scientific Insight unlock: What a dosimeter records.** A personal
 > dosimeter measures radiation arriving at the dosimeter. It says nothing
 > about what happened to a body it was not on, and nothing about anything
-> inside a body. (SQ-15.)
+> inside a body. (SQ-15; `[src: icrpaedia-hp, iaea-orp-internal]`.)
 
 Mara says, without turning round from her screens, "And the hiring AI took
 the record as the man. Which it would." She makes a note. "I'm going to
@@ -244,7 +244,7 @@ form before she will so much as look at it, and only then says hello.
 "Sorry," she says. "Habit. A result is only worth the paper that says where
 the sample has been."
 
-> **Scientific Insight unlock: Chain of custody.** (SQ-25.)
+> **Scientific Insight unlock: Chain of custody.** (SQ-25; `[src: nist-coc]`.)
 
 While the reader runs, she shows you round, because she likes showing
 people round. The rooms are full of instruments you have only seen in
@@ -261,7 +261,8 @@ built to hear, and tell you, truthfully, that it heard nothing."
 
 > **Scientific Insight unlock: Every instrument is built to see some things.**
 > What a whole-body counter can and cannot detect; why a negative result
-> answers only the question the instrument asks. (SQ-18, SQ-19.)
+> answers only the question the instrument asks. (SQ-18, SQ-19;
+> `[src: nrc-wbc]`.)
 
 "That sounds like a weakness."
 
@@ -453,7 +454,10 @@ Five days after that:
 ## Planted facts (fair-play ledger)
 
 Every fact later evidence is checked against appears above, before the death.
-Cross-referenced to `the-quiet-dose/evidence-matrix.md`.
+Cross-referenced to `the-quiet-dose/evidence-matrix.md`. Sources for the
+science and behaviour planted here are in `sources/science-claims.md` (SQ-06,
+SQ-15, SQ-18, SQ-25, X-09 to X-11, X-17) and `sources/behaviour-claims.md`
+(BC-30, BC-31, BC-36); keys are kept out of the player-facing prose.
 
 | Planted here | Section | Used by |
 |---|---|---|

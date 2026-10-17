@@ -54,6 +54,10 @@
   because a dose spread over decades does not cause acute marrow failure
   (SQ-09).
 - *Insight:* Radiation dosimetry; stochastic versus deterministic effects.
+- *Literature check (2026-10-17):* about 4.2 mSv a year is above present-day
+  averages for nuclear plant workers (about 1 mSv) `[src: unscear2008,
+  japan-npp-dose2008]`; plausible only if early HTGR years were much higher.
+  The number stays the director's (SQ-08; `sources/science-claims.md` LC-5).
 
 **E03. The clinical course**
 - *Where / how:* Barts chart summary, released to Mara (D+6). Mara's own
@@ -83,7 +87,7 @@
   filed with the Directorate. Hale hands it over if the player is courteous
   and does not accuse him (Respect); otherwise by Appeal Bench order.
 - *Proves:* with the maximum aisle and contact dose rates on the map
-  *(placeholder, SQ-45)*, **dose rate × time** for 22 minutes gives at most a
+  *(placeholder, SQ-45)*, **dose rate × time** `[src: canteach-isl]` for 22 minutes gives at most a
   few millisieverts, even standing in contact with the hottest package the
   whole time. The vault cannot have delivered 3 to 4 Gy; it falls short by a
   factor of about a thousand.
@@ -131,7 +135,8 @@
   external dose well under 1 Gy, inconsistent with the uniform 3 to 4 Gy
   external dose HALCYON assumed.
 - *Does NOT prove:* an internal intake; interpreting this assay for internal,
-  non-uniform irradiation is difficult (SQ-20).
+  non-uniform irradiation is difficult (SQ-20;
+  `[src: iaea-biodos2011, ainsbury2023]`).
 - *Wrong theory:* T1 (if the player accepts "artefact").
 - *Insight:* Measurement and uncertainty; radiation dosimetry.
 
@@ -142,7 +147,8 @@
   department.
 - *Proves:* the counter was in calibration and found no significant internal
   contamination **of the kind it is built to detect**.
-- *Does NOT prove:* that there was no internal contamination (SQ-18, SQ-19).
+- *Does NOT prove:* that there was no internal contamination (SQ-18, SQ-19;
+  `[src: nrc-wbc]`).
   HALCYON treated it as if it did.
 - *Wrong theory:* T1.
 - *Insight:* Calibration and instrument integrity ("the instrument was right
@@ -157,7 +163,8 @@
   found the Vault 3 note and stopped. It down-weighted the biodosimetry under
   a configuration setting, "employer exposure record priority: high".
 - *Does NOT prove:* deliberate manipulation. The setting is B&C's standard
-  configuration for every worker and predates the case by years.
+  configuration for every worker and predates the case by years. (Automation
+  bias of this kind is documented `[src: parasuraman2010, goddard2012]`.)
 - *Wrong theory:* T2 (the setting looks sinister).
 - *Insight:* Measurement and uncertainty (reasoning backwards from a target).
 
@@ -194,7 +201,7 @@
   laboratory (the player must think of it, or be prompted by the Insight
   "independent replication"). Results in about four game days.
 - *Proves:* E13 is not an artefact of Voss's laboratory; removes the
-  conflict-of-interest objection (she was his partner).
+  conflict-of-interest objection (she was his partner) `[src: iso17025]`.
 - *Does NOT prove:* anything beyond E13.
 - *Wrong theory:* none; it disarms T4's evidential attack.
 - *Insight:* Measurement and uncertainty (replication, inter-laboratory
@@ -202,7 +209,8 @@
 
 **E15. Intake-date estimate**
 - *Where / how:* Voss and the reference laboratory fit the sample series
-  with a biokinetic model and decay correction (SQ-24, SQ-28).
+  with a biokinetic model and decay correction (SQ-24, SQ-28;
+  `[src: ideas2006, icrp130]`).
 - *Proves:* the intake most likely happened between D−21 and D−17, most
   likely D−19, **after** the vault entry (D−23). Timing excludes the vault a
   second, independent way.
@@ -214,7 +222,7 @@
 - *Where / how:* Voss compares the contaminant's isotopic and impurity
   fingerprint with (a) the Vault 3 material she measured in E08 and (b) the
   Metrology Institute's reference library of radiocatalysis feedstock classes
-  (SQ-29, SQ-30).
+  (SQ-29, SQ-30; `[src: mayer2005, iaea-nss2g]`).
 - *Proves:* the contaminant matches a class of radiocatalysis feedstock and
   **does not** match Erith Reach legacy material. **The death was not
   occupational at Erith Reach.**
@@ -372,6 +380,15 @@
 - *Wrong theory:* T3 (records were "doctored").
 - *Insight:* Calibration and instrument integrity (size of an error versus
   size of a discrepancy).
+- *Literature check (2026-10-17):* the ICRP accepts an overall accuracy of a
+  factor of 1.5 either way near the dose limits, and real services'
+  uncertainties near 20 mSv were 14–40 % `[src: icrp75-via-apac2020]`, so a
+  12 % bias is inside tolerance and might pass an intercomparison
+  `[src: eurados-ic]`. Proposed fix (owner's choice): make the error clearly
+  out of tolerance, or keep 12 % and make the secret "knew of a systematic
+  bias and chose not to correct past records", which accredited labs must act
+  on `[src: iso17025]`. Not changed here (SQ-41; `sources/science-claims.md`
+  LC-1).
 
 **E29. Julian's interview contradictions**
 - *Where / how:* any conversation with Julian after E25 is in hand.

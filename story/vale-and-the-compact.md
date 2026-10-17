@@ -49,7 +49,9 @@
 - **Where he is factually right.** He is right that sudden exposure of old
   wrongs can destabilise essential services; right that public trust in
   nuclear power is fragile and that its loss would cost lives; right that
-  some reformers would cause more harm than the abuses they oppose.
+  some reformers would cause more harm than the abuses they oppose. (That
+  concentrated supply of essential nuclear products is fragile is documented
+  `[src: nasem2016-mo99]`; the rest is `[unsourced]`.)
 - **Where his conclusions go wrong.** He treats people's right to know the
   truth about their own bodies, homes and dead as something to be rationed
   for their own good; he treats complicity as a manageable cost; he
@@ -136,7 +138,8 @@ first case supplies one (marked QD).
 2. Members in the bottom two rows are sympathetic and often recruitable as
    allies; exposing them carelessly should cost the player.
 3. Moving a character between cells over time (the junior who signed in 2158
-   rising to the top row in 2189) is the strongest kind of reveal.
+   rising to the top row in 2189) is the strongest kind of reveal. (How
+   newcomers are socialised into corruption: `[src: ashforth2003]`.)
 
 ## 6. How members act without Vale's orders
 
@@ -149,12 +152,15 @@ which leaves a different kind of evidence for the player:
    guess is a chance for a crime Vale never wanted.
 2. **Mutual holding of secrets.** Members know each other's compromises
    (cf. Milverton's trade in compromising letters,
-   text:the-return-of-sherlock-holmes.txt#L6226-L6232). Nobody leaves
+   text:the-return-of-sherlock-holmes.txt#L6226-L6232; compromising
+   information held as a hostage is documented among real criminal groups
+   `[src: gambetta2009]`). Nobody leaves
    because everybody can expose everybody. This is the "shared
    responsibility" motive made structural.
 3. **Anticipatory loyalty.** Members compete to solve problems before they
    reach Vale, because bringing him a problem is a sign of failure. The first
-   case's culprit acts partly from this.
+   case's culprit acts partly from this. (Subordinates acting on what they
+   presume the leader wants: `[src: kershaw1993]`.)
 4. **Shields, not orders.** What the Compact provides most reliably is
    protection after the fact: lawyers, "lost" files, sympathetic
    appointments. Doyle's version: "money is found for his bail or his

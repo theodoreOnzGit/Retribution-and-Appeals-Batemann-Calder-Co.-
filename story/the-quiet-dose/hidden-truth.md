@@ -88,8 +88,8 @@ later joined the Compact (see `story/vale-and-the-compact.md` §4).
 **What is and is not true about the harm.** The deposition was real and above
 the action level. Whether it made anyone in Belvedere Flats ill is genuinely
 uncertain: the expected effects of such exposures are statistical increases in
-long-term risk, not individual cases anyone could point to. The story should
-not claim more than that (SQ-39). What is certain is that the families were
+long-term risk, not individual cases anyone could point to
+`[src: icrp103, icrp147]`. The story should not claim more than that (SQ-39). What is certain is that the families were
 denied the relocation, monitoring and compensation the law required.
 
 ### A.2 Why it surfaced in 2188
@@ -119,6 +119,16 @@ gave no order. Julian acted on what he believed the system needed and on what
 he needed. He sits in the "shared responsibility, high culpability" cell of
 the Compact member map.
 
+> **Literature check (2026-10-17).** Each ingredient of the motive has
+> support: escalating commitment when one is personally responsible for a bad
+> outcome `[src: staw1976, sleesman2012]`; self-justification that the harm
+> serves a worthy end `[src: bandura1999]`; and in homicidal poisoning the
+> offender is usually personally involved with the victim and often a
+> caregiver `[src: steckflynn2007]`. No study was found on how often people
+> kill a friend to prevent exposure of an old wrong `[unsourced]`. Suggestion:
+> strengthen the escalation (each concealment makes the next necessary)
+> rather than add motives. (`sources/behaviour-claims.md` LB-1.)
+
 ### A.4 Timeline
 
 D0 is the day of Elias's death. "B&C" is the provisional employer.
@@ -137,7 +147,7 @@ D0 is the day of Elias's death. "B&C" is the provisional employer.
 | D−19 (Thursday the 6th), evening | **The monthly dinner** (first Thursday of the month) at Julian's flat in Woolwich Reach, a ritual of thirty years. Julian always cooks; Elias always brings the wine (established in the opening chapter). Julian says he will be ready by the 14th. **Elias's intake of the contaminant occurs during this evening.** The story never shows or describes how. | Julian |
 | D−18, 07:40 | Julian's household system books an urgent professional deep clean of the flat for that afternoon. He has never booked one before. | Julian |
 | D−17 | Elias attends a Line Crews' Union meeting in Belvedere Flats, where Tobias Crane publicly accuses him of "signing away the Reach". Afterwards, in the car park, Elias tells Crane privately: "Give me two weeks, Tobias, and the Reach will have what it needs." | Crane, many witnesses (the quarrel only) |
-| D−16 to D−13 | Elias has nausea and fatigue; thinks it is a stomach bug. Mara notices he is not eating. | Mara |
+| D−16 to D−13 | Elias has nausea and fatigue; thinks it is a stomach bug `[src: nathwani2016]`. Mara notices he is not eating. | Mara |
 | D−12 | Elias collapses at work and is admitted to Barts. Barts' diagnostic system requests his occupational exposure assessment from B&C. **HALCYON** reads his dose record, sees Hale's Vault 3 note, and estimates from his blood counts an **acute whole-body external dose of 3 to 4 Gy**, which it attributes to the Vault 3 entry "plus cumulative occupational exposure". A whole-body count is performed: **negative**. A blood sample is sent for **biodosimetry** (chromosome analysis). | Barts, HALCYON |
 | D−11 | Elias is sedated as his condition worsens. Barts finds that his **medical proxy**, designated in 2171 when Ruth was dying and Mara was eleven, and never updated, is **Julian Marsh**. Dr Amari notes that biodosimetry may be inconsistent with HALCYON's estimate and suggests an **extended radiochemical bioassay**. HALCYON rates it "low diagnostic yield". Julian, as proxy, **declines further investigations** in favour of comfort-focused care. The 14th passes. | Barts, Julian |
 | D−10 to D−1 | Julian visits every day. Three times he asks Nurse Anand whether "the counter found anything, the whole-body one", and seems relieved by the answer. (Cf. Culverton Smith coming to watch his victim: text:his-last-bow-04-the-dying-detective.txt#L723-L725.) | Anand |
@@ -164,20 +174,23 @@ D0 is the day of Elias's death. "B&C" is the provisional employer.
    over about three weeks (SQ-12, SQ-13).
 3. **No dosimeter could have recorded this.** A personal dosimeter measures
    radiation arriving at the dosimeter from outside the body. It records
-   nothing about material inside the body (SQ-15).
+   nothing about material inside the body (SQ-15;
+   `[src: icrpaedia-hp, iaea-orp-internal]`).
 4. **The whole-body count was correctly performed and correctly negative**,
    because the instrument was not built to detect the radiation the
    contaminant gives off in measurable amounts outside the body (SQ-18,
-   SQ-19). It answered a different question from the one that mattered.
+   SQ-19; `[src: nrc-wbc, nathwani2016]`). It answered a different question from the one that mattered.
 5. **His urine and blood, kept in the Barts biobank, carried the evidence the
    whole time** (SQ-23 to SQ-27).
    Modelling the series of samples places the intake between **D−21 and
-   D−17, most likely D−19** (SQ-28). Three events fall in that window: the
+   D−17, most likely D−19** (SQ-28; method `[src: ideas2006]`, precision
+   `[unsourced]`). Three events fall in that window: the
    supper at Voss's lab (D−20), the dinner at Julian's (D−19) and the union
    meeting (D−17).
 6. **The contaminant has a chemical and isotopic fingerprint** that matches a
    class of radiocatalysis feedstock and **does not match** the Erith Reach
-   legacy material (SQ-29, SQ-30). It was not occupational.
+   legacy material (SQ-29, SQ-30; method `[src: mayer2005]`, feedstock an
+   extrapolation). It was not occupational.
 7. **The Directorate's source register shows one lot of that class**, from a
    radiocatalysis yard in Dagenham that went bankrupt in 2187, as "returned to
    supplier; verified J. Marsh". The supplier has no record of receiving it.
@@ -185,7 +198,8 @@ D0 is the day of Elias's death. "B&C" is the provisional employer.
    register discrepancy is all the story needs.
 8. **Faint residual traces with the same fingerprint** remain in Julian's
    dining room and kitchen despite the deep clean, at levels of no hazard to
-   anyone, detectable only by a forensic survey under court order (SQ-31).
+   anyone, detectable only by a forensic survey under court order (SQ-31;
+   precedent `[src: litvinenko2016]`).
    Elias's bathroom at home carries traces from after D−19, consistent with
    an internal intake on or before that date. No matching traces are found at
    Voss's lab, the union hall, Elias's car or his office.
@@ -193,7 +207,10 @@ D0 is the day of Elias's death. "B&C" is the provisional employer.
 ### A.6 How the official story was built (nobody needed to lie except Julian)
 
 This is the case's main idea: **the official story was built by honest
-institutions reasoning from the wrong instrument.**
+institutions reasoning from the wrong instrument.** Real precedents for
+each habit: a legal presumption that the computer is right
+`[src: marshall2021, bates2019]`, automation bias in experts
+`[src: parasuraman2010]` and confirmation bias `[src: nickerson1998]`.
 
 - Hale filed a true notification and a true note.
 - HALCYON reasoned **backwards from a target**: it estimated a dose from the

@@ -84,6 +84,9 @@ guilty of the lesser crime.
   He corrected it going forward and quietly did not back-correct the records,
   because it would have pushed eleven workers over their annual dose
   constraint on paper and cost B&C a contract penalty.
+- *Literature check (2026-10-17):* a 12 % bias is inside the accuracy the
+  ICRP accepts near the limits `[src: icrp75-via-apac2020]`; see E28's note
+  for the proposed fix.
 
 **What clears him**
 - E05 + E07: the vault entry he flagged did no harm; nothing in his records

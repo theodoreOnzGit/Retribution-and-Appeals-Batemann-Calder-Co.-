@@ -25,6 +25,14 @@
 
 Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the owner's food-and-water economy; they sit in group G).
 
+**Sources (added 2026-10-17).** Each answer now ends with a *Sources* line
+giving its literature status (grounded, partly grounded, extrapolation,
+unsourced) and keys into `sources/bibliography.md`; the full table, with the
+claims found in the drafts beyond these 58, is `sources/science-claims.md`.
+Where the literature disagrees with an answer, a *Literature check* line says
+so (SQ-08, SQ-14, SQ-41, SQ-57, SQ-58); SQ-56 carries a struck-through fact
+correction. The answers themselves are otherwise unchanged.
+
 ---
 
 ## A. Dose quantities
@@ -34,6 +42,7 @@ Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the o
 - *Answer:* energy deposited per unit mass of matter, in gray
   (1 Gy = 1 J/kg). It is a physical quantity and applies to any material.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: bipm-cipm1984, icrp103]`. See `sources/science-claims.md`.
 
 **SQ-02. What is equivalent dose, and how does it differ from absorbed dose?**
 - *Used in:* the dosimetry Insight sequence; internal dose discussion.
@@ -43,6 +52,7 @@ Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the o
   Unit: sievert. It is a protection quantity for stochastic risk, not a
   measured physical quantity.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: icrp103, icrp147]`. See `sources/science-claims.md`.
 
 **SQ-03. What is effective dose, and what is it *not* for?**
 - *Used in:* E02 (lifetime record in effective dose); the error HALCYON
@@ -52,6 +62,7 @@ Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the o
   for a reference person and **is not appropriate for assessing deterministic
   effects (tissue reactions) in an individual**, nor for acute high doses.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: icrp147, icrp103, iaea-gsg2]`. See `sources/science-claims.md`.
 
 **SQ-04. For acute radiation injury, which quantity should a physician use?**
 - *Used in:* E01, E09, E14; Voss's explanations.
@@ -59,6 +70,7 @@ Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the o
   weighting for high-LET radiation where appropriate (the IAEA uses
   "RBE-weighted absorbed dose", Gy-Eq). Not sievert.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: iaea-gsg2]`. See `sources/science-claims.md`.
 
 **SQ-05. What is committed dose, and why does it matter for an intake?**
 - *Used in:* E13, E15.
@@ -68,6 +80,7 @@ Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the o
   "commits" the body to a dose that no later action at the dosimeter can
   record.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* partly grounded; `[src: icrpaedia-cd, iaea-orp-internal]`. See `sources/science-claims.md`.
 
 **SQ-06. Is "dose = dose rate × time" (with distance) the right first lesson,
 and what dose rate should the cask-lane boundary have?**
@@ -81,6 +94,7 @@ and what dose rate should the cask-lane boundary have?**
   itself the breach. **Please set the number.**
 - *Confidence:* Medium on the arithmetic, Low on what is realistic.
   *Type:* Established (physics), Story (numbers).
+- *Sources (2026-10-17):* partly grounded; `[src: canteach-isl]`. See `sources/science-claims.md`.
 
 **SQ-07. What occupational dose limits should the setting use?**
 - *Used in:* world-bible §2.2 ("dose headroom"); Danny; E02.
@@ -88,6 +102,7 @@ and what dose rate should the cask-lane boundary have?**
   effective averaged over five years, no more than 50 mSv in any year. 2189
   regulators could differ.
 - *Confidence:* High on current values. *Type:* Practice, Speculative.
+- *Sources (2026-10-17):* grounded; `[src: iaea-gsr3, icrp103]`. See `sources/science-claims.md`.
 
 **SQ-08. Is a lifetime external effective dose of about 180 mSv over 43 years
 plausible for an engineer who started in an HTGR station?**
@@ -96,6 +111,8 @@ plausible for an engineer who started in an HTGR station?**
   average, higher in early operational years, lower in decommissioning).
   **Please set the number and its year-by-year shape.**
 - *Confidence:* Medium. *Type:* Story.
+- *Sources (2026-10-17):* partly grounded; `[src: unscear2008, japan-npp-dose2008]`. See `sources/science-claims.md` LC-5.
+- *Literature check (2026-10-17):* about 4.2 mSv/year is above present-day nuclear plant averages (about 1 mSv) `[src: unscear2008, japan-npp-dose2008]`.
 
 **SQ-09. Can cumulative low-dose occupational exposure over decades cause
 acute bone-marrow failure over a few weeks?**
@@ -106,6 +123,7 @@ acute bone-marrow failure over a few weeks?**
   radiation-associated leukaemia is a different clinical picture from
   acute radiation syndrome.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: icrp103, icrp118, waselenko2004]`. See `sources/science-claims.md`.
 
 **SQ-10. Is "probability of causation" a plausible basis for an
 occupational compensation scheme?**
@@ -116,6 +134,7 @@ occupational compensation scheme?**
   one to an acute death, as the coroner's fast-track does, is itself
   questionable, which the story can use.
 - *Confidence:* Medium. *Type:* Practice, Speculative.
+- *Sources (2026-10-17):* grounded; `[src: csrld, cfr42-81]`. See `sources/science-claims.md`.
 
 ## B. Clinical picture
 
@@ -129,6 +148,7 @@ syndrome from external whole-body exposure?**
   days: nausea, vomiting, fatigue), latent (apparent improvement), manifest
   illness, then recovery or death. Timing and severity scale with dose.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* partly grounded; `[src: rpor-ars, cdc-ars, waselenko2004]`. See `sources/science-claims.md`.
 
 **SQ-12. Can a large internal intake of a radionuclide produce a course of
 about three weeks from intake to death, with marrow failure and multi-organ
@@ -140,6 +160,7 @@ injury?**
   chemistry and the amount. **The director should confirm the course is
   consistent with whatever contaminant identity is chosen (SQ-21).**
 - *Confidence:* Medium. *Type:* Established (precedent), Story (fit).
+- *Sources (2026-10-17):* grounded; `[src: nathwani2016]`. See `sources/science-claims.md`.
 
 **SQ-13. If the intake is on D−19, do early symptoms around D−16 and
 collapse on D−12 fit?**
@@ -149,6 +170,7 @@ collapse on D−12 fit?**
   same course also roughly fits an exposure on D−23, which is why E03 cannot
   discriminate the vault from the dinner, as intended.
 - *Confidence:* Medium. *Type:* Story.
+- *Sources (2026-10-17):* partly grounded; `[src: nathwani2016, rpor-ars]`. See `sources/science-claims.md`.
 
 **SQ-14. Can a dose be estimated from blood counts, and what does that
 estimate assume?**
@@ -163,6 +185,8 @@ estimate assume?**
   HALCYON's estimate.**
 - *Confidence:* Medium on the method, Low on the numbers. *Type:*
   Established (method), Story (numbers).
+- *Sources (2026-10-17):* partly grounded; `[src: waselenko2004, iaea-biodos2011]`. See `sources/science-claims.md` LC-6.
+- *Literature check (2026-10-17):* marrow deaths fall in the manifest-illness phase, given as days 21–60 `[src: rpor-ars]`; the internal-intake precedent died on day 23 `[src: nathwani2016]`. This supports the flag; LD50 values were not confirmed.
 
 ## C. Instruments and what they record
 
@@ -176,6 +200,7 @@ estimate assume?**
   (e.g. most dosimeters do not respond to alpha particles, which cannot
   penetrate the badge or the skin).
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: icrpaedia-hp, iaea-orp-internal]`. See `sources/science-claims.md`.
 
 **SQ-16. Electronic versus passive dosimeters: what does each keep, and how
 reliable is a passive dosimeter readout weeks later?**
@@ -188,6 +213,7 @@ reliable is a passive dosimeter readout weeks later?**
   badge for transit and background dose. A careful lab would report the
   reading with an uncertainty and a minimum detectable dose.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: kry2016-tg191, nrc-transit, currie1968]`. See `sources/science-claims.md`.
 
 **SQ-17. What does a clean exit contamination monitor result prove?**
 - *Used in:* E06.
@@ -196,6 +222,7 @@ reliable is a passive dosimeter readout weeks later?**
   radiation types it detects. It is not designed to detect internal
   contamination and may not respond to some radiation types at all.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: orau-portal]`. See `sources/science-claims.md`.
 
 **SQ-18. What does a whole-body counter detect?**
 - *Used in:* opening chapter §5; E10.
@@ -204,6 +231,7 @@ reliable is a passive dosimeter readout weeks later?**
   gamma-emitting nuclides and largely blind to pure alpha or pure beta
   emitters unless they have usable photon emissions.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: nrc-wbc, iaea-unit6]`. See `sources/science-claims.md`.
 
 **SQ-19. Can a correctly calibrated whole-body counter give a true negative
 while the person carries a dangerous internal deposit?**
@@ -214,6 +242,7 @@ while the person carries a dangerous internal deposit?**
   type, not a calibration failure. **The director should confirm this holds
   for the chosen contaminant (SQ-21).**
 - *Confidence:* High (in general). *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: nrc-wbc, nathwani2016]`. See `sources/science-claims.md`.
 
 **SQ-20. What can biodosimetry (the dicentric chromosome assay) say in this
 case?**
@@ -227,6 +256,7 @@ case?**
   which seems safe. **Please confirm, and say what a real result would look
   like for the chosen contaminant.**
 - *Confidence:* Medium. *Type:* Established (method), Story (result).
+- *Sources (2026-10-17):* partly grounded; `[src: iaea-biodos2011, ainsbury2023]`. See `sources/science-claims.md`.
 
 ## D. The contaminant and bioassay
 
@@ -244,6 +274,7 @@ case?**
   A fictional nuclide is not recommended, because it breaks the "learn real
   science" promise (brief §10).
 - *Confidence:* n/a (a decision). *Type:* Story.
+- *Sources (2026-10-17):* n/a (a decision or review question, not a factual claim; not counted in `sources/science-claims.md`).
 
 **SQ-22. Does the organ distribution of an internal contaminant depend on its
 chemistry?**
@@ -253,6 +284,7 @@ chemistry?**
   marrow, or spread through soft tissue). The story should state only that
   the distribution is consistent with the chosen contaminant.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: icrp130]`. See `sources/science-claims.md`.
 
 **SQ-23. What does urine bioassay by radiochemistry measure, and how is a
 result reported?**
@@ -263,6 +295,7 @@ result reported?**
   uncertainty and a minimum detectable activity, and interpreted through a
   biokinetic model to estimate intake and dose.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: iaea-unit6, iso28218, currie1968, icrp130, iaea-srs37]`. See `sources/science-claims.md`.
 
 **SQ-24. How important are decay correction and sample stability over days
 to weeks of storage?**
@@ -272,6 +305,7 @@ to weeks of storage?**
   stability (e.g. losses to container walls), which labs control for with
   acidification and tracers. A defence lawyer would ask about both.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* partly grounded; `[src: astm-c1473]`. See `sources/science-claims.md`.
 
 **SQ-25. What does a sound chain of custody require for forensic samples?**
 - *Used in:* opening chapter §5; E13; branches §2.1.
@@ -279,6 +313,7 @@ to weeks of storage?**
   where and in what condition, with seals and signatures at each transfer,
   so that a court can be sure the measured sample is the collected sample.
 - *Confidence:* High. *Type:* Practice.
+- *Sources (2026-10-17):* grounded; `[src: nist-coc]`. See `sources/science-claims.md`.
 
 **SQ-26. Is splitting samples for an independent reference laboratory the
 right answer to a conflict of interest?**
@@ -287,6 +322,7 @@ right answer to a conflict of interest?**
   both traceable to common standards, is the standard way to make a result
   robust to challenges of bias or error.
 - *Confidence:* High. *Type:* Practice.
+- *Sources (2026-10-17):* grounded; `[src: iso17025, eurados-ic, chemworld2016]`. See `sources/science-claims.md`.
 
 **SQ-27. Is a 30-day hospital "diagnostic biobank" of routine samples
 plausible in 2189?**
@@ -295,6 +331,7 @@ plausible in 2189?**
   weeks for repeat testing; a systematic 30-day retention for AI
   retrospective review is a plausible extrapolation but is speculative.
 - *Confidence:* Low. *Type:* Speculative.
+- *Sources (2026-10-17):* extrapolation; `[src: rcpath2015]`. See `sources/science-claims.md`.
 
 **SQ-28. Can an intake date be estimated from a ~12-day series of samples
 taken from ~7 days after intake, and to what precision?**
@@ -305,6 +342,7 @@ taken from ~7 days after intake, and to what precision?**
   If it must be wider, the *Silver Blaze* deduction (E17) still works as long
   as the window excludes D−23 (the vault) and includes the three events.
 - *Confidence:* Low-Medium. *Type:* Established (method), Story (precision).
+- *Sources (2026-10-17):* partly grounded; `[src: ideas2006, iaea-unit9]`. See `sources/science-claims.md`.
 
 **SQ-29. Can the source of a radioactive material be traced by its isotopic
 and impurity fingerprint?**
@@ -314,6 +352,7 @@ and impurity fingerprint?**
   form to attribute material to a production route or class of source.
   Attribution to a class is more realistic than to a single lot.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: mayer2005, iaea-nss2g]`. See `sources/science-claims.md`.
 
 **SQ-30. Can legacy HTGR thorium-cycle material be distinguished from a
 2189 radiocatalysis feedstock by such a fingerprint?**
@@ -322,6 +361,7 @@ and impurity fingerprint?**
   specifics depend on what radiocatalysis feedstock is (SQ-38). Story
   assumption: they are clearly distinguishable.
 - *Confidence:* Low-Medium. *Type:* Speculative.
+- *Sources (2026-10-17):* extrapolation; `[src: mayer2005, iaea-tecdoc1450]`. See `sources/science-claims.md`.
 
 **SQ-31. Can residual traces of a contaminant be detected in a cleaned room
 weeks later?**
@@ -332,6 +372,7 @@ weeks later?**
   "faint, of no hazard". **Please confirm plausibility for the chosen
   contaminant over about four to five weeks.**
 - *Confidence:* Medium. *Type:* Established (precedent), Story (fit).
+- *Sources (2026-10-17):* grounded; `[src: litvinenko2016]`. See `sources/science-claims.md`.
 
 **SQ-32. Would an internally contaminated person leave detectable traces at
 home through excretion, and is it acceptable to depict?**
@@ -339,6 +380,7 @@ home through excretion, and is it acceptable to depict?**
 - *Answer:* yes, it is expected and was part of real investigations. The
   depiction is limited to "traces found by survey", which seems acceptable.
 - *Confidence:* Medium. *Type:* Established.
+- *Sources (2026-10-17):* partly grounded; `[src: iaea-unit6]`. See `sources/science-claims.md`.
 
 ## E. LFTR facts used
 
@@ -352,6 +394,7 @@ processing of the salt?**
   commercial scale today.
 - *Confidence:* Medium. *Type:* Established (concept), Speculative (2189
   maturity).
+- *Sources (2026-10-17):* grounded; `[src: haubenreich1970, msbr-recycle1970, serp2014]`. See `sources/science-claims.md`.
 
 **SQ-34. Is coupling an LFTR to a supercritical CO₂ Brayton cycle through an
 intermediate loop physically sensible?**
@@ -360,12 +403,14 @@ intermediate loop physically sensible?**
   700 °C) suit sCO₂ Brayton cycles, which have been studied for that
   purpose. An intermediate salt loop is usually assumed.
 - *Confidence:* Medium. *Type:* Established (studies), Speculative.
+- *Sources (2026-10-17):* partly grounded; `[src: dostal2004, yoo2021-msr-sco2]`. See `sources/science-claims.md`.
 
 **SQ-35. Is it reasonable that LFTR parks need fewer, more skilled operators,
 with maintenance of salt loops and heat exchangers contracted out?**
 - *Used in:* world-bible §3, §2.2.
 - *Answer:* a social-economic assumption, not physics. Plausible.
 - *Confidence:* Medium. *Type:* Story.
+- *Sources (2026-10-17):* partly grounded; `[src: thebaudmony2011]`. See `sources/science-claims.md`.
 
 ## F. HTGR and decommissioning facts used
 
@@ -377,6 +422,7 @@ Vrain); outlet temperatures high enough for process heat?**
   used thorium-bearing fuel; HTGR outlet temperatures of roughly 700 to
   950 °C make process heat a natural application.
 - *Confidence:* Medium-High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: inl-htgr-history, doe-qtr2015-htr, iaea-tecdoc1450]`. See `sources/science-claims.md`.
 
 **SQ-37. Can a 2188 measurement of 2158 clean-up waste show that a 2158
 survey under-reported deposition?**
@@ -387,6 +433,7 @@ survey under-reported deposition?**
   so the reconstruction rests on long-lived ones. **Please confirm and choose
   which nuclides the characterisation measures.**
 - *Confidence:* Medium. *Type:* Established (method), Story (application).
+- *Sources (2026-10-17):* partly grounded; `[src: garland2007, penney1957]`. See `sources/science-claims.md`.
 
 **SQ-43. Can a portable gamma spectrometer measure legacy waste package
 activity non-destructively, to within a useful uncertainty?**
@@ -395,6 +442,7 @@ activity non-destructively, to within a useful uncertainty?**
   matrix-attenuation corrections; uncertainties are often tens of per cent.
   The story needs the discrepancy to be large compared with that.
 - *Confidence:* Medium. *Type:* Established.
+- *Sources (2026-10-17):* partly grounded; `[src: nda-gamma-uncertainty, iaea-tecdoc1537]`. See `sources/science-claims.md`.
 
 **SQ-44. Is a standing "legacy measurement uncertainty correction" that
 absorbs large discrepancies plausible?**
@@ -403,6 +451,7 @@ absorbs large discrepancies plausible?**
   several would be hard to justify honestly. **Please set the size of the
   discrepancy** so that it is clearly beyond honest uncertainty.
 - *Confidence:* Low. *Type:* Story.
+- *Sources (2026-10-17):* extrapolation; `[src: nda-gamma-uncertainty, vaughan1996]`. See `sources/science-claims.md`.
 
 **SQ-45. What dose rates should Vault 3's survey map show?**
 - *Used in:* E05.
@@ -411,6 +460,7 @@ absorbs large discrepancies plausible?**
   contact, about a thousandth of 3 to 4 Gy. **Please set realistic values**;
   the story needs only that the vault falls short by orders of magnitude.
 - *Confidence:* Low (numbers). *Type:* Story.
+- *Sources (2026-10-17):* `[unsourced]` (no source found). See `sources/science-claims.md`.
 
 **SQ-46. Is a passive dosimeter reading of about 0.3 mSv consistent with 22
 minutes in that vault?**
@@ -418,6 +468,7 @@ minutes in that vault?**
 - *Answer:* yes with the SQ-45 placeholders (mostly aisle, some minutes near
   packages). Must be re-checked after SQ-45 is set.
 - *Confidence:* Medium (arithmetic). *Type:* Story.
+- *Sources (2026-10-17):* `[unsourced]` (no source found). See `sources/science-claims.md`.
 
 ## G. Radiocatalysis, legacy harm and labour
 
@@ -434,6 +485,7 @@ does it use?**
 - *Owner answer, 2026-10-17 (partial):* its headline product is ammonia at
   room temperature; the sources are made in molten-salt reactors and held by
   an oligopoly. Still open: SQ-56 to SQ-58.
+- *Sources (2026-10-17):* extrapolation; `[src: iaea-tecdoc1598, nordion2013, mu2024]`. See `sources/science-claims.md`.
 
 **SQ-39. What can honestly be said about the health effects of the 2158
 deposition on Belvedere Flats residents?**
@@ -444,6 +496,7 @@ deposition on Belvedere Flats residents?**
   story should say the families were denied relocation, monitoring and
   compensation, and that harm to individuals is uncertain.
 - *Confidence:* Medium. *Type:* Established (principle), Story.
+- *Sources (2026-10-17):* grounded; `[src: icrp103, icrp147]`. See `sources/science-claims.md`.
 
 **SQ-40. Is a labour market in "dose headroom" plausible?**
 - *Used in:* world-bible §2.2; opening chapter §2.
@@ -452,6 +505,7 @@ deposition on Belvedere Flats residents?**
   exaggerated version is a plausible extrapolation. The director may prefer
   to soften it.
 - *Confidence:* Medium. *Type:* Speculative.
+- *Sources (2026-10-17):* extrapolation; `[src: thebaudmony2011, fukushima-leadcovers2012]`. See `sources/science-claims.md`.
 
 **SQ-41. Is a 12 % dosimeter-reader under-reading for 18 months plausible,
 and how would it be found?**
@@ -460,6 +514,8 @@ and how would it be found?**
   dosimeters or an intercomparison. **Please set the size and how it was
   found.**
 - *Confidence:* Medium. *Type:* Established (QC practice), Story (numbers).
+- *Sources (2026-10-17):* partly grounded; `[src: icrp75-via-apac2020, eurados-ic, iso17025]`. See `sources/science-claims.md` LC-1.
+- *Literature check (2026-10-17):* 12 % is inside the factor-of-1.5 accuracy the ICRP accepts near the limits, and real services' uncertainties near 20 mSv were 14–40 % `[src: icrp75-via-apac2020]`; an intercomparison might not flag it `[src: eurados-ic]`. Set the error clearly out of tolerance, or make the secret a known bias left uncorrected `[src: iso17025]`.
 
 **SQ-42. (Option B only.) Would a partial-body external exposure from one
 direction leave asymmetric skin changes useful for reconstruction?**
@@ -467,20 +523,30 @@ direction leave asymmetric skin changes useful for reconstruction?**
 - *Answer:* yes, at sufficient skin dose; erythema and later changes map
   the field's geometry, and are used in accident reconstruction.
 - *Confidence:* Medium. *Type:* Established.
+- *Sources (2026-10-17):* unsourced; `[src: icrp118]`. See `sources/science-claims.md`.
 
 **SQ-56. How plausible is radiation-driven ammonia synthesis at room
 temperature, and at what scale?**
 - *Used in:* world-bible §2.1, §5 (owner canon).
-- *Answer:* radiation-induced reaction of nitrogen and hydrogen has been
+- *Answer:* ~~radiation-induced reaction of nitrogen and hydrogen has been
   studied since the mid-20th century and does produce ammonia without high
-  temperature, but measured yields per unit of absorbed energy have been low,
-  far from competing with the Haber–Bosch process. A 2189 industry at food
+  temperature~~ **corrected 2026-10-17 [src: harteck1956,
+  ubc1971-n2radiolysis, mu2024]** radiation-driven nitrogen fixation has been
+  studied since the 1950s (first as nitrogen oxides from air); ammonia has
+  been made by gamma radiolysis of nitrogen dissolved in water, and in 2024 at
+  ambient temperature from nitrogen and water with a ruthenium catalyst, but
+  measured yields per unit of absorbed energy have been low, far from
+  competing with the Haber–Bosch process (best reported about 0.56 g NH₃ per
+  MJ against about 36 g per MJ for a modern plant, roughly 60 times less
+  `[src: mu2024, ifa2009]`; a national-laboratory test was inconclusive
+  `[src: pnnl2022]`). A 2189 industry at food
   scale is therefore speculative engineering: it needs either much better
   yields (e.g. catalysts or surfaces that raise them) or energy so cheap that
   poor yield does not matter, which fits the setting. **Please set which
   story the world tells.**
 - *Confidence:* Medium on the history, Low on scale. *Type:* Established
   (that the reaction occurs), Speculative (industrial scale).
+- *Sources (2026-10-17):* extrapolation; `[src: mu2024, pnnl2022, ubc1971-n2radiolysis, rsc1990-colloid, harteck1956, ifa2009]`. See `sources/science-claims.md` LC-2.
 
 **SQ-57. What can irradiation do to make toxic water safe, and what can it
 not do?**
@@ -494,6 +560,8 @@ not do?**
   a works would not use them. **Please confirm which contaminants New
   London's water carries**, since that decides how much the sources matter.
 - *Confidence:* Medium. *Type:* Established (present-day techniques).
+- *Sources (2026-10-17):* partly grounded; `[src: iaea-tecdoc1598, abdelrahman2020, han-daegu, isfahan-gamma, codex106]`. See `sources/science-claims.md` LC-3.
+- *Literature check (2026-10-17):* "not radioactive" holds within the radiation-processing energy limits (Co-60 or Cs-137 gamma; X-rays ≤ 5 MeV; electrons ≤ 10 MeV, where converters can start to produce photoneutrons) `[src: codex106]`. The statement that irradiation does not remove dissolved metals and salts was not confirmed by any source found `[unsourced]`. Industrial scale is real: an electron-beam plant treats 10 000 m³ of dyeing wastewater a day `[src: han-daegu]`; gamma disinfection costs about ten times chlorine `[src: purdue-gamma]`.
 
 **SQ-58. What makes MSR-produced sources an oligopoly rather than a
 commodity?**
@@ -505,6 +573,8 @@ commodity?**
   canon**, since they decide what reform could break the oligopoly without
   cutting off food and water (the brief's §8 question).
 - *Confidence:* Medium. *Type:* Story convention.
+- *Sources (2026-10-17):* extrapolation; `[src: nordion2013, nti2017, nasem2016-mo99, nrc2008-sources, ornl-tm3464, mo99-msr2024]`. See `sources/science-claims.md` LC-4.
+- *Literature check (2026-10-17):* real gamma-source supply is already an oligopoly: Co-60 is made in a few power reactors under long-term contracts, Cs-137 has one exporting country `[src: nordion2013, nti2017]`, and a few aging reactors supply a key medical isotope, with shortages when they fail `[src: nasem2016-mo99]`. Co-60 decays about 12 % a year, so dependence recurs `[src: nordion2013]`. The "incumbents wrote the rules" lever has a documented counterpart in regulatory capture `[src: stigler1971, naiic2012]`.
 
 ## H. Reasoning claims the story makes about science
 
@@ -514,6 +584,7 @@ with an occupational record in effective dose (Sv)?**
 - *Answer:* yes as a realistic error; the two are different quantities and
   cannot simply be added. The story should have Voss point it out.
 - *Confidence:* High. *Type:* Established.
+- *Sources (2026-10-17):* grounded; `[src: bipm-cipm1984, icrp147, iaea-gsg2]`. See `sources/science-claims.md`.
 
 **SQ-48. Is "reasoning backwards from a target dose to find an event big
 enough" a recognisable failure mode?**
@@ -523,6 +594,7 @@ enough" a recognisable failure mode?**
   owner's own stated process rule, "never reason backwards from a target
   number".
 - *Confidence:* High. *Type:* Story (and good practice).
+- *Sources (2026-10-17):* grounded; `[src: nickerson1998, kassin2013]`. See `sources/science-claims.md`.
 
 **SQ-49. Should every quoted measurement in the game carry an uncertainty and
 detection limit?**
@@ -530,6 +602,7 @@ detection limit?**
 - *Answer:* recommended: yes, in the evidence journal (even if dialogue
   rounds), so the "measurement and uncertainty" Insight has material.
 - *Confidence:* n/a (a design proposal). *Type:* Story.
+- *Sources (2026-10-17):* grounded; `[src: currie1968, iso28218, nist-gmp13]`. See `sources/science-claims.md`.
 
 **SQ-50. Does the evidence, as designed, avoid implying that measurements
 establish intent?**
@@ -537,6 +610,7 @@ establish intent?**
 - *Answer:* the agent believes so: the physics proves a non-occupational
   internal intake; who and why rest on records and testimony. Please review.
 - *Confidence:* Medium. *Type:* Story.
+- *Sources (2026-10-17):* n/a (a decision or review question, not a factual claim; not counted in `sources/science-claims.md`).
 
 ## I. Medical-process claims
 
@@ -548,6 +622,7 @@ the outcome?**
   claim Elias could have been saved, only that the truth could have been
   known. **Please advise.**
 - *Confidence:* Low. *Type:* Established (principle), Story.
+- *Sources (2026-10-17):* partly grounded; `[src: ncrp161, dainiak2011]`. See `sources/science-claims.md`.
 
 **SQ-52. Is it plausible that a hospital's protocol, given an employer's
 exposure assessment and a negative whole-body count, would not order
@@ -558,6 +633,7 @@ radiochemical bioassay?**
   a better protocol might be expected; the story makes the omission partly
   configuration (HALCYON) and partly the proxy's refusal.
 - *Confidence:* Medium. *Type:* Story.
+- *Sources (2026-10-17):* grounded; `[src: nathwani2016, litvinenko2016]`. See `sources/science-claims.md`.
 
 **SQ-53. Can a medical proxy decline optional diagnostic tests in favour of
 comfort care?**
@@ -566,6 +642,7 @@ comfort care?**
   wishes. A forensic test ordered by a coroner or police would be different.
   The 2189 rule is invented.
 - *Confidence:* Medium. *Type:* Practice, Speculative.
+- *Sources (2026-10-17):* grounded; `[src: mca2005, shalowitz2006]`. See `sources/science-claims.md`.
 
 ## J. Measurement provenance and calibration
 
@@ -576,6 +653,7 @@ right way to show instrument integrity in court?**
   national standards, with stated uncertainties and accreditation, is the
   standard basis.
 - *Confidence:* High. *Type:* Practice.
+- *Sources (2026-10-17):* grounded; `[src: nist-gmp13, iso17025]`. See `sources/science-claims.md`.
 
 **SQ-55. Can impurity-based "age dating" (time since last purification) help
 match a material to a lot record?**
@@ -584,6 +662,7 @@ match a material to a lot record?**
   decay products; whether it applies depends on the contaminant. It could
   narrow class-level attribution towards the 2187 lot.
 - *Confidence:* Medium. *Type:* Established (method), Story (fit).
+- *Sources (2026-10-17):* grounded; `[src: stanley2012, mayer2005]`. See `sources/science-claims.md`.
 
 ---
 

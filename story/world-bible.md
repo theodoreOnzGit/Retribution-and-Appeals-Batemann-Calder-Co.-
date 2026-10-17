@@ -86,6 +86,22 @@ scarce, and therefore what divides people, is:
    disruption to source supply is a disruption to bread and drinking water.
    *Which companies make up the oligopoly, and whether Batemann & Calder is
    one, is not decided (§8).*
+   That synthetic nitrogen feeds about half of humanity is documented
+   `[src: erisman2008, smil2001]`; that radiocatalysis can make ammonia at room
+   temperature is real at laboratory scale `[src: mu2024]`.
+
+   > **Literature check (2026-10-17).** Today's gamma sources are Co-60, made
+   > by neutron activation in a few power reactors, and Cs-137, a fission
+   > product only Russia still exports; their supply is already concentrated
+   > in a few firms `[src: nordion2013, nti2017]`. MSR off-gas systems
+   > separate fission products routinely, and extracting isotopes from MSRs
+   > is a research proposal `[src: ornl-tm3464, mo99-msr2024]`, so MSR-made
+   > sources are an extrapolation of real practice. Co-60 loses about 12 % of
+   > its activity a year, so users must be resupplied `[src: nordion2013]`:
+   > the oligopoly's hold would be recurring, not one-off. Offered as support
+   > for the canon; nothing here changes it. (`sources/science-claims.md`
+   > LC-4.)
+
 1. **Access tiers, not kilowatt-hours.** Electricity is cheap per unit, but
    *guaranteed* supply is sold. A household on the **civic tier** gets cheap
    power that can be shed during peaks; a household on a **priority contract**
@@ -118,6 +134,10 @@ gives it a dark edge:
   turns a safety margin into a commodity and puts pressure on workers to keep
   their recorded doses low, by fair means or not.
   *(Proposal; science question SQ-40 asks whether this is plausible.)*
+  Real analogues: subcontracted workers carry most of the collective dose in
+  French plants, and in 2012 Fukushima workers' dosimeters were shielded with
+  lead so that they could keep working `[src: thebaudmony2011,
+  fukushima-leadcovers2012]`.
 
 ### 2.3 Classes, as people in the city would name them
 
@@ -181,15 +201,16 @@ decommissioning and politics.*
   **characterised** (measured and documented) before it can be packaged and
   moved. Characterisation is where the old records meet new measurements,
   and this proposal makes it the hinge of the first case: an old record can
-  be checked against the waste it describes. (SQ-36, SQ-37.)
+  be checked against the waste it describes. (SQ-36, SQ-37;
+  `[src: iaea-tecdoc1521, iaea-tecdoc1537]`.)
 - **Disputes the setting can use:**
   1. *Who pays.* Decommissioning trusts set up decades ago are underfunded;
      the station's original operator, its successors and the public all argue
-     about the shortfall.
+     about the shortfall. `[unsourced]`
   2. *Jobs.* Every package signed off brings closure nearer. Engineers who
      sign quickly are resented by the people whose jobs end with the station.
   3. *Old harms.* Communities beside the stations believe, sometimes rightly,
-     that past incidents were under-reported. Decommissioning measurements
+     that past incidents were under-reported `[src: garland2007, penney1957]`. Decommissioning measurements
      can confirm or refute them.
   4. *Heritage.* Some want a station preserved as a monument; others want the
      land.
@@ -200,8 +221,8 @@ decommissioning and politics.*
 |---|---|
 | **Electricity** | Transit, lighting, data halls, autonomous delivery. Brownouts on civic tier only. Grid tier is printed on tenancy contracts. |
 | **Process heat** | The Heatline: insulated pipeline corridors, warm pavements in winter near the works, district heat in public housing. Pipe-fitting is a respected trade. |
-| **Radiocatalysis and radiation chemistry** | **Owner canon (2026-10-17):** its headline product is **ammonia made at room temperature**, the base of all fertiliser, so radiocatalysis yards are the city's food supply. The radiation sources come from molten-salt reactors and are held by an oligopoly of a few companies. On the street: fenced yards and shielded halls, licensed source shipments through marked transit lanes, fertiliser depots with queues in a bad season. Yards keep interlock logs, area-monitor logs and source registers; inspectors audit them. *The chemistry and the source types are speculative engineering for the scientific director (SQ-38, SQ-56).* |
-| **Water purification** | **Owner canon (2026-10-17):** radioactive sources purify otherwise toxic water for drinking and farming. Treatment works sit beside reservoirs and irrigation intakes; the same oligopoly controls the sources, so water, like food, is owned. *What irradiation can and cannot remove is for the scientific director (SQ-57).* |
+| **Radiocatalysis and radiation chemistry** | **Owner canon (2026-10-17):** its headline product is **ammonia made at room temperature**, the base of all fertiliser, so radiocatalysis yards are the city's food supply. The radiation sources come from molten-salt reactors and are held by an oligopoly of a few companies. On the street: fenced yards and shielded halls, licensed source shipments through marked transit lanes, fertiliser depots with queues in a bad season. Yards keep interlock logs, area-monitor logs and source registers; inspectors audit them. *The chemistry and the source types are speculative engineering for the scientific director (SQ-38, SQ-56).* Extrapolation from laboratory radiocatalysis, which today is about 60 times less energy-efficient than Haber–Bosch per unit of absorbed radiation energy `[src: mu2024, pnnl2022, ifa2009]`. |
+| **Water purification** | **Owner canon (2026-10-17):** radioactive sources purify otherwise toxic water for drinking and farming. Treatment works sit beside reservoirs and irrigation intakes; the same oligopoly controls the sources, so water, like food, is owned. *What irradiation can and cannot remove is for the scientific director (SQ-57).* Real today at industrial scale for organics and disinfection `[src: iaea-tecdoc1598, han-daegu]`. |
 
 Everyday radiation literacy: in this proposal, city people know the word
 "dosimeter" the way we know "smoke alarm". Workers wear them; most citizens
@@ -244,12 +265,18 @@ only a word:
    registered radiation worker it may use a **fast-track occupational
    docket**: if the employer's records and a licensed medical AI agree on an
    occupational cause, the coroner can record it on the papers within days.
+   (Real analogue: documentary inquests and inquests in writing
+   `[src: coroners-r23]`.)
 2. **The Occupational Dose Compensation Scheme** (no-fault, publicly
    administered, funded by a levy on operators) pays out automatically on an
    occupational finding, **provided the finding is not appealed within 28
-   days.** An appeal suspends the award.
+   days.** An appeal suspends the award. (Real analogue: the UK's voluntary,
+   no-fault Compensation Scheme for Radiation-Linked Diseases, since 1982,
+   which pays on a probability of causation from employer dose records
+   `[src: csrld]`; suspension on appeal is invented `[unsourced]`.)
 3. **The Coroner's Appeal Bench** hears appeals against findings. It cannot
-   convict anyone; it can quash a finding and order a fresh inquest, refer a
+   convict anyone; it can quash a finding and order a fresh inquest (as the
+   High Court can today `[src: coroners1988-s13, hillsborough-quash2012]`), refer a
    matter to the police, and order records preserved or premises surveyed.
 4. **Licensed appeal investigators** are private investigators registered
    with the Appeal Bench. Retained by an appellant, they may apply for
@@ -274,7 +301,7 @@ radiocatalysis yards and radioactive sources; inspects; receives mandatory
 notifications from operators; and keeps the national source register (where
 every licensed source is, and where it went when it was disposed of). Its
 inspectors are respected and few. A senior inspector's countersignature on a
-disposal record is treated as final.
+disposal record is treated as final `[unsourced]`.
 
 **The Metrology Institute** keeps the national measurement standards that
 instrument calibrations trace back to. It is the referee nobody thinks
@@ -284,7 +311,8 @@ about until two laboratories disagree.
 
 - **St Bartholomew's Civic Hospital** (Barts), public, with a licensed
   medical AI and a 30-day **diagnostic biobank** that keeps routine samples
-  for retrospective review (proposal; SQ-27).
+  for retrospective review (proposal; SQ-27; extrapolation from published
+  specimen-retention practice `[src: rcpath2015]`).
 - **Occupational-health providers** contracted by employers, with their own
   corporate medical AI.
 - **Small independent laboratories**, often philanthropically funded, which

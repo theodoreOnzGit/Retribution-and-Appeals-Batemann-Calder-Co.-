@@ -186,11 +186,6 @@
 - **ID:** URL https://ww.nuceng.ca/canteach-rev2/library/20051604.pdf
 - **Establishes:** The inverse-square law applies to gamma radiation from point sources (largest dimension under about a fifth of the distance), not to beams; dose accumulates as dose rate multiplied by stay time.
 
-### `cember2009`
-- **Reference:** Cember H, Johnson TE (2009). *Introduction to Health Physics*, 4th ed. McGraw-Hill Medical.
-- **ID:** ISBN 978-0-07-142308-3
-- **Establishes:** Standard health-physics textbook; recorded as the textbook reference for dose rate, time, distance and shielding. **Contents not checked in this session** (only the edition was confirmed), so no claim rests on it alone.
-
 ## 4. Internal monitoring and bioassay
 
 ### `icrp130`

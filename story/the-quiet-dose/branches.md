@@ -119,7 +119,7 @@ evidence and does different things:
 |---|---|---|
 | **D+18 biobank retention** (earliest samples) | Samples are lost one day at a time (each 30 days after collection); an order obtained at D+24, say, keeps only D−6 onward. The intake window widens to about D−23 to D−15 and now includes the vault entry. | E16 (provenance) still excludes Erith Reach material, so the vault is excluded on chemistry instead of timing. The player must reason a step further. |
 | **D+29 biobank retention** (all samples) | No bioassay. | Contamination surveys (E18) of Elias's home still find the contaminant; Voss can analyse those. Weaker, slower, still sufficient for the Bench to quash the finding. |
-| **D+28 appeal deadline** | The compensation pays out; the finding stands. | The Bench accepts an out-of-time appeal "on fresh evidence of a crime". Slower; Julian is confirmed as Chief Inspector meanwhile. |
+| **D+28 appeal deadline** | The compensation pays out; the finding stands. | The Bench accepts an out-of-time appeal "on fresh evidence of a crime" (cf. the real fresh-evidence route `[src: coroners1988-s13, hillsborough-quash2012]`). Slower; Julian is confirmed as Chief Inspector meanwhile. |
 | **D+30 Julian's confirmation** | He becomes Chief Inspector. | He is harder to investigate (Directorate disclosure now passes through his office) but not untouchable; Okafor can still act on E18 to E22. A Chief Inspector arrested is a bigger story. |
 
 ## 4. Endings of the case
@@ -128,7 +128,7 @@ evidence and does different things:
 |---|---|---|
 | **E-α. The finding stands** | Nothing, or chose not to appeal | Mara is paid. Julian becomes Chief Inspector and is warm to the player. The Vault 3 measurements are lost unless Voss keeps them. In a later case, a second death on the Reach can reopen everything. |
 | **E-β. The finding is quashed** | Questions 1 to 3 of the solution chain: non-occupational internal intake | New finding: death from internal radioactive contamination of non-occupational origin, manner undetermined; referred to police. Compensation void. Mara has the truth about the cause but not the person. The case stays open as a thread. |
-| **E-γ. Julian is charged** | Questions 1 to 5 | Okafor arrests him. The Crown prosecution's success is not guaranteed (the defence attacks chain of custody and motive). His confirmation is withdrawn. |
+| **E-γ. Julian is charged** | Questions 1 to 5 | Okafor arrests him. The Crown prosecution's success is not guaranteed (the defence attacks chain of custody and motive `[src: nist-coc, kassin2013]`). His confirmation is withdrawn. |
 | **E-δ. Julian is charged and 2158 is exposed** | All six questions, with E25 and E27 made public | As E-γ, and the Directorate reopens Belvedere Flats. Elias's own complicity becomes public. Some Reach families are paid; the decommissioning settlement is renegotiated; the Belvedere redevelopment stalls for a year. Vale responds (open, `vale-and-the-compact.md` §8). |
 
 ### 4.1 Two choices inside the endings

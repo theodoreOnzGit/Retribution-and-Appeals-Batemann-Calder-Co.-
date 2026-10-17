@@ -152,10 +152,10 @@ check" note beside the claim in the draft.
 |---|---|---|---|---|
 | SQ-21 | Whether and how to name the contaminant | *n/a* | | A decision. |
 | SQ-22 | Organ distribution depends on element and chemical form | grounded | icrp130 | |
-| SQ-23 | Urine radiobioassay: chemical separation, counting, reported with uncertainty and MDA, interpreted with a biokinetic model | grounded | iaea-unit6, iso28218, currie1968, icrp130 | |
+| SQ-23 | Urine radiobioassay: chemical separation, counting, reported with uncertainty and MDA, interpreted with a biokinetic model | grounded | iaea-unit6, iso28218, currie1968, icrp130, iaea-srs37 | |
 | SQ-24 | Decay correction to collection time; storage losses controlled by acidification and tracers | partly grounded | astm-c1473 | Tracer-yield practice grounded; container-wall losses and acidification practice for radiobioassay not confirmed. |
 | SQ-25 | Chain of custody: documented record of each handler, time and transfer | grounded | nist-coc | |
-| SQ-26 | Split samples to an independent accredited laboratory answer a conflict of interest | grounded | iso17025, eurados-ic | Interlaboratory comparison is the standard check. |
+| SQ-26 | Split samples to an independent accredited laboratory answer a conflict of interest | grounded | iso17025, eurados-ic, chemworld2016 | Interlaboratory comparison is the standard check; in the Litvinenko investigation a first indication was confirmed by a second laboratory technique before being accepted. |
 | SQ-27 | A 30-day hospital diagnostic biobank in 2189 | extrapolation | rcpath2015 | Real labs keep specimens to published retention schedules; routine-sample retention periods not confirmed; 30 days for AI review is invented. |
 | SQ-28 | Intake date estimable from a ~12-day series; ±2 days may be optimistic | partly grounded | ideas2006, iaea-unit9 | Fitting an unknown intake date is standard; precision unsourced. |
 | SQ-29 | Isotopic and impurity fingerprints trace material to a production route or class | grounded | mayer2005, iaea-nss2g | |
@@ -193,7 +193,7 @@ check" note beside the claim in the draft.
 | SQ-42 | (Option B) partial-body exposure leaves asymmetric skin changes | unsourced | icrp118 | ICRP 118 sets tissue-reaction thresholds, but skin specifics were not confirmed. |
 | SQ-56 | Radiation-driven ammonia at room temperature; low yields historically | extrapolation | mu2024, pnnl2022, ubc1971-n2radiolysis, rsc1990-colloid, harteck1956, ifa2009 | **LC-2** (corrected). Real at lab scale from N2 and water; about 60× less energy-efficient than Haber–Bosch; food scale is extrapolation. |
 | SQ-57 | Gamma and e-beam disinfect water and break down organics; do not remove dissolved metals or salts; do not make water radioactive | partly grounded | iaea-tecdoc1598, abdelrahman2020, han-daegu, isfahan-gamma, codex106 | **LC-3**: metals/salts clause unsourced; "not radioactive" holds within energy limits. |
-| SQ-58 | MSR-made sources held by an oligopoly | extrapolation | nordion2013, nti2017, nasem2016-mo99, ornl-tm3464, mo99-msr2024 | **LC-4**: today's sources are reactor-made and their supply is already concentrated; MSR production is a reasonable extension. |
+| SQ-58 | MSR-made sources held by an oligopoly | extrapolation | nordion2013, nti2017, nasem2016-mo99, nrc2008-sources, ornl-tm3464, mo99-msr2024 | **LC-4**: today's sources are reactor-made and their supply is already concentrated; MSR production is a reasonable extension. |
 
 ## H. Reasoning claims
 
