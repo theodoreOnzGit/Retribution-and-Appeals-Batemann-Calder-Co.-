@@ -1,0 +1,61 @@
+# id	collection	year	pg_ebook	title
+N1	novel	1887	244	A Study in Scarlet
+N2	novel	1890	2097	The Sign of the Four
+N3	novel	1902	2852	The Hound of the Baskervilles
+N4	novel	1915	3289	The Valley of Fear
+ADV01	The Adventures of Sherlock Holmes	1892	1661	A Scandal in Bohemia
+ADV02	The Adventures of Sherlock Holmes	1892	1661	The Red-Headed League
+ADV03	The Adventures of Sherlock Holmes	1892	1661	A Case of Identity
+ADV04	The Adventures of Sherlock Holmes	1892	1661	The Boscombe Valley Mystery
+ADV05	The Adventures of Sherlock Holmes	1892	1661	The Five Orange Pips
+ADV06	The Adventures of Sherlock Holmes	1892	1661	The Man with the Twisted Lip
+ADV07	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Blue Carbuncle
+ADV08	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Speckled Band
+ADV09	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Engineer's Thumb
+ADV10	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Noble Bachelor
+ADV11	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Beryl Coronet
+ADV12	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Copper Beeches
+MEM01	The Memoirs of Sherlock Holmes	1894	834	Silver Blaze
+MEM02	The Memoirs of Sherlock Holmes	1894	2344	The Adventure of the Cardboard Box
+MEM03	The Memoirs of Sherlock Holmes	1894	834	The Yellow Face
+MEM04	The Memoirs of Sherlock Holmes	1894	834	The Stockbroker's Clerk
+MEM05	The Memoirs of Sherlock Holmes	1894	834	The "Gloria Scott"
+MEM06	The Memoirs of Sherlock Holmes	1894	834	The Musgrave Ritual
+MEM07	The Memoirs of Sherlock Holmes	1894	834	The Reigate Squire
+MEM08	The Memoirs of Sherlock Holmes	1894	834	The Crooked Man
+MEM09	The Memoirs of Sherlock Holmes	1894	834	The Resident Patient
+MEM10	The Memoirs of Sherlock Holmes	1894	834	The Greek Interpreter
+MEM11	The Memoirs of Sherlock Holmes	1894	834	The Naval Treaty
+MEM12	The Memoirs of Sherlock Holmes	1894	834	The Final Problem
+RET01	The Return of Sherlock Holmes	1905	108	The Adventure of the Empty House
+RET02	The Return of Sherlock Holmes	1905	108	The Adventure of the Norwood Builder
+RET03	The Return of Sherlock Holmes	1905	108	The Adventure of the Dancing Men
+RET04	The Return of Sherlock Holmes	1905	108	The Adventure of the Solitary Cyclist
+RET05	The Return of Sherlock Holmes	1905	108	The Adventure of the Priory School
+RET06	The Return of Sherlock Holmes	1905	108	The Adventure of Black Peter
+RET07	The Return of Sherlock Holmes	1905	108	The Adventure of Charles Augustus Milverton
+RET08	The Return of Sherlock Holmes	1905	108	The Adventure of the Six Napoleons
+RET09	The Return of Sherlock Holmes	1905	108	The Adventure of the Three Students
+RET10	The Return of Sherlock Holmes	1905	108	The Adventure of the Golden Pince-Nez
+RET11	The Return of Sherlock Holmes	1905	108	The Adventure of the Missing Three-Quarter
+RET12	The Return of Sherlock Holmes	1905	108	The Adventure of the Abbey Grange
+RET13	The Return of Sherlock Holmes	1905	108	The Adventure of the Second Stain
+BOW01	His Last Bow	1917	2350	The Adventure of Wisteria Lodge
+BOW02	His Last Bow	1917	2350	The Adventure of the Red Circle
+BOW03	His Last Bow	1917	2350	The Adventure of the Bruce-Partington Plans
+BOW04	His Last Bow	1917	2350	The Adventure of the Dying Detective
+BOW05	His Last Bow	1917	2350	The Disappearance of Lady Frances Carfax
+BOW06	His Last Bow	1917	2350	The Adventure of the Devil's Foot
+BOW07	His Last Bow	1917	2350	His Last Bow
+CAS01	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Illustrious Client
+CAS02	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Blanched Soldier
+CAS03	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Mazarin Stone
+CAS04	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Three Gables
+CAS05	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Sussex Vampire
+CAS06	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Three Garridebs
+CAS07	The Case-Book of Sherlock Holmes	1927	69700	The Problem of Thor Bridge
+CAS08	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Creeping Man
+CAS09	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Veiled Lodger
+CAS10	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of Shoscombe Old Place
+CAS11	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Retired Colourman
+CAS12	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Lion's Mane
