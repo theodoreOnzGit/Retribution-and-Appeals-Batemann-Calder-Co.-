@@ -74,6 +74,18 @@ without overcoming inequality" (§3). The proposal for making that concrete:
 **when energy stops being scarce, scarcity moves.** In New London what is
 scarce, and therefore what divides people, is:
 
+0. **Food and clean water: the deepest scarcity (OWNER CANON, 2026-10-17).**
+   Radiocatalysis makes ammonia at room temperature, and ammonia is
+   fertiliser. Radioactive sources also purify otherwise toxic water for
+   drinking and farming. The sources both depend on are made in molten-salt
+   reactors, and **a few companies hold an oligopoly on them**. So:
+   *whoever owns the ammonia owns the food, and whoever owns the food owns the
+   economy*; the same holds for water. Cheap electricity does not feed anyone;
+   source licences do. This is the economic engine under everything below,
+   and the clearest reason the Compact can claim it "prevents collapse": a
+   disruption to source supply is a disruption to bread and drinking water.
+   *Which companies make up the oligopoly, and whether Batemann & Calder is
+   one, is not decided (§8).*
 1. **Access tiers, not kilowatt-hours.** Electricity is cheap per unit, but
    *guaranteed* supply is sold. A household on the **civic tier** gets cheap
    power that can be shed during peaks; a household on a **priority contract**
@@ -188,7 +200,8 @@ decommissioning and politics.*
 |---|---|
 | **Electricity** | Transit, lighting, data halls, autonomous delivery. Brownouts on civic tier only. Grid tier is printed on tenancy contracts. |
 | **Process heat** | The Heatline: insulated pipeline corridors, warm pavements in winter near the works, district heat in public housing. Pipe-fitting is a respected trade. |
-| **Radiocatalysis and radiation chemistry** | Fenced yards and shielded halls where engineered radiation fields drive specialised chemical processes. Shipments of feedstock and sources move under licence through marked transit lanes. Yards keep interlock logs, area-monitor logs and source registers; inspectors audit them. *What radiocatalysis produces in 2189, and which radiation fields it uses, is speculative engineering for the scientific director (SQ-38).* |
+| **Radiocatalysis and radiation chemistry** | **Owner canon (2026-10-17):** its headline product is **ammonia made at room temperature**, the base of all fertiliser, so radiocatalysis yards are the city's food supply. The radiation sources come from molten-salt reactors and are held by an oligopoly of a few companies. On the street: fenced yards and shielded halls, licensed source shipments through marked transit lanes, fertiliser depots with queues in a bad season. Yards keep interlock logs, area-monitor logs and source registers; inspectors audit them. *The chemistry and the source types are speculative engineering for the scientific director (SQ-38, SQ-56).* |
+| **Water purification** | **Owner canon (2026-10-17):** radioactive sources purify otherwise toxic water for drinking and farming. Treatment works sit beside reservoirs and irrigation intakes; the same oligopoly controls the sources, so water, like food, is owned. *What irradiation can and cannot remove is for the scientific director (SQ-57).* |
 
 Everyday radiation literacy: in this proposal, city people know the word
 "dosimeter" the way we know "smoke alarm". Workers wear them; most citizens
@@ -289,6 +302,13 @@ conglomerates, and both have reason to be.
 *Decided:* the name, and that it is the in-world conglomerate.
 *Not decided:* its role (LFTR, HTGR or both), its link to Vale, and whether
 Elias Ward worked there. Options for each, none chosen.
+
+*Bearing on every option (owner canon, 2026-10-17):* a few companies hold an
+oligopoly on the MSR-made radiation sources that ammonia synthesis and water
+purification depend on (§2.1). Whether B&C is one of them is open. If it is,
+B&C owns part of the food and water supply, which raises the stakes of every
+case touching it and gives Vale's "collapse" argument real force; R1 and R2
+fit that most naturally.
 
 ### 8.1 Role
 

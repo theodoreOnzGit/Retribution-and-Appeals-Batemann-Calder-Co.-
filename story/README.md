@@ -16,7 +16,7 @@ decision the brief lists as open. Doyle material is marked with its source as
 | [`the-quiet-dose/red-herrings.md`](the-quiet-dose/red-herrings.md) | Eight red herrings, each with real evidence for it, a real secret of its own, and the evidence that clears it | Proposal, not canon |
 | [`the-quiet-dose/branches.md`](the-quiet-dose/branches.md) | Wrong accusations and their consequences, deadlines that bend rather than end the game, four case endings, the confrontation with the culprit | Proposal, not canon |
 | [`opening-chapter.md`](opening-chapter.md) | Player-facing draft of the opening chapter, "Headroom", introducing the world and the case's people before Elias Ward's death, with a ledger of every fact it plants, and variant tables for the Holmes and player-identity decisions | Proposal, not canon |
-| [`science-review-questions.md`](science-review-questions.md) | 55 questions for the scientific director, each with a best current answer, a confidence and a type (established, practice, speculative, story); index of placeholder numbers | Proposal, awaiting review |
+| [`science-review-questions.md`](science-review-questions.md) | 58 questions for the scientific director, each with a best current answer, a confidence and a type (established, practice, speculative, story); index of placeholder numbers | Proposal, awaiting review |
 | [`audit.md`](audit.md) | Plot holes, unfair clues, weak motivations, continuity risks and a safety review of these drafts, with what was fixed and what is left open | Proposal, not canon |
 
 ## Recommended first case, in brief

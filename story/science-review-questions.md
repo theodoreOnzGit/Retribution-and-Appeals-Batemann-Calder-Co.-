@@ -23,7 +23,7 @@
 > reason about. None asks for, and no answer gives, any method of obtaining,
 > preparing, delivering or concealing radioactive material.
 
-Total: **55 questions** in ten groups.
+Total: **58 questions** in ten groups (SQ-56 to SQ-58 added 2026-10-17 for the owner's food-and-water economy; they sit in group G).
 
 ---
 
@@ -431,6 +431,9 @@ does it use?**
   including whether yards use sealed sources, reactor-coupled fields,
   accelerators or a mix, since that sets what "feedstock" means.
 - *Confidence:* Low. *Type:* Speculative.
+- *Owner answer, 2026-10-17 (partial):* its headline product is ammonia at
+  room temperature; the sources are made in molten-salt reactors and held by
+  an oligopoly. Still open: SQ-56 to SQ-58.
 
 **SQ-39. What can honestly be said about the health effects of the 2158
 deposition on Belvedere Flats residents?**
@@ -464,6 +467,44 @@ direction leave asymmetric skin changes useful for reconstruction?**
 - *Answer:* yes, at sufficient skin dose; erythema and later changes map
   the field's geometry, and are used in accident reconstruction.
 - *Confidence:* Medium. *Type:* Established.
+
+**SQ-56. How plausible is radiation-driven ammonia synthesis at room
+temperature, and at what scale?**
+- *Used in:* world-bible §2.1, §5 (owner canon).
+- *Answer:* radiation-induced reaction of nitrogen and hydrogen has been
+  studied since the mid-20th century and does produce ammonia without high
+  temperature, but measured yields per unit of absorbed energy have been low,
+  far from competing with the Haber–Bosch process. A 2189 industry at food
+  scale is therefore speculative engineering: it needs either much better
+  yields (e.g. catalysts or surfaces that raise them) or energy so cheap that
+  poor yield does not matter, which fits the setting. **Please set which
+  story the world tells.**
+- *Confidence:* Medium on the history, Low on scale. *Type:* Established
+  (that the reaction occurs), Speculative (industrial scale).
+
+**SQ-57. What can irradiation do to make toxic water safe, and what can it
+not do?**
+- *Used in:* world-bible §5 (owner canon).
+- *Answer:* gamma and electron-beam irradiation are real water and
+  wastewater treatments: they disinfect, and they break down many organic
+  contaminants. They do **not** remove dissolved metals, salts or most
+  inorganic toxins, so a plausible works pairs irradiation with filtration or
+  other treatment. Gamma and electron irradiation at treatment energies does
+  not make the water itself radioactive; neutron fields would, which is why
+  a works would not use them. **Please confirm which contaminants New
+  London's water carries**, since that decides how much the sources matter.
+- *Confidence:* Medium. *Type:* Established (present-day techniques).
+
+**SQ-58. What makes MSR-produced sources an oligopoly rather than a
+commodity?**
+- *Used in:* world-bible §2.1 (owner canon).
+- *Answer:* story economics more than physics. Plausible levers: only
+  licensed MSR operators can separate source material from fuel salt; source
+  production, transport and disposal licences are few and expensive; and
+  the incumbents wrote the safety rules. **Please choose which levers are
+  canon**, since they decide what reform could break the oligopoly without
+  cutting off food and water (the brief's §8 question).
+- *Confidence:* Medium. *Type:* Story convention.
 
 ## H. Reasoning claims the story makes about science
 
