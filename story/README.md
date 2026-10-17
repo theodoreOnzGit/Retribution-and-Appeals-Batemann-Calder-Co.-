@@ -18,7 +18,7 @@ decision the brief lists as open. Doyle material is marked with its source as
 | [`opening-chapter.md`](opening-chapter.md) | Player-facing draft of the opening chapter, "Headroom", introducing the world and the case's people before Elias Ward's death, with a ledger of every fact it plants, and variant tables for the Holmes and player-identity decisions | Proposal, not canon |
 | [`science-review-questions.md`](science-review-questions.md) | 58 questions for the scientific director, each with a best current answer, a confidence and a type (established, practice, speculative, story); index of placeholder numbers | Proposal, awaiting review |
 | [`audit.md`](audit.md) | Plot holes, unfair clues, weak motivations, continuity risks and a safety review of these drafts, with what was fixed and what is left open | Proposal, not canon |
-| [`sources/bibliography.md`](sources/bibliography.md) | 121 sources (standards, papers, official reports, inquiries, judgments), each with a key, identifier, access date and what it establishes | Research support, 2026-10-17 |
+| [`sources/bibliography.md`](sources/bibliography.md) | 122 sources (standards, papers, official reports, inquiries, judgments), each with a key, identifier, access date and what it establishes | Research support, 2026-10-17 |
 | [`sources/science-claims.md`](sources/science-claims.md) | 74 scientific claims (SQ-01..SQ-58 plus 18 found in the drafts) graded against the literature, with seven literature checks | Research support, 2026-10-17 |
 | [`sources/behaviour-claims.md`](sources/behaviour-claims.md) | 46 claims about why people and institutions act as they do, graded against research and documented cases | Research support, 2026-10-17 |
 

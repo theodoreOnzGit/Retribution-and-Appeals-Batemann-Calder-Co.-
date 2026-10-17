@@ -366,6 +366,11 @@
 - **ID:** DOI 10.1093/nsr/nwae302; PMC11493089
 - **Establishes:** Gamma radiolysis of water gives hydrated electrons that, with radiation-stable Ru-based catalysts, reduce N2 to NH3 at ambient temperature; NH3 concentrations up to about 5.1 mM; energy conversion efficiency **563.7 mg NH3 per MJ**.
 
+### `liu2026`
+- **Reference:** Liu J, Sun X, Zhang Y, Li J, Huang W (2026). Communication in *Physical Chemistry Chemical Physics* 28, 1105–1110 (first published 18 December 2025).
+- **ID:** DOI 10.1039/D5CP04807A; URL https://pubs.rsc.org/en/content/articlehtml/2026/cp/d5cp04807a (accessed 2026-10-17; confirmed from the publisher's abstract only)
+- **Establishes:** A gamma-ray-driven stoichiometric reaction of N2 with H2O gives NH3 and O2 at room temperature **without a catalyst**, at an NH3 formation rate of 70.3 µmol per hour, using tannic acid as a hydroxyl-radical scavenger; isotope labelling and radical capture support a hydrazine-type intermediate pathway. Shows the field is still advancing, which supports a 2189 extrapolation; it reports a rate, not an energy efficiency, so it does not change the `mu2024` efficiency comparison.
+
 ### `pnnl2022`
 - **Reference:** Morrison SS, Hubbard LR, Allen LS, et al. (2022). *Gamma Driven Catalysis of Ammonia.* PNNL-33653, Pacific Northwest National Laboratory.
 - **ID:** URL https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-33653.pdf

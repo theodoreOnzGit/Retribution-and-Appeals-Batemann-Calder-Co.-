@@ -539,14 +539,16 @@ temperature, and at what scale?**
   competing with the Haber–Bosch process (best reported about 0.56 g NH₃ per
   MJ against about 36 g per MJ for a modern plant, roughly 60 times less
   `[src: mu2024, ifa2009]`; a national-laboratory test was inconclusive
-  `[src: pnnl2022]`). A 2189 industry at food
+  `[src: pnnl2022]`). A catalyst-free gamma-driven route at room temperature
+  was reported in 2026 `[src: liu2026]`, so the chemistry is still advancing.
+  A 2189 industry at food
   scale is therefore speculative engineering: it needs either much better
   yields (e.g. catalysts or surfaces that raise them) or energy so cheap that
   poor yield does not matter, which fits the setting. **Please set which
   story the world tells.**
 - *Confidence:* Medium on the history, Low on scale. *Type:* Established
   (that the reaction occurs), Speculative (industrial scale).
-- *Sources (2026-10-17):* extrapolation; `[src: mu2024, pnnl2022, ubc1971-n2radiolysis, rsc1990-colloid, harteck1956, ifa2009]`. See `sources/science-claims.md` LC-2.
+- *Sources (2026-10-17):* extrapolation; `[src: mu2024, pnnl2022, ubc1971-n2radiolysis, rsc1990-colloid, harteck1956, ifa2009, liu2026]`. See `sources/science-claims.md` LC-2.
 
 **SQ-57. What can irradiation do to make toxic water safe, and what can it
 not do?**
