@@ -5,7 +5,7 @@
 id = "technique:disguise-and-undercover"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T01:04:00+08:00"
+modified = "2026-10-18T01:16:00+08:00"
 origin = "ai"
 title = "Disguise and undercover work"
 verified = true
@@ -85,6 +85,11 @@ note = "Holmes's disguises while following Sylvius."
 target = "work:BOW05"
 kind = "used_in"
 note = "Holmes as a French workman in a Montpellier cabaret."
+
+[[relation]]
+target = "work:CAS10"
+kind = "used_in"
+note = "Holmes and Watson pose as anglers."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -99,7 +104,7 @@ As a groom and a clergyman (`text:the-adventures-of-sherlock-holmes.txt#L534-L53
 
 Face and gait spoofing against surveillance, borrowed credentials, synthetic personas. Ethical limit: undercover work in the game should show its costs (N4's informant lives in fear for ten years).
 
-## Used in (15 works)
+## Used in (16 works)
 
 - [N2 The Sign of the Four](../works/N2.md): Holmes as an old seaman.
 - [N3 The Hound of the Baskervilles](../works/N3.md): Holmes living in a Neolithic hut.
@@ -116,3 +121,4 @@ Face and gait spoofing against surveillance, borrowed credentials, synthetic per
 - [BOW07 His Last Bow](../works/BOW07.md): From Chicago to Buffalo to Skibbareen to get into Von Bork's network.
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Watson's crash course in Chinese pottery.
 - [CAS03 The Adventure of the Mazarin Stone](../works/CAS03.md): Holmes's disguises while following Sylvius.
+- [CAS10 The Adventure of Shoscombe Old Place](../works/CAS10.md): Holmes and Watson pose as anglers.

@@ -5,7 +5,7 @@
 id = "pattern:the-dog-that-did-nothing"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:52:00+08:00"
+modified = "2026-10-18T01:18:00+08:00"
 origin = "ai"
 title = "The significant absence (the dog that did nothing)"
 verified = true
@@ -43,7 +43,7 @@ note = "No ticket on the body."
 [[relation]]
 target = "work:CAS12"
 kind = "appears_in"
-note = "McPherson's towel was dry: he had not bathed."
+note = "The dry towel, an absence clue that misled Holmes: McPherson had bathed."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -59,7 +59,7 @@ The reader notices what is present; the detective notices what is missing. In ME
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): The thumb-mark was not on the wall yesterday; no third man's footmarks.
 - [RET05 The Adventure of the Priory School](../works/RET05.md): Cow tracks everywhere, and never a cow.
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): No ticket on the body.
-- [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): McPherson's towel was dry: he had not bathed.
+- [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): The dry towel, an absence clue that misled Holmes: McPherson had bathed.
 
 ## Relations
 

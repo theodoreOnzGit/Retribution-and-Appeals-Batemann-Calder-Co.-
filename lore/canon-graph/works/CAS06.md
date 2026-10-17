@@ -5,7 +5,7 @@
 id = "work:CAS06"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:12:00+08:00"
 origin = "ai"
 title = "The Adventure of the Three Garridebs"
 verified = true
@@ -60,11 +60,6 @@ kind = "exhibits"
 note = "A fortune for whoever finds three men named Garrideb."
 
 [[relation]]
-target = "pattern:the-client-who-is-the-culprit"
-kind = "exhibits"
-note = "\"John Garrideb\" visits Holmes and plays the client."
-
-[[relation]]
 target = "pattern:the-disguised-identity"
 kind = "exhibits"
 note = "Evans as an American lawyer named Garrideb."
@@ -99,18 +94,20 @@ Short story in *The Case-Book of Sherlock Holmes*, first book publication 1927. 
 
 ## Relationships
 
-Evans killed Prescott in a club in the Waterloo Road in January 1895 (`text:the-case-book-of-sherlock-holmes.txt#L5024-L5026`). Prescott lived in the room Nathan now has (`text:the-case-book-of-sherlock-holmes.txt#L5042`).
+Evans killed Prescott in a club in the Waterloo Road in January 1895 (`text:the-case-book-of-sherlock-holmes.txt#L5024-L5026`). Evans's dossier: aged forty-four, native of Chicago, known to have shot three men in the States, escaped from penitentiary through political influence, came to London in 1893, released in 1901 and under police supervision since (`text:the-case-book-of-sherlock-holmes.txt#L5021-L5029`). Prescott was "famous as forger and coiner in Chicago" (`text:the-case-book-of-sherlock-holmes.txt#L5026`). Prescott lived in the room Nathan now has (`text:the-case-book-of-sherlock-holmes.txt#L5042`).
 
 ## Actual chronology
 
 1. Evans, released from prison after five years for killing Prescott, wants to get into Prescott's old room, where the forger's press lies (`text:the-case-book-of-sherlock-holmes.txt#L5024-L5042`) (`text:the-case-book-of-sherlock-holmes.txt#L5150-L5165`).
 2. He invents a dead Kansas millionaire, Alexander Hamilton Garrideb, who left a fortune to be shared among three Garridebs, and approaches Nathan as "John Garrideb" (`text:the-case-book-of-sherlock-holmes.txt#L4535`) (`text:the-case-book-of-sherlock-holmes.txt#L4620-L4648`).
-3. He calls on Holmes himself, wearing an English coat and talking about Topeka (`text:the-case-book-of-sherlock-holmes.txt#L4555-L4565`) (`text:the-case-book-of-sherlock-holmes.txt#L4688-L4694`).
+3. ~~He calls on Holmes himself~~ **corrected 2026-10-17** Nathan, not Evans, brings the matter to Holmes by letter (`text:the-case-book-of-sherlock-holmes.txt#L4526-L4528`). Evans comes to Baker Street angry that Nathan "must needs call in a detective" (`text:the-case-book-of-sherlock-holmes.txt#L4588-L4593`), and accepts Holmes only once told he is merely to help find the third man (`text:the-case-book-of-sherlock-holmes.txt#L4602-L4609`). His outfit is English, and he talks about Topeka (`text:the-case-book-of-sherlock-holmes.txt#L4565-L4572`) (`text:the-case-book-of-sherlock-holmes.txt#L4688-L4694`).
+3a. Nathan's brass name-plate is old and discoloured: "It's his real name, anyhow" (`text:the-case-book-of-sherlock-holmes.txt#L4728-L4731`).
 4. He produces a fake advertisement for a third Garrideb in Birmingham, to send Nathan away for a day (`text:the-case-book-of-sherlock-holmes.txt#L4872`) (`text:the-case-book-of-sherlock-holmes.txt#L4920`).
-5. Holmes notices that "plough" is misspelt and "buckboards" is American (`text:the-case-book-of-sherlock-holmes.txt#L4976-L4985`), and identifies Evans from the records (`text:the-case-book-of-sherlock-holmes.txt#L5007-L5026`).
-6. Holmes and Watson wait in Nathan's rooms. Evans opens a trap-door; he shoots Watson in the thigh, and Holmes knocks him down (`text:the-case-book-of-sherlock-holmes.txt#L5091-L5117`).
-7. "You're not hurt, Watson? For God's sake, say that you are not hurt!" (`text:the-case-book-of-sherlock-holmes.txt#L5123-L5129`). Below is Prescott's counterfeiting press (`text:the-case-book-of-sherlock-holmes.txt#L5150-L5155`).
-8. Nathan never recovers from the shock, and ends in a nursing-home in Brixton (`text:the-case-book-of-sherlock-holmes.txt#L5185-L5187`).
+5. Holmes notices that "plough" is misspelt and "buckboards" is American (`text:the-case-book-of-sherlock-holmes.txt#L4976-L4985`), and identifies Evans from the records (`text:the-case-book-of-sherlock-holmes.txt#L5007-L5026`). At the house-agents he learns that the tenant before Nathan, "Waldron", a tall, dark, bearded man, vanished suddenly; Prescott matched that description, so Prescott had lived in Nathan's room (`text:the-case-book-of-sherlock-holmes.txt#L5034-L5044`).
+6. Holmes and Watson are let in by Mrs. Saunders, the caretaker, and wait in Nathan's rooms (`text:the-case-book-of-sherlock-holmes.txt#L5057-L5062`). Evans pushes aside the table, rolls back the carpet and opens a trap-door with a jemmy (`text:the-case-book-of-sherlock-holmes.txt#L5094-L5100`); he shoots Watson in the thigh, and Holmes knocks him down (`text:the-case-book-of-sherlock-holmes.txt#L5091-L5117`).
+7. "You're not hurt, Watson? For God's sake, say that you are not hurt!" (`text:the-case-book-of-sherlock-holmes.txt#L5123-L5129`). Below is Prescott's counterfeiting press, with "two thousand of Prescott's notes worth a hundred each" (`text:the-case-book-of-sherlock-holmes.txt#L5150-L5157`). Evans offers them as a bribe; Holmes refuses (`text:the-case-book-of-sherlock-holmes.txt#L5156-L5162`).
+7a. Evans says Prescott "pulled on me" and that he deserved "a medal the size of a soup plate" (`text:the-case-book-of-sherlock-holmes.txt#L5164-L5176`). Holmes names the charge as "only attempted murder" and sends for the Yard (`text:the-case-book-of-sherlock-holmes.txt#L5178-L5181`).
+8. Nathan never recovers from the shock, and ends in a nursing-home in Brixton (`text:the-case-book-of-sherlock-holmes.txt#L5184-L5187`). The Yard is glad the Prescott outfit is found, but "an unappreciative Bench" sends Evans back to prison (`text:the-case-book-of-sherlock-holmes.txt#L5187-L5195`).
 
 ## Apparent explanation
 
@@ -131,15 +128,21 @@ The Garrideb search itself.
 
 ## Twists
 
-The visitor who hires Holmes to help find a Garrideb is the criminal.
+~~The visitor who hires Holmes to help find a Garrideb is the criminal.~~ **corrected 2026-10-17** The genial American who joins Holmes's search for a third Garrideb, after Nathan has consulted Holmes, is the criminal (`text:the-case-book-of-sherlock-holmes.txt#L4588-L4607`). The fortune is a fiction; the real prize is the counterfeiter's cellar. Evans's own defence, that killing Prescott was a public service, the Yard half shares (`text:the-case-book-of-sherlock-holmes.txt#L5187-L5195`).
 
 ## Ethical questions
 
-Holmes's threat: "If you had killed Watson, you would not have got out of this room alive" (`text:the-case-book-of-sherlock-holmes.txt#L5139`). The old collector's broken dream (`text:the-case-book-of-sherlock-holmes.txt#L5185`).
+Evans's claim that he deserved a medal for killing a counterfeiter, which the Yard would "willingly" have subscribed to (`text:the-case-book-of-sherlock-holmes.txt#L5164-L5176`) (`text:the-case-book-of-sherlock-holmes.txt#L5191-L5194`). Holmes's threat: "If you had killed Watson, you would not have got out of this room alive" (`text:the-case-book-of-sherlock-holmes.txt#L5139`). The old collector's broken dream (`text:the-case-book-of-sherlock-holmes.txt#L5185`).
 
 ## Textual notes
 
 Holmes refused a knighthood in June 1902, Watson says (`text:the-case-book-of-sherlock-holmes.txt#L4494`).
+
+## Pattern tags checked
+
+- Removed `the-client-who-is-the-culprit`: Nathan is the client; Evans resents Holmes being called in (`text:the-case-book-of-sherlock-holmes.txt#L4588-L4593`).
+- Kept `the-absurd-employment`, `the-disguised-identity` (Evans as "John Garrideb" of Moorville, Kansas (`text:the-case-book-of-sherlock-holmes.txt#L4535`)).
+- Considered and not added `the-past-returning-from-abroad`: Evans and Prescott are American criminals, but the killing and the cellar are in London (`text:the-case-book-of-sherlock-holmes.txt#L5024-L5042`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -159,7 +162,6 @@ A lonely collector is told that an algorithmic inheritance will pay out if three
 **Patterns**
 
 - [The absurd employment](../patterns/the-absurd-employment.md): A fortune for whoever finds three men named Garrideb.
-- [The client who is the culprit](../patterns/the-client-who-is-the-culprit.md): "John Garrideb" visits Holmes and plays the client.
 - [The disguised identity](../patterns/the-disguised-identity.md): Evans as an American lawyer named Garrideb.
 
 **Techniques**

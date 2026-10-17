@@ -5,7 +5,7 @@
 id = "pattern:the-vanishing-or-faked-death"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:38:00+08:00"
+modified = "2026-10-18T01:16:00+08:00"
 origin = "ai"
 title = "The vanishing and the faked death"
 verified = true
@@ -69,7 +69,7 @@ note = "A real death certificate for one woman covers the burial of another, ali
 [[relation]]
 target = "work:CAS10"
 kind = "appears_in"
-note = "A death hidden for a week."
+note = "Inverse: a death hidden for a week, the dead woman played as alive."
 
 [[relation]]
 target = "work:CAS11"
@@ -100,5 +100,5 @@ Someone disappears or is thought dead, and the truth is a deliberate staging or 
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): Oldacre hides in a secret room while the police look for his body.
 - [RET11 The Adventure of the Missing Three-Quarter](../works/RET11.md): Godfrey vanishes on the eve of the match.
 - [BOW05 The Disappearance of Lady Frances Carfax](../works/BOW05.md): A real death certificate for one woman covers the burial of another, alive.
-- [CAS10 The Adventure of Shoscombe Old Place](../works/CAS10.md): A death hidden for a week.
+- [CAS10 The Adventure of Shoscombe Old Place](../works/CAS10.md): Inverse: a death hidden for a week, the dead woman played as alive.
 - [CAS11 The Adventure of the Retired Colourman](../works/CAS11.md): The wife and the doctor "vanish".

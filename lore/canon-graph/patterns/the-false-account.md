@@ -5,7 +5,7 @@
 id = "pattern:the-false-account"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T01:03:00+08:00"
+modified = "2026-10-18T01:18:00+08:00"
 origin = "ai"
 title = "The false account (protective lie, silence or false confession)"
 verified = true
@@ -90,6 +90,16 @@ note = "Madame Charpentier's first answer to Gregson, and Arthur's story of a wa
 target = "work:RET02"
 kind = "appears_in"
 note = "Mrs. Lexington lies to cover her master and, Holmes thinks, may have placed the thumb-mark."
+
+[[relation]]
+target = "work:CAS07"
+kind = "appears_in"
+note = "Grace Dunbar's silence to spare the family's inner life."
+
+[[relation]]
+target = "work:CAS12"
+kind = "appears_in"
+note = "Maud will not say how the note reached her, to protect Murdoch."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -98,7 +108,7 @@ A witness lies, stays silent or accepts blame, usually to protect someone else.
 
 No outright false confession to murder was noted in this reading of the 60 works; the common forms are silence that looks like guilt (ADV04, ADV11) or a story told to shield a loved one. Holmes's rule in ADV11: silence "cuts both ways" (`text:the-adventures-of-sherlock-holmes.txt#L10245-L10246`).
 
-## Occurrences (16 works)
+## Occurrences (18 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Madame Charpentier's first answer to Gregson, and Arthur's story of a walk with an old shipmate, both shield the son.
 - [N3 The Hound of the Baskervilles](../works/N3.md): The Barrymores lie to protect her brother; Barrymore tells the inquest there were no traces near the body; Laura Lyons denies her letter.
@@ -115,4 +125,6 @@ No outright false confession to murder was noted in this reading of the 60 works
 - [RET13 The Adventure of the Second Stain](../works/RET13.md): Lady Hilda hides her visit; MacPherson hides that he let her in.
 - [CAS02 The Adventure of the Blanched Soldier](../works/CAS02.md): The family says Godfrey has gone round the world.
 - [CAS05 The Adventure of the Sussex Vampire](../works/CAS05.md): The wife keeps silent to spare her husband the truth about his son.
+- [CAS07 The Problem of Thor Bridge](../works/CAS07.md): Grace Dunbar's silence to spare the family's inner life.
 - [CAS09 The Adventure of the Veiled Lodger](../works/CAS09.md): Eugenia lied to the county detective, Edmunds.
+- [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): Maud will not say how the note reached her, to protect Murdoch.

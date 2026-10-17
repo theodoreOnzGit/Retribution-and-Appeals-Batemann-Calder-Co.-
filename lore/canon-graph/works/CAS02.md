@@ -5,7 +5,7 @@
 id = "work:CAS02"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:08:00+08:00"
 origin = "ai"
 title = "The Adventure of the Blanched Soldier"
 verified = true
@@ -119,11 +119,13 @@ Dodd and Godfrey served in the same squadron (`text:the-case-book-of-sherlock-ho
 
 ## Actual chronology
 
-1. Godfrey, wounded near Pretoria, wanders by night into a leper hospital and sleeps in a leper's bed (`text:the-case-book-of-sherlock-holmes.txt#L1320`) (`text:the-case-book-of-sherlock-holmes.txt#L1866-L1922`).
+1. Godfrey, shot through the shoulder with an elephant bullet in a morning fight at Buffelsspruit outside Pretoria, his two companions killed, rides until he falls and at nightfall wanders into an evacuated leper hospital and sleeps in a leper's bed; its superintendent treats him and sends him to the general hospital at Pretoria (`text:the-case-book-of-sherlock-holmes.txt#L1320`) (`text:the-case-book-of-sherlock-holmes.txt#L1866-L1922`).
 2. He develops a skin disease and, fearing leprosy, is hidden in an outbuilding at home with a doctor, Mr. Kent; the family says he is travelling (`text:the-case-book-of-sherlock-holmes.txt#L1928-L1937`) (`text:the-case-book-of-sherlock-holmes.txt#L1686`).
-3. Dodd, suspicious, visits; he sees Godfrey's white face at the window at night (`text:the-case-book-of-sherlock-holmes.txt#L1348-L1520`).
-4. Holmes, telling the story himself, reasons by elimination: crime, lunacy or disease (`text:the-case-book-of-sherlock-holmes.txt#L1989-L2034`). He smells tar on the butler's gloves (`text:the-case-book-of-sherlock-holmes.txt#L1755-L1762`).
-5. He brings Sir James Saunders, who diagnoses pseudo-leprosy, ichthyosis: unsightly but possibly curable (`text:the-case-book-of-sherlock-holmes.txt#L1970`) (`text:the-case-book-of-sherlock-holmes.txt#L2048-L2053`).
+2a. Colonel Emsworth tells Dodd that Godfrey has gone on a voyage round the world; the station-master and innkeeper repeat it (`text:the-case-book-of-sherlock-holmes.txt#L1324-L1328`) (`text:the-case-book-of-sherlock-holmes.txt#L1684-L1688`).
+3. Dodd, suspicious, visits; old Ralph, Godfrey's foster-father, cries "I wish to God he was!" when asked if Godfrey is dead (`text:the-case-book-of-sherlock-holmes.txt#L1482-L1489`); Dodd sees Godfrey's white face at the window at night, hears a door shut in the garden, sees the bearded Mr. Kent lock the detached house, glimpses Godfrey through a shutter, and is ordered out by the Colonel (`text:the-case-book-of-sherlock-holmes.txt#L1348-L1520`).
+4. Holmes, telling the story himself, reasons by elimination: crime, lunacy or disease (`text:the-case-book-of-sherlock-holmes.txt#L1989-L2034`). He brings Sir James Saunders, waiting unnamed in the carriage, and at the house smells tar on the butler's gloves, which he contrives by knocking off his hat (`text:the-case-book-of-sherlock-holmes.txt#L1755-L1762`).
+4a. Holmes writes the one word "Leprosy" for the Colonel, to show his secret is known and that his discretion can be trusted, and the Colonel gives way (`text:the-case-book-of-sherlock-holmes.txt#L1802-L1820`) (`text:the-case-book-of-sherlock-holmes.txt#L1946-L1950`) (`text:the-case-book-of-sherlock-holmes.txt#L2037-L2039`).
+5. Godfrey shows his patches and tells his story; Holmes brings in Sir James Saunders, who diagnoses pseudo-leprosy, ichthyosis: unsightly but possibly curable (`text:the-case-book-of-sherlock-holmes.txt#L1970`) (`text:the-case-book-of-sherlock-holmes.txt#L2048-L2053`).
 
 ## Apparent explanation
 
@@ -136,6 +138,9 @@ None. The family hid a disease from stigma (`text:the-case-book-of-sherlock-holm
 ## Evidence and investigative techniques
 
 - Elimination as a method (`text:the-case-book-of-sherlock-holmes.txt#L1989`).
+- The paper Kent was reading, small, perhaps *The Spectator*: "Had it been *The Lancet* or *The British Medical Journal* it would have helped me" (`text:the-case-book-of-sherlock-holmes.txt#L1599-L1613`) (`text:the-case-book-of-sherlock-holmes.txt#L2015-L2017`).
+- Insanity ruled out: a lunatic may lawfully be kept at home with a qualified attendant, so there would be no need for secrecy (`text:the-case-book-of-sherlock-holmes.txt#L2010-L2022`).
+- Food carried to the outhouse by Ralph (`text:the-case-book-of-sherlock-holmes.txt#L1675-L1680`).
 - The tar disinfectant smell (`text:the-case-book-of-sherlock-holmes.txt#L1760-L1762`).
 
 ## Red herrings and misdirection
@@ -144,15 +149,21 @@ The Colonel's hostility; the white face (`text:the-case-book-of-sherlock-holmes.
 
 ## Twists
 
-It is not leprosy (`text:the-case-book-of-sherlock-holmes.txt#L2048`).
+It is not leprosy (`text:the-case-book-of-sherlock-holmes.txt#L2048`). Saunders wonders whether the young man's long apprehension may "produce a physical effect which simulates that which it fears" (`text:the-case-book-of-sherlock-holmes.txt#L2054-L2059`); the mother faints at the news (`text:the-case-book-of-sherlock-holmes.txt#L2060-L2061`).
 
 ## Ethical questions
 
-The stigma of disease, and secrecy as kindness or cruelty.
+The stigma of disease, and secrecy as kindness or cruelty: the alternative to concealment was "segregation for life among strangers" (`text:the-case-book-of-sherlock-holmes.txt#L1938-L1942`). The family avoided a second opinion for fear of being made to segregate him (`text:the-case-book-of-sherlock-holmes.txt#L1960-L1965`).
 
 ## Textual notes
 
 Holmes narrates and admits he misses his Watson (`text:the-case-book-of-sherlock-holmes.txt#L1219-L1233`) (`text:the-case-book-of-sherlock-holmes.txt#L1982`). The case is dated January 1903 (`text:the-case-book-of-sherlock-holmes.txt#L1240`).
+
+Dodd places the wound "in the action near Diamond Hill outside Pretoria" (`text:the-case-book-of-sherlock-holmes.txt#L1319-L1320`); Godfrey calls it "that morning fight at Buffelsspruit, outside Pretoria" (`text:the-case-book-of-sherlock-holmes.txt#L1866-L1867`).
+
+## Pattern tags checked
+
+- Kept: *the medical deception* (a misread illness; the pattern covers misreadings as well as fakes), *the crime with no crime*, *the uncanny explained*, *the false account* (the "voyage round the world").
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 

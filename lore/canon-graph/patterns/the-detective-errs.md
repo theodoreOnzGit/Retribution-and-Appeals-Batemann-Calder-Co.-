@@ -5,7 +5,7 @@
 id = "pattern:the-detective-errs"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T01:02:00+08:00"
+modified = "2026-10-18T01:14:00+08:00"
 origin = "ai"
 title = "The detective errs"
 verified = true
@@ -110,6 +110,16 @@ note = "Holmes misjudges Baynes's false arrest; Murillo slips away."
 target = "work:BOW03"
 kind = "appears_in"
 note = "Holmes's trap brings Walter, not the Oberstein he expected."
+
+[[relation]]
+target = "work:CAS04"
+kind = "appears_in"
+note = "Holmes did not set Watson to guard the house: \"I made a mistake.\""
+
+[[relation]]
+target = "work:CAS08"
+kind = "appears_in"
+note = "The pretended appointment: 'That was my miscalculation.'"
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -118,7 +128,7 @@ Holmes is wrong, too late or outwitted.
 
 ADV01 (beaten by a woman), ADV05 (client killed), ADV08 (first theory wrong), MEM03 ("Norbury"). Important for the brief's principle that wrong conclusions should have consequences rather than a game-over screen.
 
-## Occurrences (20 works)
+## Occurrences (22 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): The "old woman" who claims the ring gives Holmes the slip from a moving cab, and he never learns who it was.
 - [N3 The Hound of the Baskervilles](../works/N3.md): Holmes is "checkmated in London", and later believes he has "thrown away the life of my client".
@@ -139,4 +149,6 @@ ADV01 (beaten by a woman), ADV05 (client killed), ADV08 (first theory wrong), ME
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): Holmes misjudges Baynes's false arrest; Murillo slips away.
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): Holmes's trap brings Walter, not the Oberstein he expected.
 - [BOW05 The Disappearance of Lady Frances Carfax](../works/BOW05.md): Holmes nearly arrives too late, and calls it a "temporary eclipse".
+- [CAS04 The Adventure of the Three Gables](../works/CAS04.md): Holmes did not set Watson to guard the house: "I made a mistake."
+- [CAS08 The Adventure of the Creeping Man](../works/CAS08.md): The pretended appointment: 'That was my miscalculation.'
 - [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): "I was slow at the outset--culpably slow."

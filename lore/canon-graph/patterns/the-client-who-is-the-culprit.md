@@ -5,7 +5,7 @@
 id = "pattern:the-client-who-is-the-culprit"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:12:00+08:00"
 origin = "ai"
 title = "The client who is the culprit"
 verified = true
@@ -17,11 +17,6 @@ kind = "appears_in"
 note = "Mortimer Tregennis brings the case to Holmes with the vicar."
 
 [[relation]]
-target = "work:CAS06"
-kind = "appears_in"
-note = "\"John Garrideb\" visits Holmes and plays the client."
-
-[[relation]]
 target = "work:CAS11"
 kind = "appears_in"
 note = "Amberley hires Holmes to find his \"eloped\" wife."
@@ -31,10 +26,9 @@ note = "Amberley hires Holmes to find his \"eloped\" wife."
 
 The person who brings the case to Holmes is the guilty party.
 
-Rare in the canon: three works (BOW06, CAS06, CAS11). Each time the culprit approaches Holmes to steer the inquiry, or out of vanity ("pure swank" (`text:the-case-book-of-sherlock-holmes.txt#L9926-L9929`)).
+Rare in the canon: ~~three works (BOW06, CAS06, CAS11)~~ **corrected 2026-10-17** two works (BOW06, CAS11); CAS06 was removed because Nathan Garrideb, not the culprit Evans, consults Holmes (`text:the-case-book-of-sherlock-holmes.txt#L4588-L4593`). Each time the culprit approaches Holmes to steer the inquiry, or out of vanity ("pure swank" (`text:the-case-book-of-sherlock-holmes.txt#L9926-L9929`)).
 
-## Occurrences (3 works)
+## Occurrences (2 works)
 
 - [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): Mortimer Tregennis brings the case to Holmes with the vicar.
-- [CAS06 The Adventure of the Three Garridebs](../works/CAS06.md): "John Garrideb" visits Holmes and plays the client.
 - [CAS11 The Adventure of the Retired Colourman](../works/CAS11.md): Amberley hires Holmes to find his "eloped" wife.

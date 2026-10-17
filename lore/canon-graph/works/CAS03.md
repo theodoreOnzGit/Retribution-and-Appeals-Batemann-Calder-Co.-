@@ -5,7 +5,7 @@
 id = "work:CAS03"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:09:00+08:00"
 origin = "ai"
 title = "The Adventure of the Mazarin Stone"
 verified = true
@@ -65,11 +65,6 @@ kind = "exhibits"
 note = "Holmes as a workman and an old woman."
 
 [[relation]]
-target = "pattern:the-compromising-document"
-kind = "exhibits"
-note = "The Crown diamond (the Mazarin stone)."
-
-[[relation]]
 target = "technique:disguise-and-undercover"
 kind = "uses_technique"
 note = "Holmes's disguises while following Sylvius."
@@ -107,9 +102,10 @@ Sylvius and Merton are partners (`text:the-case-book-of-sherlock-holmes.txt#L232
 
 1. The Crown diamond is stolen; the Prime Minister and the Home Secretary have called on Holmes (`text:the-case-book-of-sherlock-holmes.txt#L2110-L2125`).
 2. Holmes follows Count Sylvius in disguise, as a workman and an old woman (`text:the-case-book-of-sherlock-holmes.txt#L2102-L2104`), and to Straubenzee, who made an air-gun (`text:the-case-book-of-sherlock-holmes.txt#L2253-L2254`).
-3. Holmes keeps a wax effigy of himself in the window (`text:the-case-book-of-sherlock-holmes.txt#L2144-L2166`).
-4. Sylvius calls; Holmes offers him freedom for the stone, and goes into the bedroom "to play the Hoffmann Barcarolle" (`text:the-case-book-of-sherlock-holmes.txt#L2326`) (`text:the-case-book-of-sherlock-holmes.txt#L2611-L2621`).
-5. Sylvius and Merton discuss where the stone is and their plan to sell it through one Van Seddar; Holmes, who has taken the dummy's place in the chair, springs up and takes it (`text:the-case-book-of-sherlock-holmes.txt#L2648-L2737`).
+2a. Holmes has "a clear case" for the theft: the cabmen to and from Whitehall, the commissionaire who saw Sylvius near the case, and Ikey Sanders, who refused to cut the stone and has "peached"; he lacks only the stone (`text:the-case-book-of-sherlock-holmes.txt#L2516-L2533`).
+3. Holmes keeps a wax effigy of himself by Tavernier in the window, in view of the house opposite, where he believes Straubenzee's air-gun waits (`text:the-case-book-of-sherlock-holmes.txt#L2144-L2166`).
+4. Holmes sends Watson to Youghal of the C.I.D. (`text:the-case-book-of-sherlock-holmes.txt#L2313-L2315`). Sylvius, shown into the empty room, creeps up to strike the effigy with his loaded cane until Holmes stops him: "Don't break it, Count!" (`text:the-case-book-of-sherlock-holmes.txt#L2325-L2342`). Holmes reads him the notebook of his past (the death of Mrs. Harold, Minnie Warrender, a train robbery and a forged cheque in 1892, `text:the-case-book-of-sherlock-holmes.txt#L2493-L2505`), offers him freedom for the stone, and goes into the bedroom "to play the Hoffmann Barcarolle" (`text:the-case-book-of-sherlock-holmes.txt#L2326`) (`text:the-case-book-of-sherlock-holmes.txt#L2611-L2621`).
+5. Sylvius and Merton reveal that the stone is in the Count's secret pocket and plan to send it by Van Seddar to Amsterdam, to be cut in four, while feeding Holmes a bogus confession that it is in Liverpool (`text:the-case-book-of-sherlock-holmes.txt#L2683-L2713`); Holmes, who has taken the dummy's place in the chair, springs up and takes it (`text:the-case-book-of-sherlock-holmes.txt#L2648-L2737`).
 6. "These modern gramophones are a remarkable invention" (`text:the-case-book-of-sherlock-holmes.txt#L2768`).
 7. Holmes slips the stone into Lord Cantlemere's overcoat pocket and makes him find it (`text:the-case-book-of-sherlock-holmes.txt#L2862-L2882`).
 
@@ -123,7 +119,7 @@ Count Sylvius, for the stone.
 
 ## Evidence and investigative techniques
 
-A recorded performance and a hidden listener.
+A recorded performance and a hidden listener: a second door from the bedroom leads behind the window curtain (`text:the-case-book-of-sherlock-holmes.txt#L2748-L2752`).
 
 ## Red herrings and misdirection
 
@@ -135,11 +131,16 @@ The "dummy" is Holmes.
 
 ## Ethical questions
 
-Holmes offers Sylvius his freedom for the stone (`text:the-case-book-of-sherlock-holmes.txt#L2457`). His joke on Lord Cantlemere (`text:the-case-book-of-sherlock-holmes.txt#L2879-L2882`).
+Holmes offers Sylvius his freedom for the stone: "I'll compound a felony. We don't want you or Sam. We want the stone" (`text:the-case-book-of-sherlock-holmes.txt#L2537-L2548`); in the end both are arrested (`text:the-case-book-of-sherlock-holmes.txt#L2770-L2771`). His joke on Lord Cantlemere (`text:the-case-book-of-sherlock-holmes.txt#L2879-L2882`).
 
 ## Textual notes
 
 The story is told in the third person (`text:the-case-book-of-sherlock-holmes.txt#L2070`).
+
+## Pattern tags checked
+
+- Removed 2026-10-17: *the compromising document*. The Mazarin stone is a stolen jewel, not a letter, photograph or pledge whose exposure would cause a scandal; nothing in the story turns on exposure (`text:the-case-book-of-sherlock-holmes.txt#L2110-L2128`) (`text:the-case-book-of-sherlock-holmes.txt#L2230-L2233`).
+- Kept: *the detective's ruse*, *the disguised identity*.
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -155,7 +156,6 @@ A crown jewel of the energy state, perhaps a unique lattice crystal at the heart
 
 - [The detective's ruse](../patterns/the-detectives-ruse.md): A gramophone plays the violin while Holmes, in the dummy's chair, listens.
 - [The disguised identity](../patterns/the-disguised-identity.md): Holmes as a workman and an old woman.
-- [The compromising object](../patterns/the-compromising-document.md): The Crown diamond (the Mazarin stone).
 
 **Techniques**
 

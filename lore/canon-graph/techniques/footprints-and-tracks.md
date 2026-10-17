@@ -5,7 +5,7 @@
 id = "technique:footprints-and-tracks"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:50:00+08:00"
+modified = "2026-10-18T01:18:00+08:00"
 origin = "ai"
 title = "Footprints and tracks"
 verified = true
@@ -95,6 +95,11 @@ note = "Deeper outward wheel-tracks show a loaded carriage has just left."
 target = "work:MEM12"
 kind = "used_in"
 note = "Watson reads two lines of footmarks to the edge and none back."
+
+[[relation]]
+target = "work:CAS12"
+kind = "used_in"
+note = "McPherson's prints on the cliff path; the dog's spoor."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -109,7 +114,7 @@ Boscombe Pool (`text:the-adventures-of-sherlock-holmes.txt#L3579-L3605`); snow a
 
 Floor-pressure logs, lidar scans of disturbed dust, tyre-tread databases for delivery bots. The weakness Holmes complains of, a crowd that "wallowed all over it" (`text:the-adventures-of-sherlock-holmes.txt#L3582`), becomes contamination of digital scene data by first responders.
 
-## Used in (17 works)
+## Used in (18 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Stride, cab ruts and the square-toed boots in Lauriston Gardens.
 - [N2 The Sign of the Four](../works/N2.md): The small naked feet and the wooden leg.
@@ -128,3 +133,4 @@ Floor-pressure logs, lidar scans of disturbed dust, tyre-tread databases for del
 - [RET09 The Adventure of the Three Students](../works/RET09.md): Lumps of black clay and tan from the jumping-pit.
 - [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): No footprints on the grass verge; cocoanut matting in the corridor.
 - [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): Red gravel from Sterndale's gate.
+- [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): McPherson's prints on the cliff path; the dog's spoor.

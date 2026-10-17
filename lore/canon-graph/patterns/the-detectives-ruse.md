@@ -5,7 +5,7 @@
 id = "pattern:the-detectives-ruse"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:49:00+08:00"
+modified = "2026-10-18T01:07:00+08:00"
 origin = "ai"
 title = "The detective's ruse"
 verified = true
@@ -89,7 +89,7 @@ note = "The \"naval signals\" are a book on bee-keeping."
 [[relation]]
 target = "work:CAS01"
 kind = "appears_in"
-note = "Watson keeps Gruner talking about pottery while Holmes burgles the study."
+note = "Holmes's injuries are exaggerated in the bulletins, and Watson keeps Gruner talking about pottery while Holmes burgles the study."
 
 [[relation]]
 target = "work:CAS03"
@@ -135,6 +135,6 @@ Holmes stages an event (a fire alarm, a bait advertisement, a drained moat) to m
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): An agony-column message in Oberstein's code brings Walter.
 - [BOW04 The Adventure of the Dying Detective](../works/BOW04.md): Holmes lures the murderer to his bedside to confess.
 - [BOW07 His Last Bow](../works/BOW07.md): The "naval signals" are a book on bee-keeping.
-- [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Watson keeps Gruner talking about pottery while Holmes burgles the study.
+- [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Holmes's injuries are exaggerated in the bulletins, and Watson keeps Gruner talking about pottery while Holmes burgles the study.
 - [CAS03 The Adventure of the Mazarin Stone](../works/CAS03.md): A gramophone plays the violin while Holmes, in the dummy's chair, listens.
 - [CAS11 The Adventure of the Retired Colourman](../works/CAS11.md): A fake telegram sends Amberley and Watson to Essex.

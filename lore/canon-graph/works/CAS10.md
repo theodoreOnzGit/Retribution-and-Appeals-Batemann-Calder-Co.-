@@ -5,7 +5,7 @@
 id = "work:CAS10"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:16:00+08:00"
 origin = "ai"
 title = "The Adventure of Shoscombe Old Place"
 verified = true
@@ -71,7 +71,7 @@ note = "The spaniel that would not greet its \"mistress\"."
 [[relation]]
 target = "pattern:the-vanishing-or-faked-death"
 kind = "exhibits"
-note = "A death hidden for a week."
+note = "Inverse: a death hidden for a week, the dead woman played as alive."
 
 [[relation]]
 target = "technique:scent-tracking-dogs"
@@ -79,9 +79,14 @@ kind = "uses_technique"
 note = "Holmes releases the spaniel beside the carriage."
 
 [[relation]]
-target = "technique:natural-history"
+target = "technique:anatomy-and-medicine"
 kind = "uses_technique"
-note = "Old bones in the crypt and a body moved there."
+note = "Watson identifies a charred femur condyle from the furnace."
+
+[[relation]]
+target = "technique:disguise-and-undercover"
+kind = "uses_technique"
+note = "Holmes and Watson pose as anglers."
 
 [[relation]]
 target = "theme:greed-and-inheritance"
@@ -117,15 +122,15 @@ Norberton is Lady Beatrice's brother; the estate was her late husband's and pass
 
 1. Norberton is in the hands of moneylenders and has everything on his colt Shoscombe Prince for the Derby (`text:the-case-book-of-sherlock-holmes.txt#L8619-L8631`) (`text:the-case-book-of-sherlock-holmes.txt#L8964`).
 2. Lady Beatrice dies of dropsy; if it were known, her husband's brother would take the estate and the creditors would seize the horses (`text:the-case-book-of-sherlock-holmes.txt#L8672`) (`text:the-case-book-of-sherlock-holmes.txt#L9207`) (`text:the-case-book-of-sherlock-holmes.txt#L9217`).
-3. Norberton and Norlett hide the body in an old coffin in the church crypt, burning the bones they displace in the furnace; Norlett, an actor, dresses as the lady and rides out in her carriage (`text:the-case-book-of-sherlock-holmes.txt#L9214-L9245`).
-4. John Mason, the trainer, notices the change and consults Holmes; the lady has given away her pet spaniel (`text:the-case-book-of-sherlock-holmes.txt#L8597`) (`text:the-case-book-of-sherlock-holmes.txt#L8659-L8668`).
-5. Holmes and Watson pose as anglers at an old tavern near Shoscombe, whose host is Josiah Barnes (`text:the-case-book-of-sherlock-holmes.txt#L8872-L8885`); Holmes releases the spaniel at the carriage, which snarls at the passenger (`text:the-case-book-of-sherlock-holmes.txt#L9029-L9037`).
-6. In the crypt Holmes finds the body; Sir Robert confesses (`text:the-case-book-of-sherlock-holmes.txt#L9101-L9245`).
+3. Norberton and Norlett ~~hide the body in an old coffin in the church crypt,~~ **corrected 2026-10-17** first carry the body to the disused well-house; when her spaniel yaps at the door, Sir Robert gets rid of the dog and they move the body to an emptied ancestral coffin in the crypt, (`text:the-case-book-of-sherlock-holmes.txt#L9227-L9244`) burning the bones they displace in the furnace; Norlett, an actor, dresses as the lady and rides out in her carriage (`text:the-case-book-of-sherlock-holmes.txt#L9214-L9245`).
+4. John Mason, the head trainer, notices the change and consults Holmes, thinking Sir Robert mad (`text:the-case-book-of-sherlock-holmes.txt#L8566-L8567`) (`text:the-case-book-of-sherlock-holmes.txt#L8611-L8612`): the lady drives past the stables without a greeting and seems to drink heavily (`text:the-case-book-of-sherlock-holmes.txt#L8659-L8682`); ~~the lady has given away her pet spaniel~~ **corrected 2026-10-17** Sir Robert has given away her pet spaniel, through the jockey Sandy Bain, to Barnes of the "Green Dragon" at Crendall (`text:the-case-book-of-sherlock-holmes.txt#L8665-L8668`) (`text:the-case-book-of-sherlock-holmes.txt#L8801-L8807`). Mason and the butler Stephens have seen Sir Robert meet a yellow-faced stranger at the haunted crypt at midnight, and found a mummy's head and bones there (`text:the-case-book-of-sherlock-holmes.txt#L8691-L8732`) (`text:the-case-book-of-sherlock-holmes.txt#L8777-L8790`). The stable lad Harvey has raked a charred bone from the furnace under Lady Beatrice's room; Watson names it "the upper condyle of a human femur" (`text:the-case-book-of-sherlock-holmes.txt#L8817-L8835`).
+5. Holmes and Watson pose as anglers at an old tavern near Shoscombe, whose host is Josiah Barnes (`text:the-case-book-of-sherlock-holmes.txt#L8872-L8885`); Holmes releases the spaniel at the carriage, which snaps at the passenger; "Drive on!" is shrieked in a man's voice (`text:the-case-book-of-sherlock-holmes.txt#L9029-L9041`). "Dogs don't make mistakes" (`text:the-case-book-of-sherlock-holmes.txt#L9039`).
+6. In the crypt the bones are gone; Holmes opens a leaden coffin standing on end and finds the body, as Sir Robert arrives with a cudgel (`text:the-case-book-of-sherlock-holmes.txt#L9087-L9140`). Holmes's business is "that of every other good citizen--to uphold the law" (`text:the-case-book-of-sherlock-holmes.txt#L9148-L9151`). In the gun-room, with Mr. and Mrs. Norlett present, Sir Robert confesses (`text:the-case-book-of-sherlock-holmes.txt#L9168-L9248`). His chief creditor is Sam Brewer, whom he once horsewhipped on Newmarket Heath, and who would not run the horse (`text:the-case-book-of-sherlock-holmes.txt#L9256-L9260`).
 7. Holmes refers it to the police; the horse wins, Norberton nets eighty thousand pounds, the creditors are paid, and the coroner takes a lenient view (`text:the-case-book-of-sherlock-holmes.txt#L9262-L9278`).
 
 ## Apparent explanation
 
-Lady Beatrice has quarrelled with her brother; or he has gone mad (`text:the-case-book-of-sherlock-holmes.txt#L8646`) (`text:the-case-book-of-sherlock-holmes.txt#L8659`).
+Lady Beatrice has quarrelled with her brother; or he has gone mad (`text:the-case-book-of-sherlock-holmes.txt#L8646`) (`text:the-case-book-of-sherlock-holmes.txt#L8659`). Holmes's first theory: the maid is Sir Robert's mistress and the quarrel is over her (`text:the-case-book-of-sherlock-holmes.txt#L8752-L8765`). His second, "a scandalous supposition": Sir Robert has killed his sister and is burning her body (`text:the-case-book-of-sherlock-holmes.txt#L8972-L8989`).
 
 ## Culprit and motive
 
@@ -134,11 +139,13 @@ Norberton, to keep his horses and pay his debts (`text:the-case-book-of-sherlock
 ## Evidence and investigative techniques
 
 - The spaniel's reaction (`text:the-case-book-of-sherlock-holmes.txt#L9029`).
-- The furnace and the bones (`text:the-case-book-of-sherlock-holmes.txt#L8779-L8787`) (`text:the-case-book-of-sherlock-holmes.txt#L8824`).
+- The furnace and the bones (`text:the-case-book-of-sherlock-holmes.txt#L8779-L8787`) (`text:the-case-book-of-sherlock-holmes.txt#L8824`); the femur condyle (`text:the-case-book-of-sherlock-holmes.txt#L8835`).
+- The man's voice from the carriage (`text:the-case-book-of-sherlock-holmes.txt#L9041`).
+- Holmes and Watson pose as anglers at the "Green Dragon" (`text:the-case-book-of-sherlock-holmes.txt#L8864-L8886`).
 
 ## Red herrings and misdirection
 
-The haunted crypt; Mason's fear of murder (`text:the-case-book-of-sherlock-holmes.txt#L8851`).
+The haunted crypt; ~~Mason's fear of murder (`text:the-case-book-of-sherlock-holmes.txt#L8851`)~~ **corrected 2026-10-17** the murder hypothesis is Holmes's, not Mason's (`text:the-case-book-of-sherlock-holmes.txt#L8972-L8989`); the mummy bones, which are the displaced contents of the coffin (`text:the-case-book-of-sherlock-holmes.txt#L9243-L9247`).
 
 ## Twists
 
@@ -147,7 +154,20 @@ No murder. A natural death, concealed for a week.
 ## Ethical questions
 
 - Holmes: "As to the morality or decency of your own conduct, it is not for me to express an opinion" (`text:the-case-book-of-sherlock-holmes.txt#L9264-L9265`). The lucky gambler escapes "scatheless" (`text:the-case-book-of-sherlock-holmes.txt#L9277`).
-- The text contains an antisemitic phrase about moneylenders (`text:the-case-book-of-sherlock-holmes.txt#L8964`).
+- The text contains antisemitic phrases about moneylenders, from Mason, Holmes and Sir Robert (`text:the-case-book-of-sherlock-holmes.txt#L8637-L8638`) (`text:the-case-book-of-sherlock-holmes.txt#L8964`) (`text:the-case-book-of-sherlock-holmes.txt#L9204`).
+- Police and coroner give only "a mild censure for the delay in registering the lady's decease" (`text:the-case-book-of-sherlock-holmes.txt#L9275-L9278`).
+
+## Textual notes
+
+- Opening: Holmes's microscope shows glue on a cap in the St. Pancras case, for Merivale of the Yard; he once ran down a coiner by zinc and copper filings in his cuff seam (`text:the-case-book-of-sherlock-holmes.txt#L8510-L8531`). Watson spends "about half my wound pension" on racing (`text:the-case-book-of-sherlock-holmes.txt#L8536`).
+- A May evening (`text:the-case-book-of-sherlock-holmes.txt#L8880`).
+
+## Pattern tags checked
+
+- Kept `the-vanishing-or-faked-death`, note revised: an inverse case, where a death is hidden and the dead woman is staged as alive.
+- Kept `the-disguised-identity`, `the-animal-instrument`.
+- Technique `natural-history` replaced by `anatomy-and-medicine`: the bones are human, identified by Watson, not a natural-history question.
+- Considered and not added `the-crime-with-no-crime`: the police and coroner find an offence, if only the delay in registering the death (`text:the-case-book-of-sherlock-holmes.txt#L9275-L9278`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -163,12 +183,13 @@ A gambling scion keeps a dead relative "alive" with a deepfaked avatar to delay 
 
 - [The disguised identity](../patterns/the-disguised-identity.md): The maid's husband plays the dead lady in her carriage.
 - [The animal as instrument](../patterns/the-animal-instrument.md): The spaniel that would not greet its "mistress".
-- [The vanishing and the faked death](../patterns/the-vanishing-or-faked-death.md): A death hidden for a week.
+- [The vanishing and the faked death](../patterns/the-vanishing-or-faked-death.md): Inverse: a death hidden for a week, the dead woman played as alive.
 
 **Techniques**
 
 - [Tracking dogs and scent](../techniques/scent-tracking-dogs.md): Holmes releases the spaniel beside the carriage.
-- [Natural history](../techniques/natural-history.md): Old bones in the crypt and a body moved there.
+- [Anatomy and medicine](../techniques/anatomy-and-medicine.md): Watson identifies a charred femur condyle from the furnace.
+- [Disguise and undercover work](../techniques/disguise-and-undercover.md): Holmes and Watson pose as anglers.
 
 **Themes**
 

@@ -5,7 +5,7 @@
 id = "pattern:holmes-lets-the-culprit-go"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T01:02:00+08:00"
+modified = "2026-10-18T01:15:00+08:00"
 origin = "ai"
 title = "Holmes lets the culprit go"
 verified = true
@@ -66,11 +66,6 @@ kind = "appears_in"
 note = "Sterndale goes back to Africa."
 
 [[relation]]
-target = "work:CAS01"
-kind = "appears_in"
-note = "Kitty Winter gets \"the lowest\" sentence; Holmes is not prosecuted for burglary."
-
-[[relation]]
 target = "work:CAS04"
 kind = "appears_in"
 note = "\"I suppose I shall have to compound a felony as usual.\""
@@ -78,7 +73,7 @@ note = "\"I suppose I shall have to compound a felony as usual.\""
 [[relation]]
 target = "work:CAS09"
 kind = "appears_in"
-note = "Holmes only listens; he dissuades her from suicide."
+note = "Holmes does not refer the surviving accomplice to the police: \"The case is closed.\""
 
 [[relation]]
 target = "work:MEM01"
@@ -92,7 +87,7 @@ Holmes, as a private agent, declines to hand a culprit to the law.
 
 Holmes repeatedly states that he is not an official agent (ADV04 (`text:the-adventures-of-sherlock-holmes.txt#L3820-L3822`); ADV07 (`text:the-adventures-of-sherlock-holmes.txt#L6740-L6741`)). His reasons vary: a dying man, a frightened first offender, a scandal to avoid. This is the canon's sharpest question about accountability, and the closest match to the game's theme.
 
-## Occurrences (14 works)
+## Occurrences (13 works)
 
 - [ADV04 The Boscombe Valley Mystery](../works/ADV04.md): Holmes keeps Turner's signed confession unused.
 - [ADV07 The Adventure of the Blue Carbuncle](../works/ADV07.md): "Get out!"
@@ -105,9 +100,8 @@ Holmes repeatedly states that he is not an official agent (ADV04 (`text:the-adve
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): "You are acquitted, Captain Crocker."
 - [RET13 The Adventure of the Second Stain](../works/RET13.md): Holmes returns the letter to the box and screens Lady Hilda.
 - [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): Sterndale goes back to Africa.
-- [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Kitty Winter gets "the lowest" sentence; Holmes is not prosecuted for burglary.
 - [CAS04 The Adventure of the Three Gables](../works/CAS04.md): "I suppose I shall have to compound a felony as usual."
-- [CAS09 The Adventure of the Veiled Lodger](../works/CAS09.md): Holmes only listens; he dissuades her from suicide.
+- [CAS09 The Adventure of the Veiled Lodger](../works/CAS09.md): Holmes does not refer the surviving accomplice to the police: "The case is closed."
 
 ## Relations
 

@@ -76,6 +76,7 @@ character:duke-of-holdernesse	appears_in	work:RET05
 character:duncan-ross	appears_in	work:ADV02
 character:edith-baxter	appears_in	work:MEM01
 character:edith-presbury	appears_in	work:CAS08
+character:edmunds	appears_in	work:CAS09
 character:eduardo-lucas	appears_in	work:RET13
 character:effie-munro	appears_in	work:MEM03
 character:elias-openshaw	appears_in	work:ADV05
@@ -165,6 +166,7 @@ character:janet-tregellis	appears_in	work:MEM06
 character:jefferson-hope	appears_in	work:N1
 character:jephro-rucastle	appears_in	work:ADV12
 character:jim-browner	appears_in	work:MEM02
+character:jimmy-griggs	appears_in	work:CAS09
 character:john-clay	appears_in	work:ADV02
 character:john-clayton	appears_in	work:N3
 character:john-douglas	appears_in	work:N4
@@ -310,6 +312,7 @@ character:mary-morstan	kin_of	character:captain-morstan
 character:mary-sutherland	appears_in	work:ADV03
 character:maud-bellamy	appears_in	work:CAS12
 character:mcmurdo	appears_in	work:N2
+character:mercer	appears_in	work:CAS08
 character:mike-scanlan	appears_in	work:N4
 character:mike-scanlan	member_of	organisation:scowrers
 character:miles-mclaren	appears_in	work:RET09
@@ -494,6 +497,7 @@ character:tobias-gregson	appears_in	work:N1
 character:tobias-gregson	member_of	organisation:scotland-yard
 character:toby	appears_in	work:N2
 character:toller	appears_in	work:ADV12
+character:tom-bellamy	appears_in	work:CAS12
 character:tonga	appears_in	work:N2
 character:trelawney-hope	appears_in	work:RET13
 character:trevor-bennett	appears_in	work:CAS08
@@ -570,7 +574,6 @@ pattern:holmes-lets-the-culprit-go	appears_in	work:ADV04
 pattern:holmes-lets-the-culprit-go	appears_in	work:ADV07
 pattern:holmes-lets-the-culprit-go	appears_in	work:ADV11
 pattern:holmes-lets-the-culprit-go	appears_in	work:BOW06
-pattern:holmes-lets-the-culprit-go	appears_in	work:CAS01
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS04
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS09
 pattern:holmes-lets-the-culprit-go	appears_in	work:MEM01
@@ -609,13 +612,11 @@ pattern:the-avenging-brotherhood	appears_in	work:N2
 pattern:the-avenging-brotherhood	appears_in	work:N4
 pattern:the-avenging-brotherhood	appears_in	work:RET10
 pattern:the-client-who-is-the-culprit	appears_in	work:BOW06
-pattern:the-client-who-is-the-culprit	appears_in	work:CAS06
 pattern:the-client-who-is-the-culprit	appears_in	work:CAS11
 pattern:the-compromising-document	appears_in	work:ADV01
 pattern:the-compromising-document	appears_in	work:ADV11
 pattern:the-compromising-document	appears_in	work:BOW03
 pattern:the-compromising-document	appears_in	work:CAS01
-pattern:the-compromising-document	appears_in	work:CAS03
 pattern:the-compromising-document	appears_in	work:CAS04
 pattern:the-compromising-document	appears_in	work:MEM11
 pattern:the-compromising-document	appears_in	work:RET07
@@ -645,6 +646,8 @@ pattern:the-detective-errs	appears_in	work:ADV08
 pattern:the-detective-errs	appears_in	work:BOW01
 pattern:the-detective-errs	appears_in	work:BOW03
 pattern:the-detective-errs	appears_in	work:BOW05
+pattern:the-detective-errs	appears_in	work:CAS04
+pattern:the-detective-errs	appears_in	work:CAS08
 pattern:the-detective-errs	appears_in	work:CAS12
 pattern:the-detective-errs	appears_in	work:MEM01
 pattern:the-detective-errs	appears_in	work:MEM03
@@ -720,7 +723,9 @@ pattern:the-false-account	appears_in	work:ADV07
 pattern:the-false-account	appears_in	work:ADV11
 pattern:the-false-account	appears_in	work:CAS02
 pattern:the-false-account	appears_in	work:CAS05
+pattern:the-false-account	appears_in	work:CAS07
 pattern:the-false-account	appears_in	work:CAS09
+pattern:the-false-account	appears_in	work:CAS12
 pattern:the-false-account	appears_in	work:MEM03
 pattern:the-false-account	appears_in	work:MEM08
 pattern:the-false-account	appears_in	work:N1
@@ -947,6 +952,7 @@ place:woolwich-arsenal	appears_in	work:BOW03
 place:yoxley-old-place	appears_in	work:RET10
 technique:anatomy-and-medicine	used_in	work:ADV04
 technique:anatomy-and-medicine	used_in	work:CAS02
+technique:anatomy-and-medicine	used_in	work:CAS10
 technique:anatomy-and-medicine	used_in	work:MEM02
 technique:anatomy-and-medicine	used_in	work:MEM07
 technique:ballistics-and-weapons	used_in	work:CAS07
@@ -969,6 +975,7 @@ technique:disguise-and-undercover	used_in	work:BOW05
 technique:disguise-and-undercover	used_in	work:BOW07
 technique:disguise-and-undercover	used_in	work:CAS01
 technique:disguise-and-undercover	used_in	work:CAS03
+technique:disguise-and-undercover	used_in	work:CAS10
 technique:disguise-and-undercover	used_in	work:N2
 technique:disguise-and-undercover	used_in	work:N3
 technique:disguise-and-undercover	used_in	work:RET04
@@ -989,6 +996,7 @@ technique:footprints-and-tracks	used_in	work:ADV04
 technique:footprints-and-tracks	used_in	work:ADV09
 technique:footprints-and-tracks	used_in	work:ADV11
 technique:footprints-and-tracks	used_in	work:BOW06
+technique:footprints-and-tracks	used_in	work:CAS12
 technique:footprints-and-tracks	used_in	work:MEM01
 technique:footprints-and-tracks	used_in	work:MEM08
 technique:footprints-and-tracks	used_in	work:MEM09
@@ -1023,7 +1031,6 @@ technique:handwriting-and-documents	used_in	work:RET09
 technique:handwriting-and-documents	used_in	work:RET11
 technique:natural-history	used_in	work:ADV08
 technique:natural-history	used_in	work:CAS08
-technique:natural-history	used_in	work:CAS10
 technique:natural-history	used_in	work:CAS12
 technique:natural-history	used_in	work:MEM01
 technique:natural-history	used_in	work:N3
@@ -1647,7 +1654,6 @@ work:BOW07	set_in	place:harwich-coast
 work:BOW07	set_in	place:sussex-downs
 work:BOW07	uses_technique	technique:ciphers-and-codes
 work:BOW07	uses_technique	technique:disguise-and-undercover
-work:CAS01	exhibits	pattern:holmes-lets-the-culprit-go
 work:CAS01	exhibits	pattern:the-compromising-document
 work:CAS01	exhibits	pattern:the-detectives-ruse
 work:CAS01	exhibits	pattern:the-disguised-identity
@@ -1682,7 +1688,6 @@ work:CAS02	set_in	place:tuxbury-old-park
 work:CAS02	uses_technique	technique:anatomy-and-medicine
 work:CAS02	uses_technique	technique:elimination-reasoning
 work:CAS02	uses_technique	technique:observation-of-the-person
-work:CAS03	exhibits	pattern:the-compromising-document
 work:CAS03	exhibits	pattern:the-detectives-ruse
 work:CAS03	exhibits	pattern:the-disguised-identity
 work:CAS03	explores	theme:class-and-aristocracy
@@ -1699,6 +1704,7 @@ work:CAS03	uses_technique	technique:disguise-and-undercover
 work:CAS04	exhibits	pattern:holmes-lets-the-culprit-go
 work:CAS04	exhibits	pattern:the-absurd-employment
 work:CAS04	exhibits	pattern:the-compromising-document
+work:CAS04	exhibits	pattern:the-detective-errs
 work:CAS04	explores	theme:class-and-aristocracy
 work:CAS04	explores	theme:reputation-and-scandal
 work:CAS04	explores	theme:women-money-and-marriage
@@ -1729,7 +1735,6 @@ work:CAS05	set_in	place:cheesemans
 work:CAS05	uses_technique	technique:observation-of-the-person
 work:CAS05	uses_technique	technique:poisons-and-toxicology
 work:CAS06	exhibits	pattern:the-absurd-employment
-work:CAS06	exhibits	pattern:the-client-who-is-the-culprit
 work:CAS06	exhibits	pattern:the-disguised-identity
 work:CAS06	explores	theme:greed-and-inheritance
 work:CAS06	features	character:john-watson
@@ -1742,6 +1747,7 @@ work:CAS06	set_in	place:america
 work:CAS06	set_in	place:little-ryder-street
 work:CAS06	uses_technique	technique:handwriting-and-documents
 work:CAS06	uses_technique	technique:records-and-registers
+work:CAS07	exhibits	pattern:the-false-account
 work:CAS07	exhibits	pattern:the-staged-scene
 work:CAS07	exhibits	pattern:the-wrongly-accused
 work:CAS07	explores	theme:justice-outside-the-law
@@ -1759,6 +1765,7 @@ work:CAS07	uses_technique	technique:ballistics-and-weapons
 work:CAS07	uses_technique	technique:reconstruction-and-experiment
 work:CAS08	exhibits	pattern:the-animal-instrument
 work:CAS08	exhibits	pattern:the-crime-with-no-crime
+work:CAS08	exhibits	pattern:the-detective-errs
 work:CAS08	exhibits	pattern:the-medical-deception
 work:CAS08	exhibits	pattern:the-uncanny-explained
 work:CAS08	explores	theme:reason-against-superstition
@@ -1768,6 +1775,7 @@ work:CAS08	features	character:dorak
 work:CAS08	features	character:edith-presbury
 work:CAS08	features	character:john-watson
 work:CAS08	features	character:lowenstein
+work:CAS08	features	character:mercer
 work:CAS08	features	character:professor-presbury
 work:CAS08	features	character:roy-the-wolfhound
 work:CAS08	features	character:sherlock-holmes
@@ -1782,7 +1790,9 @@ work:CAS09	exhibits	pattern:the-false-account
 work:CAS09	exhibits	pattern:the-staged-scene
 work:CAS09	explores	theme:justice-outside-the-law
 work:CAS09	explores	theme:women-money-and-marriage
+work:CAS09	features	character:edmunds
 work:CAS09	features	character:eugenia-ronder
+work:CAS09	features	character:jimmy-griggs
 work:CAS09	features	character:john-watson
 work:CAS09	features	character:leonardo
 work:CAS09	features	character:mrs-merrilow
@@ -1804,7 +1814,8 @@ work:CAS10	features	character:robert-norberton
 work:CAS10	features	character:sam-brewer
 work:CAS10	features	character:sherlock-holmes
 work:CAS10	set_in	place:shoscombe-old-place
-work:CAS10	uses_technique	technique:natural-history
+work:CAS10	uses_technique	technique:anatomy-and-medicine
+work:CAS10	uses_technique	technique:disguise-and-undercover
 work:CAS10	uses_technique	technique:scent-tracking-dogs
 work:CAS11	exhibits	pattern:the-client-who-is-the-culprit
 work:CAS11	exhibits	pattern:the-detectives-ruse
@@ -1829,6 +1840,7 @@ work:CAS12	exhibits	pattern:the-animal-instrument
 work:CAS12	exhibits	pattern:the-concealed-marriage
 work:CAS12	exhibits	pattern:the-detective-errs
 work:CAS12	exhibits	pattern:the-dog-that-did-nothing
+work:CAS12	exhibits	pattern:the-false-account
 work:CAS12	exhibits	pattern:the-uncanny-explained
 work:CAS12	exhibits	pattern:the-wrongly-accused
 work:CAS12	explores	theme:reason-against-superstition
@@ -1838,8 +1850,10 @@ work:CAS12	features	character:ian-murdoch
 work:CAS12	features	character:inspector-bardie
 work:CAS12	features	character:maud-bellamy
 work:CAS12	features	character:sherlock-holmes
+work:CAS12	features	character:tom-bellamy
 work:CAS12	set_in	place:fulworth
 work:CAS12	set_in	place:sussex-downs
+work:CAS12	uses_technique	technique:footprints-and-tracks
 work:CAS12	uses_technique	technique:natural-history
 work:CAS12	uses_technique	technique:records-and-registers
 work:MEM01	exhibits	pattern:holmes-lets-the-culprit-go
