@@ -117,7 +117,7 @@ evidence and does different things:
 
 | Deadline | If missed | The case continues because |
 |---|---|---|
-| **D+18 biobank retention** (earliest samples) | Only D−6 onward survive to D+29. The intake window widens to about D−23 to D−15 and now includes the vault entry. | E16 (provenance) still excludes Erith Reach material, so the vault is excluded on chemistry instead of timing. The player must reason a step further. |
+| **D+18 biobank retention** (earliest samples) | Samples are lost one day at a time (each 30 days after collection); an order obtained at D+24, say, keeps only D−6 onward. The intake window widens to about D−23 to D−15 and now includes the vault entry. | E16 (provenance) still excludes Erith Reach material, so the vault is excluded on chemistry instead of timing. The player must reason a step further. |
 | **D+29 biobank retention** (all samples) | No bioassay. | Contamination surveys (E18) of Elias's home still find the contaminant; Voss can analyse those. Weaker, slower, still sufficient for the Bench to quash the finding. |
 | **D+28 appeal deadline** | The compensation pays out; the finding stands. | The Bench accepts an out-of-time appeal "on fresh evidence of a crime". Slower; Julian is confirmed as Chief Inspector meanwhile. |
 | **D+30 Julian's confirmation** | He becomes Chief Inspector. | He is harder to investigate (Directorate disclosure now passes through his office) but not untouchable; Okafor can still act on E18 to E22. A Chief Inspector arrested is a bigger story. |

@@ -179,6 +179,8 @@
   get a **preservation order** from the Appeal Bench before D+18 to keep the
   earliest samples (D−12 onward); later samples survive to D+29. Chain-of-
   custody forms must be completed at transfer (SQ-25). Voss analyses them.
+  The player learns the biobank exists from Voss, or, if the player has not
+  yet gone to her, from Dr Amari when interviewed at Barts.
 - *Proves:* the samples contain the contaminant, a radionuclide internally
   deposited in Elias's body, at levels consistent with the clinical course
   (SQ-12, SQ-23).
