@@ -5,7 +5,7 @@
 id = "work:MEM03"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:42:00+08:00"
 origin = "ai"
 title = "The Yellow Face"
 verified = true
@@ -79,6 +79,11 @@ kind = "exhibits"
 note = "The \"yellow livid face\" at the window is a mask."
 
 [[relation]]
+target = "pattern:the-disguised-identity"
+kind = "exhibits"
+note = "Lucy wears a mask and long gloves so that no one at the window will see that she is Black."
+
+[[relation]]
 target = "technique:observation-of-the-person"
 kind = "uses_technique"
 note = "The amber pipe: left-handed, muscular, careless, well-to-do."
@@ -130,12 +135,12 @@ No culprit. Effie's motive for secrecy was fear of losing her husband, and of ho
 
 ## Evidence and investigative techniques
 
-- The pipe (`text:the-memoirs-of-sherlock-holmes.txt#L1163-L1215`).
+- The pipe (`text:the-memoirs-of-sherlock-holmes.txt#L1163-L1215`), and Munro's name written in his hat (`text:the-memoirs-of-sherlock-holmes.txt#L1251-L1257`).
 - Inference from the hundred pounds and the photograph on the cottage mantelpiece (`text:the-memoirs-of-sherlock-holmes.txt#L1573`) (`text:the-memoirs-of-sherlock-holmes.txt#L1618-L1624`).
 
 ## Red herrings and misdirection
 
-The yellow face; the first husband's death certificate, which is genuine (`text:the-memoirs-of-sherlock-holmes.txt#L1689`).
+The yellow face; the first husband's death certificate, which is genuine (`text:the-memoirs-of-sherlock-holmes.txt#L1689`). It is a duplicate, because "a great fire at Atlanta" destroyed her papers, and Munro has never seen a photograph of Hebron; these gaps feed Holmes's theory (`text:the-memoirs-of-sherlock-holmes.txt#L1622-L1629`). The "tall, gaunt woman" at the cottage is the child's Scotch nurse (`text:the-memoirs-of-sherlock-holmes.txt#L1382-L1384`) (`text:the-memoirs-of-sherlock-holmes.txt#L1824-L1825`).
 
 ## Twists
 
@@ -144,6 +149,7 @@ Holmes's whole theory is wrong. "Whisper 'Norbury' in my ear" (`text:the-memoirs
 ## Ethical questions
 
 - Watson introduces it as a failure, to show Holmes's limits (`text:the-memoirs-of-sherlock-holmes.txt#L1106`).
+- Holmes backs Munro's forced entry while admitting that "legally, we are putting ourselves hopelessly in the wrong" (`text:the-memoirs-of-sherlock-holmes.txt#L1744-L1747`).
 - The story is written in the racial vocabulary of its time; Effie's fear of exposure, and Munro's acceptance, are its moral centre (`text:the-memoirs-of-sherlock-holmes.txt#L1816-L1819`) (`text:the-memoirs-of-sherlock-holmes.txt#L1855-L1857`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
@@ -164,6 +170,7 @@ A worker hides a child from a first union with a member of a stigmatised group, 
 - [The false account (protective lie, silence or false confession)](../patterns/the-false-account.md): Effie lies about the hundred pounds and the cottage.
 - [The case with no crime](../patterns/the-crime-with-no-crime.md): No crime at all.
 - [The uncanny explained](../patterns/the-uncanny-explained.md): The "yellow livid face" at the window is a mask.
+- [The disguised identity](../patterns/the-disguised-identity.md): Lucy wears a mask and long gloves so that no one at the window will see that she is Black.
 
 **Techniques**
 

@@ -5,7 +5,7 @@
 id = "technique:footprints-and-tracks"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:50:00+08:00"
 origin = "ai"
 title = "Footprints and tracks"
 verified = true
@@ -59,12 +59,12 @@ note = "The prints of a small carnivorous animal on the curtain."
 [[relation]]
 target = "work:MEM09"
 kind = "used_in"
-note = "Three sets of footprints on the stair carpet."
+note = "Three sets of footprints on the stair carpet, their order read from superimposition; the \"son's\" square toes clear Trevelyan."
 
 [[relation]]
 target = "work:MEM11"
 kind = "used_in"
-note = "No wet footprints on the linoleum on a wet night: the thief came by cab."
+note = "No wet marks on the linoleum on a wet night: Holmes deduces a cab, never confirmed; the old break in the fence rail."
 
 [[relation]]
 target = "work:RET05"
@@ -85,6 +85,16 @@ note = "No footprints on the grass verge; cocoanut matting in the corridor."
 target = "work:BOW06"
 kind = "used_in"
 note = "Red gravel from Sterndale's gate."
+
+[[relation]]
+target = "work:MEM10"
+kind = "used_in"
+note = "Deeper outward wheel-tracks show a loaded carriage has just left."
+
+[[relation]]
+target = "work:MEM12"
+kind = "used_in"
+note = "Watson reads two lines of footmarks to the edge and none back."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -99,7 +109,7 @@ Boscombe Pool (`text:the-adventures-of-sherlock-holmes.txt#L3579-L3605`); snow a
 
 Floor-pressure logs, lidar scans of disturbed dust, tyre-tread databases for delivery bots. The weakness Holmes complains of, a crowd that "wallowed all over it" (`text:the-adventures-of-sherlock-holmes.txt#L3582`), becomes contamination of digital scene data by first responders.
 
-## Used in (15 works)
+## Used in (17 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Stride, cab ruts and the square-toed boots in Lauriston Gardens.
 - [N2 The Sign of the Four](../works/N2.md): The small naked feet and the wooden leg.
@@ -110,8 +120,10 @@ Floor-pressure logs, lidar scans of disturbed dust, tyre-tread databases for del
 - [ADV11 The Adventure of the Beryl Coronet](../works/ADV11.md): Booted man, barefoot man, wooden leg, all written in the snow.
 - [MEM01 Silver Blaze](../works/MEM01.md): Horse tracks on the moor, followed by "imagination".
 - [MEM08 The Crooked Man](../works/MEM08.md): The prints of a small carnivorous animal on the curtain.
-- [MEM09 The Resident Patient](../works/MEM09.md): Three sets of footprints on the stair carpet.
-- [MEM11 The Naval Treaty](../works/MEM11.md): No wet footprints on the linoleum on a wet night: the thief came by cab.
+- [MEM09 The Resident Patient](../works/MEM09.md): Three sets of footprints on the stair carpet, their order read from superimposition; the "son's" square toes clear Trevelyan.
+- [MEM10 The Greek Interpreter](../works/MEM10.md): Deeper outward wheel-tracks show a loaded carriage has just left.
+- [MEM11 The Naval Treaty](../works/MEM11.md): No wet marks on the linoleum on a wet night: Holmes deduces a cab, never confirmed; the old break in the fence rail.
+- [MEM12 The Final Problem](../works/MEM12.md): Watson reads two lines of footmarks to the edge and none back.
 - [RET05 The Adventure of the Priory School](../works/RET05.md): Bicycle tyres (Palmer, patched Dunlop) and the direction of travel.
 - [RET09 The Adventure of the Three Students](../works/RET09.md): Lumps of black clay and tan from the jumping-pit.
 - [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): No footprints on the grass verge; cocoanut matting in the corridor.

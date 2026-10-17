@@ -342,6 +342,7 @@ character:mrs-mason	appears_in	work:CAS05
 character:mrs-merrilow	appears_in	work:CAS09
 character:mrs-rucastle	appears_in	work:ADV12
 character:mrs-st-clair	appears_in	work:ADV06
+character:mrs-straker	appears_in	work:MEM01
 character:mrs-tangey	appears_in	work:MEM11
 character:mrs-toller	appears_in	work:ADV12
 character:mrs-warren	appears_in	work:BOW02
@@ -464,6 +465,7 @@ character:shinwell-johnson	appears_in	work:CAS01
 character:sidney-johnson	appears_in	work:BOW03
 character:signora-durando	appears_in	work:BOW01
 character:silas-brown	appears_in	work:MEM01
+character:silver-blaze	appears_in	work:MEM01
 character:sir-james-damery	appears_in	work:CAS01
 character:sir-james-saunders	appears_in	work:CAS02
 character:sir-james-walter	appears_in	work:BOW03
@@ -479,6 +481,7 @@ character:susan-the-maid	appears_in	work:CAS04
 character:tangey	appears_in	work:MEM11
 character:ted-baldwin	appears_in	work:N4
 character:teddy-marvin	appears_in	work:N4
+character:teddy-the-mongoose	appears_in	work:MEM08
 character:thaddeus-sholto	appears_in	work:N2
 character:the-illustrious-client-adv11	appears_in	work:ADV11
 character:theresa-wright	appears_in	work:RET12
@@ -571,7 +574,7 @@ pattern:holmes-lets-the-culprit-go	appears_in	work:BOW06
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS01
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS04
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS09
-pattern:holmes-lets-the-culprit-go	appears_in	work:MEM06
+pattern:holmes-lets-the-culprit-go	appears_in	work:MEM01
 pattern:holmes-lets-the-culprit-go	appears_in	work:MEM11
 pattern:holmes-lets-the-culprit-go	appears_in	work:RET05
 pattern:holmes-lets-the-culprit-go	appears_in	work:RET07
@@ -644,8 +647,11 @@ pattern:the-detective-errs	appears_in	work:ADV05
 pattern:the-detective-errs	appears_in	work:ADV08
 pattern:the-detective-errs	appears_in	work:BOW05
 pattern:the-detective-errs	appears_in	work:CAS12
+pattern:the-detective-errs	appears_in	work:MEM01
 pattern:the-detective-errs	appears_in	work:MEM03
+pattern:the-detective-errs	appears_in	work:MEM06
 pattern:the-detective-errs	appears_in	work:MEM10
+pattern:the-detective-errs	appears_in	work:MEM12
 pattern:the-detective-errs	appears_in	work:N1
 pattern:the-detective-errs	appears_in	work:N3
 pattern:the-detective-errs	appears_in	work:N4
@@ -686,8 +692,10 @@ pattern:the-disguised-identity	appears_in	work:CAS03
 pattern:the-disguised-identity	appears_in	work:CAS06
 pattern:the-disguised-identity	appears_in	work:CAS10
 pattern:the-disguised-identity	appears_in	work:MEM01
+pattern:the-disguised-identity	appears_in	work:MEM03
 pattern:the-disguised-identity	appears_in	work:MEM04
 pattern:the-disguised-identity	appears_in	work:MEM05
+pattern:the-disguised-identity	appears_in	work:MEM10
 pattern:the-disguised-identity	appears_in	work:MEM12
 pattern:the-disguised-identity	appears_in	work:N1
 pattern:the-disguised-identity	appears_in	work:N2
@@ -737,7 +745,6 @@ pattern:the-hidden-message	related_to	technique:ciphers-and-codes
 pattern:the-locked-room	appears_in	work:ADV08
 pattern:the-locked-room	appears_in	work:BOW06
 pattern:the-locked-room	appears_in	work:MEM08
-pattern:the-locked-room	appears_in	work:MEM09
 pattern:the-locked-room	appears_in	work:N2
 pattern:the-locked-room	appears_in	work:N4
 pattern:the-locked-room	appears_in	work:RET01
@@ -754,7 +761,6 @@ pattern:the-past-returning-from-abroad	appears_in	work:ADV10
 pattern:the-past-returning-from-abroad	appears_in	work:BOW02
 pattern:the-past-returning-from-abroad	appears_in	work:MEM05
 pattern:the-past-returning-from-abroad	appears_in	work:MEM08
-pattern:the-past-returning-from-abroad	appears_in	work:MEM09
 pattern:the-past-returning-from-abroad	appears_in	work:N1
 pattern:the-past-returning-from-abroad	appears_in	work:N2
 pattern:the-past-returning-from-abroad	appears_in	work:N3
@@ -982,7 +988,9 @@ technique:footprints-and-tracks	used_in	work:BOW06
 technique:footprints-and-tracks	used_in	work:MEM01
 technique:footprints-and-tracks	used_in	work:MEM08
 technique:footprints-and-tracks	used_in	work:MEM09
+technique:footprints-and-tracks	used_in	work:MEM10
 technique:footprints-and-tracks	used_in	work:MEM11
+technique:footprints-and-tracks	used_in	work:MEM12
 technique:footprints-and-tracks	used_in	work:N1
 technique:footprints-and-tracks	used_in	work:N2
 technique:footprints-and-tracks	used_in	work:N3
@@ -1004,6 +1012,7 @@ technique:handwriting-and-documents	used_in	work:CAS06
 technique:handwriting-and-documents	used_in	work:MEM02
 technique:handwriting-and-documents	used_in	work:MEM04
 technique:handwriting-and-documents	used_in	work:MEM07
+technique:handwriting-and-documents	used_in	work:MEM10
 technique:handwriting-and-documents	used_in	work:N3
 technique:handwriting-and-documents	used_in	work:RET02
 technique:handwriting-and-documents	used_in	work:RET09
@@ -1825,7 +1834,9 @@ work:CAS12	set_in	place:fulworth
 work:CAS12	set_in	place:sussex-downs
 work:CAS12	uses_technique	technique:natural-history
 work:CAS12	uses_technique	technique:records-and-registers
+work:MEM01	exhibits	pattern:holmes-lets-the-culprit-go
 work:MEM01	exhibits	pattern:the-animal-instrument
+work:MEM01	exhibits	pattern:the-detective-errs
 work:MEM01	exhibits	pattern:the-detectives-ruse
 work:MEM01	exhibits	pattern:the-disguised-identity
 work:MEM01	exhibits	pattern:the-dog-that-did-nothing
@@ -1838,9 +1849,11 @@ work:MEM01	features	character:fitzroy-simpson
 work:MEM01	features	character:inspector-gregory
 work:MEM01	features	character:john-straker
 work:MEM01	features	character:john-watson
+work:MEM01	features	character:mrs-straker
 work:MEM01	features	character:ned-hunter
 work:MEM01	features	character:sherlock-holmes
 work:MEM01	features	character:silas-brown
+work:MEM01	features	character:silver-blaze
 work:MEM01	set_in	place:dartmoor
 work:MEM01	set_in	place:kings-pyland
 work:MEM01	uses_technique	technique:elimination-reasoning
@@ -1867,6 +1880,7 @@ work:MEM02	uses_technique	technique:records-and-registers
 work:MEM03	exhibits	pattern:the-concealed-marriage
 work:MEM03	exhibits	pattern:the-crime-with-no-crime
 work:MEM03	exhibits	pattern:the-detective-errs
+work:MEM03	exhibits	pattern:the-disguised-identity
 work:MEM03	exhibits	pattern:the-false-account
 work:MEM03	exhibits	pattern:the-uncanny-explained
 work:MEM03	explores	theme:class-and-aristocracy
@@ -1911,7 +1925,7 @@ work:MEM05	set_in	place:australia
 work:MEM05	set_in	place:donnithorpe
 work:MEM05	uses_technique	technique:ciphers-and-codes
 work:MEM05	uses_technique	technique:observation-of-the-person
-work:MEM06	exhibits	pattern:holmes-lets-the-culprit-go
+work:MEM06	exhibits	pattern:the-detective-errs
 work:MEM06	exhibits	pattern:the-hidden-message
 work:MEM06	exhibits	pattern:the-vanishing-or-faked-death
 work:MEM06	explores	theme:class-and-aristocracy
@@ -1958,13 +1972,12 @@ work:MEM08	features	character:major-murphy
 work:MEM08	features	character:miss-morrison
 work:MEM08	features	character:nancy-barclay
 work:MEM08	features	character:sherlock-holmes
+work:MEM08	features	character:teddy-the-mongoose
 work:MEM08	set_in	place:aldershot
 work:MEM08	set_in	place:india
 work:MEM08	uses_technique	technique:footprints-and-tracks
 work:MEM09	exhibits	pattern:the-avenging-brotherhood
-work:MEM09	exhibits	pattern:the-locked-room
 work:MEM09	exhibits	pattern:the-medical-deception
-work:MEM09	exhibits	pattern:the-past-returning-from-abroad
 work:MEM09	exhibits	pattern:the-staged-scene
 work:MEM09	explores	theme:greed-and-inheritance
 work:MEM09	explores	theme:justice-outside-the-law
@@ -1980,6 +1993,7 @@ work:MEM09	uses_technique	technique:observation-of-the-person
 work:MEM09	uses_technique	technique:tobacco-ash
 work:MEM10	exhibits	pattern:the-absurd-employment
 work:MEM10	exhibits	pattern:the-detective-errs
+work:MEM10	exhibits	pattern:the-disguised-identity
 work:MEM10	exhibits	pattern:the-hidden-message
 work:MEM10	explores	theme:greed-and-inheritance
 work:MEM10	explores	theme:justice-outside-the-law
@@ -1996,6 +2010,8 @@ work:MEM10	involves	organisation:diogenes-club
 work:MEM10	involves	organisation:scotland-yard
 work:MEM10	set_in	place:beckenham
 work:MEM10	set_in	place:london
+work:MEM10	uses_technique	technique:footprints-and-tracks
+work:MEM10	uses_technique	technique:handwriting-and-documents
 work:MEM10	uses_technique	technique:newspapers-and-advertisements
 work:MEM10	uses_technique	technique:observation-of-the-person
 work:MEM10	uses_technique	technique:poisons-and-toxicology
@@ -2022,6 +2038,7 @@ work:MEM11	set_in	place:briarbrae
 work:MEM11	set_in	place:foreign-office
 work:MEM11	uses_technique	technique:footprints-and-tracks
 work:MEM11	uses_technique	technique:reconstruction-and-experiment
+work:MEM12	exhibits	pattern:the-detective-errs
 work:MEM12	exhibits	pattern:the-disguised-identity
 work:MEM12	exhibits	pattern:the-vanishing-or-faked-death
 work:MEM12	explores	theme:policing-official-and-private
@@ -2035,6 +2052,7 @@ work:MEM12	features	character:sherlock-holmes
 work:MEM12	involves	organisation:moriarty-organisation
 work:MEM12	set_in	place:london
 work:MEM12	set_in	place:reichenbach-falls
+work:MEM12	uses_technique	technique:footprints-and-tracks
 work:N1	exhibits	pattern:the-avenging-brotherhood
 work:N1	exhibits	pattern:the-detective-errs
 work:N1	exhibits	pattern:the-detectives-ruse

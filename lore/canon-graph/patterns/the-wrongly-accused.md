@@ -5,7 +5,7 @@
 id = "pattern:the-wrongly-accused"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:44:00+08:00"
 origin = "ai"
 title = "The wrongly accused"
 verified = true
@@ -58,7 +58,7 @@ note = "Simpson, tied to the scene by his cravat."
 [[relation]]
 target = "work:MEM08"
 kind = "appears_in"
-note = "Mrs. Barclay faces trial for a death from apoplexy."
+note = "Mrs. Barclay is suspected of killing her husband with a club; the police are \"only waiting for her to come to her senses to arrest her\"."
 
 [[relation]]
 target = "work:MEM11"
@@ -122,7 +122,7 @@ An innocent person is arrested or charged on circumstantial evidence.
 - [ADV10 The Adventure of the Noble Bachelor](../works/ADV10.md): Flora Millar is arrested.
 - [ADV11 The Adventure of the Beryl Coronet](../works/ADV11.md): Arthur is seen with the coronet in his hands.
 - [MEM01 Silver Blaze](../works/MEM01.md): Simpson, tied to the scene by his cravat.
-- [MEM08 The Crooked Man](../works/MEM08.md): Mrs. Barclay faces trial for a death from apoplexy.
+- [MEM08 The Crooked Man](../works/MEM08.md): Mrs. Barclay is suspected of killing her husband with a club; the police are "only waiting for her to come to her senses to arrest her".
 - [MEM11 The Naval Treaty](../works/MEM11.md): Mrs. Tangey and Gorot are suspected.
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): McFarlane, convicted in advance by the newspapers.
 - [RET03 The Adventure of the Dancing Men](../works/RET03.md): Elsie is thought to have shot her husband and herself.

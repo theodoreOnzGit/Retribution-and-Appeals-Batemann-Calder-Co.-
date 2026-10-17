@@ -5,7 +5,7 @@
 id = "work:MEM05"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:43:00+08:00"
 origin = "ai"
 title = "The \"Gloria Scott\""
 verified = true
@@ -124,12 +124,12 @@ Holmes met Victor Trevor when Trevor's bull terrier froze onto his ankle at coll
 ## Actual chronology
 
 1. As a young bank clerk, James Armitage is convicted for using money that was not his own to pay a "debt of honor" (`text:the-memoirs-of-sherlock-holmes.txt#L3207-L3210`), and is transported and in 1855 sails on the convict ship *Gloria Scott* from Falmouth (`text:the-memoirs-of-sherlock-holmes.txt#L3203-L3229`).
-2. Prendergast leads a mutiny, with warders and the second mate in his pay (`text:the-memoirs-of-sherlock-holmes.txt#L3252`) (`text:the-memoirs-of-sherlock-holmes.txt#L3295`) (`text:the-memoirs-of-sherlock-holmes.txt#L3337`). Armitage, Evans and others, unwilling to join the massacre, are set adrift; the ship explodes; they pick up one survivor, the sailor Hudson (`text:the-memoirs-of-sherlock-holmes.txt#L3395-L3449`).
+2. Prendergast leads a mutiny, with warders and the second mate in his pay (`text:the-memoirs-of-sherlock-holmes.txt#L3252`) (`text:the-memoirs-of-sherlock-holmes.txt#L3295`) (`text:the-memoirs-of-sherlock-holmes.txt#L3337`). Armitage and Evans join the plot, which a sham chaplain, Prendergast's partner Wilson, has armed (`text:the-memoirs-of-sherlock-holmes.txt#L3298-L3337`), and fight the soldiers when the rising breaks out early (`text:the-memoirs-of-sherlock-holmes.txt#L3344-L3387`). Unwilling to see the surviving warders, mates and doctor killed in cold blood, eight men (five convicts and three sailors) are set adrift (`text:the-memoirs-of-sherlock-holmes.txt#L3389-L3405`); the ship explodes; they pick up one survivor, the sailor Hudson (`text:the-memoirs-of-sherlock-holmes.txt#L3395-L3449`).
 3. The *Hotspur* takes them to Sydney; they change their names and make their fortunes on the diggings (`text:the-memoirs-of-sherlock-holmes.txt#L3456-L3461`).
 4. Years later Holmes, staying with Victor, reads old Trevor, who faints on hearing of "J. A." (`text:the-memoirs-of-sherlock-holmes.txt#L2829-L2862`). Holmes says this was the first thing that made him feel a profession might be made of detection (`text:the-memoirs-of-sherlock-holmes.txt#L2850`).
 5. Hudson arrives, and lives on Trevor by threats (`text:the-memoirs-of-sherlock-holmes.txt#L2906-L3021`); he leaves for Beddoes (`text:the-memoirs-of-sherlock-holmes.txt#L3033-L3037`).
 6. A note comes from Fordingbridge: Trevor reads it and dies of a stroke (`text:the-memoirs-of-sherlock-holmes.txt#L3062-L3082`). Holmes decodes it by taking every third word (`text:the-memoirs-of-sherlock-holmes.txt#L3136-L3141`).
-7. Neither Hudson nor Beddoes is heard of again; Holmes believes Beddoes killed Hudson and fled (`text:the-memoirs-of-sherlock-holmes.txt#L3483-L3491`). Victor goes to the Terai to grow tea (`text:the-memoirs-of-sherlock-holmes.txt#L3481`).
+7. Neither Hudson nor Beddoes is heard of again. The police believe that Hudson did away with Beddoes and fled; Holmes believes the opposite, that Beddoes killed Hudson and fled the country (`text:the-memoirs-of-sherlock-holmes.txt#L3483-L3491`). Victor goes to the Terai to grow tea (`text:the-memoirs-of-sherlock-holmes.txt#L3481`).
 
 ## Apparent explanation
 
@@ -141,7 +141,8 @@ Hudson, blackmail. The deaths: Trevor of fear (`text:the-memoirs-of-sherlock-hol
 
 ## Evidence and investigative techniques
 
-- The cipher, every third word (`text:the-memoirs-of-sherlock-holmes.txt#L3136-L3141`).
+- The cipher, every third word (`text:the-memoirs-of-sherlock-holmes.txt#L3136-L3141`). The filler words are about game and shooting, so the sender is a sportsman: Beddoes, who used to invite Trevor to shoot over his preserves (`text:the-memoirs-of-sherlock-holmes.txt#L3148-L3161`). The Fordingbridge postmark points to Hampshire, where Beddoes lives (`text:the-memoirs-of-sherlock-holmes.txt#L3100-L3106`).
+- Holmes's first reading of old Trevor: the lead-loaded stick, a boxer's ears, digging callosities, New Zealand, Japan (`text:the-memoirs-of-sherlock-holmes.txt#L2787-L2830`).
 - The tattooed "J. A." and its attempted erasure (`text:the-memoirs-of-sherlock-holmes.txt#L2829`) (`text:the-memoirs-of-sherlock-holmes.txt#L2862`).
 
 ## Red herrings and misdirection
@@ -150,7 +151,7 @@ The innocent-looking game-supply letter.
 
 ## Twists
 
-Holmes's first deduction kills, indirectly, the man it was about.
+~~Holmes's first deduction kills, indirectly, the man it was about.~~ **corrected 2026-10-17** Holmes's deduction of "J. A." makes old Trevor faint and distrust him (`text:the-memoirs-of-sherlock-holmes.txt#L2828-L2834`) (`text:the-memoirs-of-sherlock-holmes.txt#L2875-L2881`), but what kills Trevor weeks later is Beddoes's warning that Hudson "has told all" (`text:the-memoirs-of-sherlock-holmes.txt#L3061-L3069`) (`text:the-memoirs-of-sherlock-holmes.txt#L3476-L3477`). The twist is that the J.P. known for lenient sentences is a transported felon and mutineer (`text:the-memoirs-of-sherlock-holmes.txt#L2773-L2775`) (`text:the-memoirs-of-sherlock-holmes.txt#L3203-L3218`), and that the betrayal he dies of had not happened: "Beddoes had mistaken a threat for a deed" (`text:the-memoirs-of-sherlock-holmes.txt#L3485-L3486`).
 
 ## Ethical questions
 

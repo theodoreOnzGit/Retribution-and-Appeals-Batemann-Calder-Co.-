@@ -5,7 +5,7 @@
 id = "pattern:the-detectives-ruse"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:40:00+08:00"
+modified = "2026-10-18T00:49:00+08:00"
 origin = "ai"
 title = "The detective's ruse"
 verified = true
@@ -34,7 +34,7 @@ note = "A deliberate mistake on a reward notice, and a pretended fit."
 [[relation]]
 target = "work:MEM11"
 kind = "appears_in"
-note = "The treaty served under a breakfast cover."
+note = "Holmes pretends to leave Woking and keeps Annie in the room all day, so Joseph thinks the coast is clear at night; then the treaty under a breakfast cover."
 
 [[relation]]
 target = "work:RET01"
@@ -124,7 +124,7 @@ Holmes stages an event (a fire alarm, a bait advertisement, a drained moat) to m
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): A staged street brawl and a false fire alarm make Irene reveal the hiding place.
 - [MEM01 Silver Blaze](../works/MEM01.md): Holmes lets Colonel Ross race a horse he does not recognise.
 - [MEM07 The Reigate Squire](../works/MEM07.md): A deliberate mistake on a reward notice, and a pretended fit.
-- [MEM11 The Naval Treaty](../works/MEM11.md): The treaty served under a breakfast cover.
+- [MEM11 The Naval Treaty](../works/MEM11.md): Holmes pretends to leave Woking and keeps Annie in the room all day, so Joseph thinks the coast is clear at night; then the treaty under a breakfast cover.
 - [RET01 The Adventure of the Empty House](../works/RET01.md): A wax bust in the window of 221B as bait.
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): A false fire alarm smokes out the hidden man.
 - [RET03 The Adventure of the Dancing Men](../works/RET03.md): Holmes writes in the dancing men to bring Slaney to the house.

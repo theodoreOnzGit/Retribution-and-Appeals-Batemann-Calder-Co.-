@@ -5,7 +5,7 @@
 id = "technique:reconstruction-and-experiment"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:49:00+08:00"
 origin = "ai"
 title = "Reconstruction and experiment"
 verified = true
@@ -34,7 +34,7 @@ note = "A six-foot rod casting a nine-foot shadow: proportional geometry."
 [[relation]]
 target = "work:MEM11"
 kind = "used_in"
-note = "Holmes waits outside the sick-room for the thief to fetch the papers."
+note = "Holmes lets the thief fetch the papers from their hiding-place rather than rip up the floor."
 
 [[relation]]
 target = "work:RET02"
@@ -85,7 +85,7 @@ Simulation with the Outram Park backend: a dose reconstruction, a transport calc
 - [ADV08 The Adventure of the Speckled Band](../works/ADV08.md): A night vigil in the dead sister's bed.
 - [ADV11 The Adventure of the Beryl Coronet](../works/ADV11.md): Holmes tries to break the coronet himself: it cannot be done silently.
 - [MEM06 The Musgrave Ritual](../works/MEM06.md): A six-foot rod casting a nine-foot shadow: proportional geometry.
-- [MEM11 The Naval Treaty](../works/MEM11.md): Holmes waits outside the sick-room for the thief to fetch the papers.
+- [MEM11 The Naval Treaty](../works/MEM11.md): Holmes lets the thief fetch the papers from their hiding-place rather than rip up the floor.
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): Pacing the corridors: one six feet shorter than the one below.
 - [RET06 The Adventure of Black Peter](../works/RET06.md): Holmes harpoons a dead pig to measure the strength needed.
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): Three glasses, beeswing in only one.

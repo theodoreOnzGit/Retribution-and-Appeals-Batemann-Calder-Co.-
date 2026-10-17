@@ -5,7 +5,7 @@
 id = "work:MEM01"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:41:00+08:00"
 origin = "ai"
 title = "Silver Blaze"
 verified = true
@@ -60,6 +60,16 @@ kind = "features"
 role = "witness"
 
 [[relation]]
+target = "character:mrs-straker"
+kind = "features"
+role = "witness"
+
+[[relation]]
+target = "character:silver-blaze"
+kind = "features"
+role = "the horse; killer in self-defence"
+
+[[relation]]
 target = "place:kings-pyland"
 kind = "set_in"
 
@@ -91,6 +101,16 @@ note = "The horse kills its trainer."
 target = "pattern:the-detectives-ruse"
 kind = "exhibits"
 note = "Holmes lets Colonel Ross race a horse he does not recognise."
+
+[[relation]]
+target = "pattern:the-detective-errs"
+kind = "exhibits"
+note = "Holmes waits a day expecting the horse to turn up, and arrives believing Simpson guilty."
+
+[[relation]]
+target = "pattern:holmes-lets-the-culprit-go"
+kind = "exhibits"
+note = "Silas Brown, who hid the horse, gets \"an amnesty\"."
 
 [[relation]]
 target = "technique:poisons-and-toxicology"
@@ -143,6 +163,8 @@ Short story in *The Memoirs of Sherlock Holmes*, first book publication 1894. Te
 - [Silas Brown](../characters/silas-brown.md), *concealer of the horse*
 - [Ned Hunter](../characters/ned-hunter.md), *drugged witness*
 - [Edith Baxter](../characters/edith-baxter.md), *witness*
+- [Mrs. Straker](../characters/mrs-straker.md), *witness*
+- [Silver Blaze](../characters/silver-blaze.md), *the horse; killer in self-defence*
 
 ## Relationships
 
@@ -174,14 +196,18 @@ Straker died in his own crime; the horse "did it", in self-defence (`text:the-me
 - The milliner's bill, made out to William Derbyshire (`text:the-memoirs-of-sherlock-holmes.txt#L495-L501`).
 - Imagination: "See the value of imagination... It is the one quality which Gregory lacks" (`text:the-memoirs-of-sherlock-holmes.txt#L634`).
 - The lame sheep (`text:the-memoirs-of-sherlock-holmes.txt#L825`).
+- The half-burned wax vesta buried in the mud of the hollow, which Holmes found "because I was looking for it" (`text:the-memoirs-of-sherlock-holmes.txt#L555-L567`).
+- The overcoat was laid on the furze-bush, not blown there: there was no wind (`text:the-memoirs-of-sherlock-holmes.txt#L531-L538`).
+- Holmes asks Mrs. Straker about a dove-coloured silk costume she "never had", and later shows Straker's photograph to the Bond Street milliner, who knew him as Derbyshire with "a very dashing wife" (`text:the-memoirs-of-sherlock-holmes.txt#L516-L526`) (`text:the-memoirs-of-sherlock-holmes.txt#L1056-L1060`) (`text:the-memoirs-of-sherlock-holmes.txt#L1082-L1086`).
+- The horse tracks to Mapleton, and Silas Brown's square-toed boots beside them (`text:the-memoirs-of-sherlock-holmes.txt#L603-L659`) (`text:the-memoirs-of-sherlock-holmes.txt#L732-L745`).
 
 ## Red herrings and misdirection
 
-Simpson's cravat in the dead man's hand (`text:the-memoirs-of-sherlock-holmes.txt#L250-L253`); the theft of the horse; the trainer's apparent self-defence.
+Simpson's cravat in the dead man's hand (`text:the-memoirs-of-sherlock-holmes.txt#L250-L253`); the theft of the horse; the trainer's apparent self-defence. Simpson's bets of five thousand pounds against the favourite and his lead-weighted stick (`text:the-memoirs-of-sherlock-holmes.txt#L277-L291`). Gregory's gypsies, who camped near by and were gone on Tuesday (`text:the-memoirs-of-sherlock-holmes.txt#L404-L408`). Silas Brown's bets on Desborough (`text:the-memoirs-of-sherlock-holmes.txt#L417-L422`).
 
 ## Twists
 
-The victim was the criminal, and the killer was the horse.
+The victim was the criminal, and the killer was the horse. Holmes admits a blunder: he delayed a day expecting the horse to be found, and his theories from the papers were "entirely erroneous"; he went down believing Simpson guilty (`text:the-memoirs-of-sherlock-holmes.txt#L89-L98`) (`text:the-memoirs-of-sherlock-holmes.txt#L978-L983`).
 
 ## Ethical questions
 
@@ -207,6 +233,8 @@ This is one of the brief's named sources for The Quiet Dose: the expected event 
 - [The disguised identity](../patterns/the-disguised-identity.md): Straker as "William Derbyshire"; Silver Blaze's white face disguised.
 - [The animal as instrument](../patterns/the-animal-instrument.md): The horse kills its trainer.
 - [The detective's ruse](../patterns/the-detectives-ruse.md): Holmes lets Colonel Ross race a horse he does not recognise.
+- [The detective errs](../patterns/the-detective-errs.md): Holmes waits a day expecting the horse to turn up, and arrives believing Simpson guilty.
+- [Holmes lets the culprit go](../patterns/holmes-lets-the-culprit-go.md): Silas Brown, who hid the horse, gets "an amnesty".
 
 **Techniques**
 

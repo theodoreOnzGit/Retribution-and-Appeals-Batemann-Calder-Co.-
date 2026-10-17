@@ -67,7 +67,7 @@ relation list is [relations.tsv](relations.tsv).
 - [CAS11: The Adventure of the Retired Colourman](works/CAS11.md)
 - [CAS12: The Adventure of the Lion's Mane](works/CAS12.md)
 
-## Characters (345)
+## Characters (348)
 
 - ["Altamont"](characters/altamont.md)
 - ["Boss" McGinty](characters/jack-mcginty.md)
@@ -322,6 +322,7 @@ relation list is [relations.tsv](relations.tsv).
 - [Mrs. Oakshott (Maggie)](characters/maggie-oakshott.md)
 - [Mrs. Rucastle](characters/mrs-rucastle.md)
 - [Mrs. St. Clair](characters/mrs-st-clair.md)
+- [Mrs. Straker](characters/mrs-straker.md)
 - [Mrs. Tangey](characters/mrs-tangey.md)
 - [Mrs. Toller](characters/mrs-toller.md)
 - [Mrs. Warren](characters/mrs-warren.md)
@@ -367,6 +368,7 @@ relation list is [relations.tsv](relations.tsv).
 - [Sidney Johnson](characters/sidney-johnson.md)
 - [Signora Victor Durando ("Miss Burnet")](characters/signora-durando.md)
 - [Silas Brown](characters/silas-brown.md)
+- [Silver Blaze](characters/silver-blaze.md)
 - [Sir Charles Baskerville](characters/charles-baskerville.md)
 - [Sir Eustace Brackenstall](characters/eustace-brackenstall.md)
 - [Sir George Burnwell](characters/george-burnwell.md)
@@ -382,6 +384,7 @@ relation list is [relations.tsv](relations.tsv).
 - [Susan Cushing](characters/susan-cushing.md)
 - [Tangey](characters/tangey.md)
 - [Ted Baldwin](characters/ted-baldwin.md)
+- [Teddy (the mongoose)](characters/teddy-the-mongoose.md)
 - [Thaddeus Sholto](characters/thaddeus-sholto.md)
 - [The Beddington brothers](characters/beddington-brothers.md)
 - [The Countess of Morcar](characters/countess-of-morcar.md)

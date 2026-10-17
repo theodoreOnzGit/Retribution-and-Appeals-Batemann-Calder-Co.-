@@ -5,7 +5,7 @@
 id = "pattern:holmes-lets-the-culprit-go"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:43:00+08:00"
 origin = "ai"
 title = "Holmes lets the culprit go"
 verified = true
@@ -29,11 +29,6 @@ note = "\"Get out!\""
 target = "work:ADV11"
 kind = "appears_in"
 note = "Burnwell is promised no prosecution so that the gems can be bought back."
-
-[[relation]]
-target = "work:MEM06"
-kind = "appears_in"
-note = "Rachel Howells is never traced; \"nothing was ever heard\"."
 
 [[relation]]
 target = "work:MEM11"
@@ -89,6 +84,11 @@ note = "\"I suppose I shall have to compound a felony as usual.\""
 target = "work:CAS09"
 kind = "appears_in"
 note = "Holmes only listens; he dissuades her from suicide."
+
+[[relation]]
+target = "work:MEM01"
+kind = "appears_in"
+note = "Silas Brown, who hid the horse, gets \"an amnesty\"."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -102,7 +102,7 @@ Holmes repeatedly states that he is not an official agent (ADV04 (`text:the-adve
 - [ADV04 The Boscombe Valley Mystery](../works/ADV04.md): Holmes keeps Turner's signed confession unused.
 - [ADV07 The Adventure of the Blue Carbuncle](../works/ADV07.md): "Get out!"
 - [ADV11 The Adventure of the Beryl Coronet](../works/ADV11.md): Burnwell is promised no prosecution so that the gems can be bought back.
-- [MEM06 The Musgrave Ritual](../works/MEM06.md): Rachel Howells is never traced; "nothing was ever heard".
+- [MEM01 Silver Blaze](../works/MEM01.md): Silas Brown, who hid the horse, gets "an amnesty".
 - [MEM11 The Naval Treaty](../works/MEM11.md): Holmes lets Harrison go, "all the better for the government".
 - [RET05 The Adventure of the Priory School](../works/RET05.md): Wilder goes to Australia; Holmes keeps the Duke's secret for a fee.
 - [RET07 The Adventure of Charles Augustus Milverton](../works/RET07.md): "My sympathies are with the criminals rather than with the victim."

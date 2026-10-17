@@ -5,7 +5,7 @@
 id = "theme:justice-outside-the-law"
 kind = "theme"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:47:00+08:00"
 origin = "ai"
 title = "Justice outside the law"
 verified = true
@@ -68,7 +68,7 @@ note = "The betrayer dies of the shock; no one is punished."
 [[relation]]
 target = "work:MEM09"
 kind = "explored_in"
-note = "\"Whatever... justice is still there to avenge.\""
+note = "Holmes: \"though that shield may fail to guard, the sword of justice is still there to avenge.\""
 
 [[relation]]
 target = "work:MEM10"
@@ -159,7 +159,7 @@ Holmes as a private agent who judges, forgives or punishes where the law cannot 
 - [MEM02 The Adventure of the Cardboard Box](../works/MEM02.md): "What object is served by this circle of misery and violence and fear?"
 - [MEM05 The "Gloria Scott"](../works/MEM05.md): A secret kept for thirty years, and a death from fear of exposure.
 - [MEM08 The Crooked Man](../works/MEM08.md): The betrayer dies of the shock; no one is punished.
-- [MEM09 The Resident Patient](../works/MEM09.md): "Whatever... justice is still there to avenge."
+- [MEM09 The Resident Patient](../works/MEM09.md): Holmes: "though that shield may fail to guard, the sword of justice is still there to avenge."
 - [MEM10 The Greek Interpreter](../works/MEM10.md): The two Englishmen are found stabbed in Buda-Pesth.
 - [RET01 The Adventure of the Empty House](../works/RET01.md): Holmes will not appear; Lestrade takes the credit.
 - [RET04 The Adventure of the Solitary Cyclist](../works/RET04.md): Holmes "represents the official police until they come".
