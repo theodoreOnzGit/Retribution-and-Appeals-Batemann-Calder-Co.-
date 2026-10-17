@@ -45,7 +45,7 @@
 
 **E02. Elias's lifetime occupational dose record**
 - *Where / how:* Mara, as next of kin, requests it from B&C (granted D+6).
-- *Proves:* a lifetime external effective dose of about 180 mSv over 41
+- *Proves:* a lifetime external effective dose of about 180 mSv over 43
   years *(placeholder, SQ-08)*, every year within the limits; routine
   bioassay eight months earlier was negative.
 - *Does NOT prove:* that Elias had no intake on D−19; routine bioassay was

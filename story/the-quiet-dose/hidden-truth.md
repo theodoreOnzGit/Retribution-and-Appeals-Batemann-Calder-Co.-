@@ -45,7 +45,7 @@ Every name below is invented. Ages are for 2189.
 
 | Name | Role | In the brief? |
 |---|---|---|
-| **Elias Ward**, 61 | Senior waste-characterisation engineer, Erith Reach decommissioning. Joined the station as an apprentice in 2148. Widower (wife Ruth died 2171). | Yes (provisional) |
+| **Elias Ward**, 61 | Senior waste-characterisation engineer, Erith Reach decommissioning. Joined the station as an apprentice in 2146, aged 18. Widower (wife Ruth died 2171). | Yes (provisional) |
 | **Mara Ward**, 29 | His daughter; an auditor of public AI systems for the city. Can read AI decision logs, which matters. | Yes (provisional) |
 | **Dr Evelyn Voss**, 56 | Physician and radiochemist; runs the Voss Bioassay Laboratory in Smithfield on a Vale Foundation grant. Elias's partner for four years, a relationship both kept private and Mara resented. | Yes (relationship invented) |
 | **Anthony Vale** | Philanthropist; opens a decommissioning workers' clinic in Belvedere Flats in the opening chapter | Yes (locked) |
@@ -79,7 +79,7 @@ below the action level. The clean-up waste (soil, filters, yard material) was
 removed quietly as "routine maintenance waste" and placed in **Vault 3**,
 declared with inventories that matched the rewritten survey. Ward and Marsh
 were told to countersign the rewritten survey. Both did. Ward did it because
-Ruth was pregnant with Mara and he was told he would never work again if he
+he and Ruth had just married and he was told he would never work again if he
 refused; Marsh did it because he wanted the career that followed.
 
 Who leaned on them is open. It can be a Compact act, or the act of people who
@@ -125,7 +125,7 @@ D0 is the day of Elias's death. "B&C" is the provisional employer.
 
 | Day | Event | Who knows |
 |---|---|---|
-| D−60 to D−40 | **The opening chapter** (`story/opening-chapter.md`): the player meets Elias, Mara, Julian, Voss, Hale and Vale | Everyone |
+| D−60 to D−35 | **The opening chapter** (`story/opening-chapter.md`): the player meets Elias, Mara, Julian, Voss, Hale and Vale | Everyone |
 | D−26 | Elias writes a statement for the Directorate about the 2158 survey, naming himself and Julian as co-signatories. Stores it in his personal vault. Books an appointment at the Directorate for the 14th (D−11) and, with Voss, a week's holiday for the week after. | Elias, Voss (holiday only) |
 | D−25 | Elias tells Julian at a pub in Woolwich, and asks him to come forward with him. Julian asks for two weeks "to put my house in order". Elias agrees and sets the 14th of the next month (D−11) as the date. Elias's diary: *"Told J. He asked for time. Giving him until the 14th."* | Elias, Julian |
 | D−24 | Elias asks Hale, through the normal system, for an independent destructive sample of package 3-117. Hale refuses: legacy packages are not to be opened before the scheduled campaign. (Hale does not know why Elias asked.) | Elias, Hale |
@@ -134,7 +134,7 @@ D0 is the day of Elias's death. "B&C" is the provisional employer.
 | D−21 | B&C's automated access audit flags "controlled-area entry without electronic dosimeter: E. Ward, Vault 3". Hale files the mandatory notification to the Directorate, as the law requires, and puts a note on Elias's dose record. The notification goes to the inspector for Erith Reach: **Julian Marsh**. | Hale, Julian |
 | D−20 | Julian marks the notification **"reviewed: no action"**. He does not recuse himself despite his friendship. For a man who reports everything (established in the opening chapter), this is the dog that did not bark. | Julian |
 | D−20, evening | Elias visits Voss's lab to see her preliminary results; they share a takeaway supper there. | Elias, Voss |
-| D−19, evening | **The monthly dinner** at Julian's flat in Woolwich Reach, a ritual of thirty years. Julian always cooks; Elias always brings the wine (established in the opening chapter). Julian says he will be ready by the 14th. **Elias's intake of the contaminant occurs during this evening.** The story never shows or describes how. | Julian |
+| D−19 (Thursday the 6th), evening | **The monthly dinner** (first Thursday of the month) at Julian's flat in Woolwich Reach, a ritual of thirty years. Julian always cooks; Elias always brings the wine (established in the opening chapter). Julian says he will be ready by the 14th. **Elias's intake of the contaminant occurs during this evening.** The story never shows or describes how. | Julian |
 | D−18, 07:40 | Julian's household system books an urgent professional deep clean of the flat for that afternoon. He has never booked one before. | Julian |
 | D−17 | Elias attends a Line Crews' Union meeting in Belvedere Flats, where Tobias Crane publicly accuses him of "signing away the Reach". Afterwards, in the car park, Elias tells Crane privately: "Give me two weeks, Tobias, and the Reach will have what it needs." | Crane, many witnesses (the quarrel only) |
 | D−16 to D−13 | Elias has nausea and fatigue; thinks it is a stomach bug. Mara notices he is not eating. | Mara |
