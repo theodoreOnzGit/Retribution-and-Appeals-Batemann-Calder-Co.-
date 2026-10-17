@@ -5,7 +5,7 @@
 id = "worldbuilding:empire-and-the-colonies"
 kind = "worldbuilding"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:20:00+08:00"
 origin = "ai"
 title = "Empire and the wider world in the canon"
 verified = false
@@ -20,7 +20,7 @@ target = "pattern:the-past-returning-from-abroad"
 kind = "related_to"
 ```
 
-**Verification:** recall-based (`verified = false`). Historical or general context written from general knowledge, not from `canon/texts/`; it has not been checked against a source. Canon citations in it, where given, were checked against the text.
+**Verification:** recall-based (`verified = false`). Historical or general context written from general knowledge, not from `canon/texts/`; ~~it has not been checked against a source~~ **corrected 2026-10-17** its historical claims were checked by web search on 2026-10-17 (see "Web check" below). The sources are secondary and were read as search summaries, not in full. Canon citations in it, where given, were checked against the text.
 
 India, Australia, America, Africa and South America as sources of fortunes, crimes and returning pasts.
 
@@ -36,9 +36,15 @@ India, Australia, America, Africa and South America as sources of fortunes, crim
 
 Several stories describe non-white characters in racist terms or treat other cultures as sinister: Tonga (N2), the cook and "voodoo" in BOW01 (`text:his-last-bow-01-wisteria-lodge.txt#L1295-L1300`), Steve Dixie (CAS04), the Mormon settlement (N1), and the racial vocabulary of MEM03. An antisemitic phrase occurs in CAS10 (`text:the-case-book-of-sherlock-holmes.txt#L8964`). The game should not reproduce these portrayals.
 
-## Historical context (recall, not checked)
+## Historical context (recall, ~~not checked~~ **corrected 2026-10-17** partly web-checked; see below)
 
 The Indian Rebellion of 1857 (the canon's "Mutiny"), the Boer War (1899-1902) and Reconstruction in the American South are the real events behind several stories. Stated from recall.
+
+## Web check (2026-10-17)
+
+- **Indian Rebellion of 1857: confirmed.** It began with the Meerut mutiny of 10-11 May 1857. Its other names include "the Indian Mutiny", the canon's term. Source: <https://en.wikipedia.org/wiki/Meerut_mutiny>.
+- **Boer War 1899-1902: confirmed.** It began in October 1899 and ended with the Treaty of Vereeniging, 31 May 1902. Source: <https://en.wikipedia.org/wiki/Treaty_of_Vereeniging>.
+- **Reconstruction in the American South: not searched; unsourced.**
 
 ## Relations
 
