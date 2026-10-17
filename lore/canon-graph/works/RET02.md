@@ -5,7 +5,7 @@
 id = "work:RET02"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:52:00+08:00"
 origin = "ai"
 title = "The Adventure of the Norwood Builder"
 verified = true
@@ -71,12 +71,17 @@ note = "Blood on the stick, a burned wood-pile, a thumb print in blood."
 [[relation]]
 target = "pattern:the-dog-that-did-nothing"
 kind = "exhibits"
-note = "The thumb-mark was not on the wall yesterday."
+note = "The thumb-mark was not on the wall yesterday; no third man's footmarks."
 
 [[relation]]
 target = "pattern:the-detectives-ruse"
 kind = "exhibits"
 note = "A false fire alarm smokes out the hidden man."
+
+[[relation]]
+target = "pattern:the-false-account"
+kind = "exhibits"
+note = "Mrs. Lexington lies to cover her master and, Holmes thinks, may have placed the thumb-mark."
 
 [[relation]]
 target = "technique:fingerprints"
@@ -124,16 +129,17 @@ Short story in *The Return of Sherlock Holmes*, first book publication 1905. Tex
 
 ## Relationships
 
-Oldacre was once refused by McFarlane's mother (`text:the-return-of-sherlock-holmes.txt#L1885`). Mrs. Lexington keeps his house (`text:the-return-of-sherlock-holmes.txt#L1466`).
+Oldacre was once ~~refused by~~ **corrected 2026-10-17** engaged to McFarlane's mother, who broke it off on hearing he had turned a cat loose in an aviary; he sent her own photograph, slashed with a knife, with his curse on her wedding morning (`text:the-return-of-sherlock-holmes.txt#L1401-L1409`) (`text:the-return-of-sherlock-holmes.txt#L1885`). Mrs. Lexington keeps his house (`text:the-return-of-sherlock-holmes.txt#L1466`).
 
 ## Actual chronology
 
 1. Oldacre, in financial difficulty, pays large cheques to a "Mr. Cornelius", intending to change his name and vanish (`text:the-return-of-sherlock-holmes.txt#L1508-L1515`) (`text:the-return-of-sherlock-holmes.txt#L1891-L1896`).
 2. He calls on McFarlane and has him draw up a will leaving McFarlane everything (`text:the-return-of-sherlock-holmes.txt#L1143-L1170`); he wrote the draft in the train (`text:the-return-of-sherlock-holmes.txt#L1251-L1256`).
-3. That night at Deep Dene House he gets McFarlane to press his thumb onto a wax seal (`text:the-return-of-sherlock-holmes.txt#L1862-L1864`) and keeps his stick (`text:the-return-of-sherlock-holmes.txt#L1208-L1210`).
-4. After McFarlane leaves, Oldacre fires the wood-pile, with (Holmes guesses) rabbits for the "charred remains", and hides in a secret space behind a partition (`text:the-return-of-sherlock-holmes.txt#L1077-L1078`) (`text:the-return-of-sherlock-holmes.txt#L1831`) (`text:the-return-of-sherlock-holmes.txt#L1938-L1944`).
+3. That night at Deep Dene House, with McFarlane's parents kept in the dark ("a little surprise for them", `text:the-return-of-sherlock-holmes.txt#L1169-L1172`), Oldacre goes through the papers with him, and, on Holmes's reconstruction, has him secure a wax seal with his thumb, "very likely" with no plan yet for it (`text:the-return-of-sherlock-holmes.txt#L1862-L1867`); he keeps McFarlane's stick and lets him out by the French window (`text:the-return-of-sherlock-holmes.txt#L1196-L1213`).
+4. After McFarlane leaves, Oldacre smears blood in the room and on the stick, drags a bundle through the privet hedge, takes the more valuable deeds, and fires the wood-pile with his old trousers (buttons marked "Hyams", his tailor) and, Holmes guesses, rabbits for the "charred remains", and hides in a secret space behind a partition (`text:the-return-of-sherlock-holmes.txt#L1077-L1078`) (`text:the-return-of-sherlock-holmes.txt#L1831`) (`text:the-return-of-sherlock-holmes.txt#L1938-L1944`).
 5. McFarlane is arrested by Lestrade at Baker Street (`text:the-return-of-sherlock-holmes.txt#L1105-L1113`).
-6. Next day a bloody thumb-print appears in the hall, matching McFarlane's; Holmes knows it was not there the day before (`text:the-return-of-sherlock-holmes.txt#L1580-L1596`) (`text:the-return-of-sherlock-holmes.txt#L1674-L1676`). It was made from the wax seal (`text:the-return-of-sherlock-holmes.txt#L1869-L1875`).
+5a. Mrs. Lexington, the housekeeper, tells Holmes she heard nothing and that McFarlane left his hat and stick in the hall (`text:the-return-of-sherlock-holmes.txt#L1465-L1483`).
+6. Next day a bloody thumb-print appears in the hall, found by Mrs. Lexington and shown to the night constable, matching McFarlane's; Holmes knows it was not there the day before (`text:the-return-of-sherlock-holmes.txt#L1580-L1596`) (`text:the-return-of-sherlock-holmes.txt#L1674-L1676`). Holmes's explanation, offered as a wager on the seal among the papers in the hiding-place: a wax impression of the seal moistened with blood from a pin-prick, put on by Oldacre or his housekeeper (`text:the-return-of-sherlock-holmes.txt#L1869-L1875`).
 7. Holmes finds the corridor six feet short, burns straw and has the constables cry fire; Oldacre bolts out of the wall (`text:the-return-of-sherlock-holmes.txt#L1730-L1784`) (`text:the-return-of-sherlock-holmes.txt#L1844`).
 
 ## Apparent explanation
@@ -147,13 +153,16 @@ Jonas Oldacre, to swindle his creditors, vanish, and take "an ample and crushing
 ## Evidence and investigative techniques
 
 - The will's handwriting (`text:the-return-of-sherlock-holmes.txt#L1251-L1256`).
-- The cheques to Cornelius (`text:the-return-of-sherlock-holmes.txt#L1508-L1515`).
+- The cheques to Cornelius (`text:the-return-of-sherlock-holmes.txt#L1508-L1515`), which Holmes believes, without having traced them, were banked by Oldacre himself under that name in a provincial town (`text:the-return-of-sherlock-holmes.txt#L1891-L1897`).
+- Valuable deeds missing from the safe: "who would steal a thing if he knew that he would shortly inherit it?" (`text:the-return-of-sherlock-holmes.txt#L1453-L1463`).
+- Footmarks of only two men on the bedroom carpet; the trouser buttons in the ashes (`text:the-return-of-sherlock-holmes.txt#L1433-L1449`).
+- Holmes goes to Blackheath first, to the earlier "singular incident" of the will, and learns the history from the mother (`text:the-return-of-sherlock-holmes.txt#L1357-L1363`) (`text:the-return-of-sherlock-holmes.txt#L1883-L1887`).
 - The thumb-mark that appeared overnight (`text:the-return-of-sherlock-holmes.txt#L1674-L1676`).
 - The measured corridor (`text:the-return-of-sherlock-holmes.txt#L1844`).
 
 ## Red herrings and misdirection
 
-The newspapers' story; the blood; the charred remains; the thumb-mark itself.
+The newspapers' story (`text:the-return-of-sherlock-holmes.txt#L1038-L1084`); the blood; the charred remains; the thumb-mark itself. Holmes's own "tramp" theory, offered to Lestrade as one of "half a dozen" (`text:the-return-of-sherlock-holmes.txt#L1309-L1328`). The mother's bitterness, which strengthens the police case (`text:the-return-of-sherlock-holmes.txt#L1391-L1397`). Holmes's low point: "for once the fellow is on the right track and we are on the wrong" (`text:the-return-of-sherlock-holmes.txt#L1377-L1382`).
 
 ## Twists
 
@@ -161,11 +170,16 @@ The "murder victim" is alive in the wall (`text:the-return-of-sherlock-holmes.tx
 
 ## Ethical questions
 
-Holmes keeps quiet about the thumb-mark until the end to "mystify" Lestrade (`text:the-return-of-sherlock-holmes.txt#L1848`); McFarlane's suffering meanwhile. Oldacre calls it "a practical joke" (`text:the-return-of-sherlock-holmes.txt#L1806`) (`text:the-return-of-sherlock-holmes.txt#L1919`).
+Holmes stages the fire alarm, though "we could, of course, have gone in and taken him", because "I owed you a little mystification, Lestrade" (`text:the-return-of-sherlock-holmes.txt#L1843-L1849`); he hands Lestrade the credit (`text:the-return-of-sherlock-holmes.txt#L1819-L1827`). McFarlane's suffering meanwhile. Oldacre calls it "a practical joke" (`text:the-return-of-sherlock-holmes.txt#L1806`) (`text:the-return-of-sherlock-holmes.txt#L1919`).
 
 ## Textual notes
 
 Watson has sold his practice to a Dr. Verner, a distant relation of Holmes's who was funded by Holmes (`text:the-return-of-sherlock-holmes.txt#L939-L942`).
+
+## Pattern tags checked
+
+- Added 2026-10-17: *the false account*. Mrs. Lexington, "as close as wax", lies about the stick and what she heard, and Holmes has her arrested as Oldacre's confederate (`text:the-return-of-sherlock-holmes.txt#L1465-L1489`) (`text:the-return-of-sherlock-holmes.txt#L1836-L1839`).
+- Kept: *the vanishing or faked death*, *the wrongly accused*, *the staged scene*, *the detective's ruse*, *the dog that did nothing* (the hall wall was clear the day before, `text:the-return-of-sherlock-holmes.txt#L1854-L1858`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -186,8 +200,9 @@ A biometric fingerprint is lifted from a sealed authorisation token and replayed
 - [The vanishing and the faked death](../patterns/the-vanishing-or-faked-death.md): Oldacre hides in a secret room while the police look for his body.
 - [The wrongly accused](../patterns/the-wrongly-accused.md): McFarlane, convicted in advance by the newspapers.
 - [The staged scene](../patterns/the-staged-scene.md): Blood on the stick, a burned wood-pile, a thumb print in blood.
-- [The significant absence (the dog that did nothing)](../patterns/the-dog-that-did-nothing.md): The thumb-mark was not on the wall yesterday.
+- [The significant absence (the dog that did nothing)](../patterns/the-dog-that-did-nothing.md): The thumb-mark was not on the wall yesterday; no third man's footmarks.
 - [The detective's ruse](../patterns/the-detectives-ruse.md): A false fire alarm smokes out the hidden man.
+- [The false account (protective lie, silence or false confession)](../patterns/the-false-account.md): Mrs. Lexington lies to cover her master and, Holmes thinks, may have placed the thumb-mark.
 
 **Techniques**
 

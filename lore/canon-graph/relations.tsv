@@ -156,6 +156,7 @@ character:james-m-dodd	appears_in	work:CAS02
 character:james-mccarthy	appears_in	work:ADV04
 character:james-moriarty	appears_in	work:MEM12
 character:james-moriarty	appears_in	work:N4
+character:james-moriarty	appears_in	work:RET01
 character:james-mortimer	appears_in	work:N3
 character:james-ryder	appears_in	work:ADV07
 character:james-wilder	appears_in	work:RET05
@@ -608,7 +609,6 @@ pattern:the-avenging-brotherhood	appears_in	work:MEM09
 pattern:the-avenging-brotherhood	appears_in	work:N1
 pattern:the-avenging-brotherhood	appears_in	work:N2
 pattern:the-avenging-brotherhood	appears_in	work:N4
-pattern:the-avenging-brotherhood	appears_in	work:RET08
 pattern:the-avenging-brotherhood	appears_in	work:RET10
 pattern:the-client-who-is-the-culprit	appears_in	work:BOW06
 pattern:the-client-who-is-the-culprit	appears_in	work:CAS06
@@ -629,7 +629,6 @@ pattern:the-concealed-marriage	appears_in	work:ADV10
 pattern:the-concealed-marriage	appears_in	work:CAS12
 pattern:the-concealed-marriage	appears_in	work:MEM03
 pattern:the-concealed-marriage	appears_in	work:N3
-pattern:the-concealed-marriage	appears_in	work:RET03
 pattern:the-concealed-marriage	appears_in	work:RET11
 pattern:the-concealed-marriage	related_to	theme:women-money-and-marriage
 pattern:the-crime-with-no-crime	appears_in	work:ADV01
@@ -657,6 +656,9 @@ pattern:the-detective-errs	appears_in	work:N3
 pattern:the-detective-errs	appears_in	work:N4
 pattern:the-detective-errs	appears_in	work:RET03
 pattern:the-detective-errs	appears_in	work:RET04
+pattern:the-detective-errs	appears_in	work:RET07
+pattern:the-detective-errs	appears_in	work:RET11
+pattern:the-detective-errs	appears_in	work:RET12
 pattern:the-detectives-ruse	appears_in	work:ADV01
 pattern:the-detectives-ruse	appears_in	work:BOW01
 pattern:the-detectives-ruse	appears_in	work:BOW03
@@ -724,6 +726,7 @@ pattern:the-false-account	appears_in	work:MEM08
 pattern:the-false-account	appears_in	work:N1
 pattern:the-false-account	appears_in	work:N3
 pattern:the-false-account	appears_in	work:N4
+pattern:the-false-account	appears_in	work:RET02
 pattern:the-false-account	appears_in	work:RET05
 pattern:the-false-account	appears_in	work:RET09
 pattern:the-false-account	appears_in	work:RET12
@@ -784,9 +787,7 @@ pattern:the-staged-scene	appears_in	work:N1
 pattern:the-staged-scene	appears_in	work:N4
 pattern:the-staged-scene	appears_in	work:RET02
 pattern:the-staged-scene	appears_in	work:RET05
-pattern:the-staged-scene	appears_in	work:RET08
 pattern:the-staged-scene	appears_in	work:RET12
-pattern:the-staged-scene	appears_in	work:RET13
 pattern:the-uncanny-explained	appears_in	work:ADV08
 pattern:the-uncanny-explained	appears_in	work:BOW01
 pattern:the-uncanny-explained	appears_in	work:BOW06
@@ -826,9 +827,11 @@ pattern:the-wrongly-accused	appears_in	work:N1
 pattern:the-wrongly-accused	appears_in	work:N2
 pattern:the-wrongly-accused	appears_in	work:RET02
 pattern:the-wrongly-accused	appears_in	work:RET03
+pattern:the-wrongly-accused	appears_in	work:RET05
 pattern:the-wrongly-accused	appears_in	work:RET06
 pattern:the-wrongly-accused	appears_in	work:RET10
 pattern:the-wrongly-accused	appears_in	work:RET12
+pattern:the-wrongly-accused	appears_in	work:RET13
 pattern:the-wrongly-accused	related_to	theme:policing-official-and-private
 place:abbas-parva	appears_in	work:CAS09
 place:abbey-grange	appears_in	work:RET12
@@ -1029,6 +1032,7 @@ technique:newspapers-and-advertisements	used_in	work:BOW03
 technique:newspapers-and-advertisements	used_in	work:MEM04
 technique:newspapers-and-advertisements	used_in	work:MEM10
 technique:newspapers-and-advertisements	used_in	work:N1
+technique:newspapers-and-advertisements	used_in	work:RET08
 technique:observation-of-the-person	used_in	work:ADV01
 technique:observation-of-the-person	used_in	work:ADV02
 technique:observation-of-the-person	used_in	work:ADV03
@@ -1111,6 +1115,8 @@ technique:scent-tracking-dogs	used_in	work:RET11
 technique:tobacco-ash	used_in	work:ADV04
 technique:tobacco-ash	used_in	work:MEM09
 technique:tobacco-ash	used_in	work:N1
+technique:tobacco-ash	used_in	work:RET06
+technique:tobacco-ash	used_in	work:RET10
 technique:typewriter-identification	used_in	work:ADV03
 theme:addiction	explored_in	work:ADV06
 theme:addiction	explored_in	work:MEM02
@@ -2235,6 +2241,7 @@ work:RET01	exhibits	pattern:the-locked-room
 work:RET01	exhibits	pattern:the-vanishing-or-faked-death
 work:RET01	explores	theme:class-and-aristocracy
 work:RET01	explores	theme:justice-outside-the-law
+work:RET01	features	character:james-moriarty
 work:RET01	features	character:john-watson
 work:RET01	features	character:lestrade
 work:RET01	features	character:mrs-hudson
@@ -2254,6 +2261,7 @@ work:RET01	uses_technique	technique:ballistics-and-weapons
 work:RET01	uses_technique	technique:records-and-registers
 work:RET02	exhibits	pattern:the-detectives-ruse
 work:RET02	exhibits	pattern:the-dog-that-did-nothing
+work:RET02	exhibits	pattern:the-false-account
 work:RET02	exhibits	pattern:the-staged-scene
 work:RET02	exhibits	pattern:the-vanishing-or-faked-death
 work:RET02	exhibits	pattern:the-wrongly-accused
@@ -2271,7 +2279,6 @@ work:RET02	uses_technique	technique:fingerprints
 work:RET02	uses_technique	technique:handwriting-and-documents
 work:RET02	uses_technique	technique:reconstruction-and-experiment
 work:RET02	uses_technique	technique:records-and-registers
-work:RET03	exhibits	pattern:the-concealed-marriage
 work:RET03	exhibits	pattern:the-detective-errs
 work:RET03	exhibits	pattern:the-detectives-ruse
 work:RET03	exhibits	pattern:the-hidden-message
@@ -2312,6 +2319,7 @@ work:RET05	exhibits	pattern:holmes-lets-the-culprit-go
 work:RET05	exhibits	pattern:the-dog-that-did-nothing
 work:RET05	exhibits	pattern:the-false-account
 work:RET05	exhibits	pattern:the-staged-scene
+work:RET05	exhibits	pattern:the-wrongly-accused
 work:RET05	explores	theme:class-and-aristocracy
 work:RET05	explores	theme:greed-and-inheritance
 work:RET05	explores	theme:justice-outside-the-law
@@ -2344,8 +2352,10 @@ work:RET06	set_in	place:woodmans-lee
 work:RET06	uses_technique	technique:disguise-and-undercover
 work:RET06	uses_technique	technique:reconstruction-and-experiment
 work:RET06	uses_technique	technique:records-and-registers
+work:RET06	uses_technique	technique:tobacco-ash
 work:RET07	exhibits	pattern:holmes-lets-the-culprit-go
 work:RET07	exhibits	pattern:the-compromising-document
+work:RET07	exhibits	pattern:the-detective-errs
 work:RET07	exhibits	pattern:the-disguised-identity
 work:RET07	explores	theme:class-and-aristocracy
 work:RET07	explores	theme:justice-outside-the-law
@@ -2360,9 +2370,7 @@ work:RET07	features	character:sherlock-holmes
 work:RET07	involves	organisation:scotland-yard
 work:RET07	set_in	place:appledore-towers
 work:RET07	uses_technique	technique:disguise-and-undercover
-work:RET08	exhibits	pattern:the-avenging-brotherhood
 work:RET08	exhibits	pattern:the-detectives-ruse
-work:RET08	exhibits	pattern:the-staged-scene
 work:RET08	explores	theme:greed-and-inheritance
 work:RET08	explores	theme:policing-official-and-private
 work:RET08	features	character:beppo
@@ -2377,6 +2385,7 @@ work:RET08	involves	organisation:mafia
 work:RET08	involves	organisation:scotland-yard
 work:RET08	set_in	place:gelder-and-co
 work:RET08	set_in	place:london
+work:RET08	uses_technique	technique:newspapers-and-advertisements
 work:RET08	uses_technique	technique:observation-of-the-person
 work:RET08	uses_technique	technique:records-and-registers
 work:RET09	exhibits	pattern:holmes-lets-the-culprit-go
@@ -2411,8 +2420,10 @@ work:RET10	involves	organisation:scotland-yard
 work:RET10	set_in	place:yoxley-old-place
 work:RET10	uses_technique	technique:footprints-and-tracks
 work:RET10	uses_technique	technique:observation-of-the-person
+work:RET10	uses_technique	technique:tobacco-ash
 work:RET11	exhibits	pattern:the-concealed-marriage
 work:RET11	exhibits	pattern:the-crime-with-no-crime
+work:RET11	exhibits	pattern:the-detective-errs
 work:RET11	exhibits	pattern:the-vanishing-or-faked-death
 work:RET11	explores	theme:class-and-aristocracy
 work:RET11	explores	theme:women-money-and-marriage
@@ -2426,6 +2437,7 @@ work:RET11	set_in	place:cambridge
 work:RET11	uses_technique	technique:handwriting-and-documents
 work:RET11	uses_technique	technique:scent-tracking-dogs
 work:RET12	exhibits	pattern:holmes-lets-the-culprit-go
+work:RET12	exhibits	pattern:the-detective-errs
 work:RET12	exhibits	pattern:the-false-account
 work:RET12	exhibits	pattern:the-staged-scene
 work:RET12	exhibits	pattern:the-wrongly-accused
@@ -2448,7 +2460,7 @@ work:RET13	exhibits	pattern:holmes-lets-the-culprit-go
 work:RET13	exhibits	pattern:the-compromising-document
 work:RET13	exhibits	pattern:the-disguised-identity
 work:RET13	exhibits	pattern:the-false-account
-work:RET13	exhibits	pattern:the-staged-scene
+work:RET13	exhibits	pattern:the-wrongly-accused
 work:RET13	explores	theme:reputation-and-scandal
 work:RET13	explores	theme:secrecy-and-the-state
 work:RET13	explores	theme:women-money-and-marriage

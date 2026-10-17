@@ -5,7 +5,7 @@
 id = "pattern:the-staged-scene"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:00:00+08:00"
 origin = "ai"
 title = "The staged scene"
 verified = true
@@ -42,19 +42,9 @@ kind = "appears_in"
 note = "Horseshoes made to leave the tracks of a cow."
 
 [[relation]]
-target = "work:RET08"
-kind = "appears_in"
-note = "A \"Napoleon-hating lunatic\" as the apparent motive."
-
-[[relation]]
 target = "work:RET12"
 kind = "appears_in"
-note = "Three wine glasses, a torn bell-rope, silver thrown in a pond."
-
-[[relation]]
-target = "work:RET13"
-kind = "appears_in"
-note = "The carpet turned round to hide the second stain."
+note = "Two glasses poured into three, a bell-rope cut and frayed to look torn, silver thrown in a pond."
 
 [[relation]]
 target = "work:BOW03"
@@ -83,7 +73,7 @@ The criminal arranges the scene to tell a false story.
 
 RACHE on the wall (N1); a body dressed in the owner's clothes, a mark on a window-sill and a bicycle in the park (N4).
 
-## Occurrences (13 works)
+## Occurrences (11 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): "RACHE" in blood on the wall to point at German secret societies.
 - [N4 The Valley of Fear](../works/N4.md): Clothes, rings, a mark on the window-sill, a bicycle in the park.
@@ -91,9 +81,7 @@ RACHE on the wall (N1); a body dressed in the owner's clothes, a mark on a windo
 - [MEM09 The Resident Patient](../works/MEM09.md): Murder made to look like suicide by hanging.
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): Blood on the stick, a burned wood-pile, a thumb print in blood.
 - [RET05 The Adventure of the Priory School](../works/RET05.md): Horseshoes made to leave the tracks of a cow.
-- [RET08 The Adventure of the Six Napoleons](../works/RET08.md): A "Napoleon-hating lunatic" as the apparent motive.
-- [RET12 The Adventure of the Abbey Grange](../works/RET12.md): Three wine glasses, a torn bell-rope, silver thrown in a pond.
-- [RET13 The Adventure of the Second Stain](../works/RET13.md): The carpet turned round to hide the second stain.
+- [RET12 The Adventure of the Abbey Grange](../works/RET12.md): Two glasses poured into three, a bell-rope cut and frayed to look torn, silver thrown in a pond.
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): A body placed on the roof of a train.
 - [CAS07 The Problem of Thor Bridge](../works/CAS07.md): A suicide staged as a murder.
 - [CAS09 The Adventure of the Veiled Lodger](../works/CAS09.md): A man killed by a nail-studded club meant to pass for a lion's paw.

@@ -5,7 +5,7 @@
 id = "pattern:the-detective-errs"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:50:00+08:00"
+modified = "2026-10-18T00:59:00+08:00"
 origin = "ai"
 title = "The detective errs"
 verified = true
@@ -44,7 +44,7 @@ note = "Holmes arrives after Cubitt is dead."
 [[relation]]
 target = "work:RET04"
 kind = "appears_in"
-note = "Holmes scolds Watson, then arrives too late himself."
+note = "Holmes scolds Watson, then misses the earlier train and arrives too late; \"I have been very obtuse\"."
 
 [[relation]]
 target = "work:BOW05"
@@ -85,6 +85,21 @@ note = "Holmes misses the \"and under\" until Musgrave reads it out; Watson coun
 target = "work:MEM12"
 kind = "appears_in"
 note = "Moriarty escapes the London arrests: \"I might have known it!\""
+
+[[relation]]
+target = "work:RET07"
+kind = "appears_in"
+note = "Milverton outplays Holmes at Baker Street, and the burglary miscalculates his movements."
+
+[[relation]]
+target = "work:RET11"
+kind = "appears_in"
+note = "Armstrong twice outwits Holmes's pursuit; he arrives after the wife's death."
+
+[[relation]]
+target = "work:RET12"
+kind = "appears_in"
+note = "Holmes nearly leaves on the women's story: \"the blunder of my lifetime\"."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -93,7 +108,7 @@ Holmes is wrong, too late or outwitted.
 
 ADV01 (beaten by a woman), ADV05 (client killed), ADV08 (first theory wrong), MEM03 ("Norbury"). Important for the brief's principle that wrong conclusions should have consequences rather than a game-over screen.
 
-## Occurrences (15 works)
+## Occurrences (18 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): The "old woman" who claims the ring gives Holmes the slip from a moving cab, and he never learns who it was.
 - [N3 The Hound of the Baskervilles](../works/N3.md): Holmes is "checkmated in London", and later believes he has "thrown away the life of my client".
@@ -107,6 +122,9 @@ ADV01 (beaten by a woman), ADV05 (client killed), ADV08 (first theory wrong), ME
 - [MEM10 The Greek Interpreter](../works/MEM10.md): Too late for Kratides; the advertisements also tell the gang that Melas has talked.
 - [MEM12 The Final Problem](../works/MEM12.md): Moriarty escapes the London arrests: "I might have known it!"
 - [RET03 The Adventure of the Dancing Men](../works/RET03.md): Holmes arrives after Cubitt is dead.
-- [RET04 The Adventure of the Solitary Cyclist](../works/RET04.md): Holmes scolds Watson, then arrives too late himself.
+- [RET04 The Adventure of the Solitary Cyclist](../works/RET04.md): Holmes scolds Watson, then misses the earlier train and arrives too late; "I have been very obtuse".
+- [RET07 The Adventure of Charles Augustus Milverton](../works/RET07.md): Milverton outplays Holmes at Baker Street, and the burglary miscalculates his movements.
+- [RET11 The Adventure of the Missing Three-Quarter](../works/RET11.md): Armstrong twice outwits Holmes's pursuit; he arrives after the wife's death.
+- [RET12 The Adventure of the Abbey Grange](../works/RET12.md): Holmes nearly leaves on the women's story: "the blunder of my lifetime".
 - [BOW05 The Disappearance of Lady Frances Carfax](../works/BOW05.md): Holmes nearly arrives too late, and calls it a "temporary eclipse".
 - [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): "I was slow at the outset--culpably slow."

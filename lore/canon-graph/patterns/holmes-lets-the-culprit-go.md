@@ -5,7 +5,7 @@
 id = "pattern:holmes-lets-the-culprit-go"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:43:00+08:00"
+modified = "2026-10-18T00:54:00+08:00"
 origin = "ai"
 title = "Holmes lets the culprit go"
 verified = true
@@ -38,7 +38,7 @@ note = "Holmes lets Harrison go, \"all the better for the government\"."
 [[relation]]
 target = "work:RET05"
 kind = "appears_in"
-note = "Wilder goes to Australia; Holmes keeps the Duke's secret for a fee."
+note = "Wilder goes to Australia; Holmes claims the reward but refuses hush money, and lets the police keep their ransom theory."
 
 [[relation]]
 target = "work:RET07"
@@ -104,7 +104,7 @@ Holmes repeatedly states that he is not an official agent (ADV04 (`text:the-adve
 - [ADV11 The Adventure of the Beryl Coronet](../works/ADV11.md): Burnwell is promised no prosecution so that the gems can be bought back.
 - [MEM01 Silver Blaze](../works/MEM01.md): Silas Brown, who hid the horse, gets "an amnesty".
 - [MEM11 The Naval Treaty](../works/MEM11.md): Holmes lets Harrison go, "all the better for the government".
-- [RET05 The Adventure of the Priory School](../works/RET05.md): Wilder goes to Australia; Holmes keeps the Duke's secret for a fee.
+- [RET05 The Adventure of the Priory School](../works/RET05.md): Wilder goes to Australia; Holmes claims the reward but refuses hush money, and lets the police keep their ransom theory.
 - [RET07 The Adventure of Charles Augustus Milverton](../works/RET07.md): "My sympathies are with the criminals rather than with the victim."
 - [RET09 The Adventure of the Three Students](../works/RET09.md): Gilchrist confesses, withdraws and goes to the Rhodesian Police.
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): "You are acquitted, Captain Crocker."

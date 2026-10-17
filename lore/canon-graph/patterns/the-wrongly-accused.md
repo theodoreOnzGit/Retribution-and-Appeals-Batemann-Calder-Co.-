@@ -5,7 +5,7 @@
 id = "pattern:the-wrongly-accused"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:44:00+08:00"
+modified = "2026-10-18T01:00:00+08:00"
 origin = "ai"
 title = "The wrongly accused"
 verified = true
@@ -104,6 +104,16 @@ note = "Grace Dunbar, with a pistol in her wardrobe."
 target = "work:CAS12"
 kind = "appears_in"
 note = "Murdoch on the eve of arrest."
+
+[[relation]]
+target = "work:RET05"
+kind = "appears_in"
+note = "The gipsies are arrested because the boy's cap is in their van; Heidegger is presumed his accomplice."
+
+[[relation]]
+target = "work:RET13"
+kind = "appears_in"
+note = "The valet John Mitton is arrested and released on an alibi."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -112,7 +122,7 @@ An innocent person is arrested or charged on circumstantial evidence.
 
 "Many men have been wrongfully hanged" (`text:the-adventures-of-sherlock-holmes.txt#L3110`). In a game named for appeals, this is the pattern most likely to structure cases.
 
-## Occurrences (18 works)
+## Occurrences (20 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Arthur Charpentier is arrested for Drebber's death.
 - [N2 The Sign of the Four](../works/N2.md): Jones arrests Thaddeus and the household.
@@ -126,9 +136,11 @@ An innocent person is arrested or charged on circumstantial evidence.
 - [MEM11 The Naval Treaty](../works/MEM11.md): Mrs. Tangey and Gorot are suspected.
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): McFarlane, convicted in advance by the newspapers.
 - [RET03 The Adventure of the Dancing Men](../works/RET03.md): Elsie is thought to have shot her husband and herself.
+- [RET05 The Adventure of the Priory School](../works/RET05.md): The gipsies are arrested because the boy's cap is in their van; Heidegger is presumed his accomplice.
 - [RET06 The Adventure of Black Peter](../works/RET06.md): Neligan is caught at the cabin.
 - [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): Alexis, in a Siberian salt mine on false evidence.
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): The Randall gang, later arrested in New York.
+- [RET13 The Adventure of the Second Stain](../works/RET13.md): The valet John Mitton is arrested and released on an alibi.
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): The dead clerk is taken for the traitor.
 - [CAS07 The Problem of Thor Bridge](../works/CAS07.md): Grace Dunbar, with a pistol in her wardrobe.
 - [CAS12 The Adventure of the Lion's Mane](../works/CAS12.md): Murdoch on the eve of arrest.
