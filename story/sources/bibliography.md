@@ -89,7 +89,7 @@
 - **ID:** URL https://apps.dtic.mil/sti/pdfs/ADA523724.pdf (full text copy)
 - **Establishes:** Individual dose after an exposure is estimated from time to onset and severity of nausea and vomiting, the decline in absolute lymphocyte count over hours to days, and the appearance of chromosome aberrations; treatment of the haematopoietic syndrome is dose-based (cytokines, transfusion, selected stem-cell transplantation). The paper's LD50 figures were **not** confirmed by search.
 
-### `lopez2011ars`
+### `rpor-ars`
 - **Reference:** "Medical management of the acute radiation syndrome", review article in *Reports of Practical Oncology and Radiotherapy* (Via Medica). Authors and year not confirmed by search.
 - **ID:** URL https://journals.viamedica.pl/rpor/article/view/73290
 - **Establishes:** Phases of acute radiation syndrome: prodromal (0–2 days from exposure), latent (2–20 days), manifest illness (21–60 days). The CDC's physician fact sheet (`cdc-ars`) describes the latent phase as dose-dependent, from hours to weeks.
@@ -108,6 +108,21 @@
 - **Reference:** ICRP (2012). *ICRP Statement on Tissue Reactions and Early and Late Effects of Radiation in Normal Tissues and Organs: Threshold Doses for Tissue Reactions in a Radiation Protection Context.* ICRP Publication 118. Annals of the ICRP 41(1–2).
 - **ID:** URL https://icrpaedia.org/ICRP_Publication_118 (DOI not confirmed by search; not given)
 - **Establishes:** Updated "practical" thresholds for tissue reactions defined at 1 % incidence; 0.5 Gy for lens and circulatory disease regardless of dose rate. A secondary summary (Hong Kong Observatory) attributes to the ICRP a bone-marrow threshold of about 0.5 Gy acute or over 0.4 Gy/year protracted. Skin thresholds were **not** confirmed.
+
+### `iaea-biodos2011`
+- **Reference:** IAEA (2011). *Cytogenetic Dosimetry: Applications in Preparedness for and Response to Radiation Emergencies.* EPR-Biodosimetry 2011.
+- **ID:** URL https://www-pub.iaea.org/mtcd/publications/pdf/epr-biodosimetry%202011_web.pdf
+- **Establishes:** Standard methods for biological dose assessment after accidental exposure; the dicentric chromosome assay is the "gold standard", calibrated with a linear-quadratic dose–effect curve; translocation, PCC and micronucleus assays as supplements (scope confirmed; chapter text not read).
+
+### `ainsbury2023`
+- **Reference:** Ainsbury E (2023). Biological dosimetry lecture, EURADOS Winter School 2023 (slides).
+- **ID:** URL https://eurados.sckcen.be/sites/eurados/files/uploads/Actions/Winter%20schools/AM2023/6_Ainsbury.pdf
+- **Establishes:** Dicentric yields reflect an averaged whole-body dose; inhomogeneous exposure, high-LET radiation and internally deposited radionuclides complicate cytogenetic dose estimates. (Slides; secondary.) A UK HPA report (RPD-012) adds that background and counting statistics stop the assay showing a true zero, so many low-dose results come back as "zero" estimates.
+
+### `rcpath2015`
+- **Reference:** Royal College of Pathologists and Institute of Biomedical Science (2015). *The Retention and Storage of Pathological Records and Specimens*, 5th ed. (superseded by a 6th edition in force from October 2025).
+- **ID:** URL https://rcpath.org/resourceLibrary/the-retention-and-storage-of-pathological-records-and-specimens--5th-edition-.html
+- **Establishes:** UK laboratories work to published minimum retention periods for specimens and records (e.g. 30 years for tissue blocks in the 6th edition). The retention period for routine blood and urine samples was **not** confirmed by search.
 
 ### `nathwani2016`
 - **Reference:** Nathwani AC, Down JF, Goldstone J, et al. (2016). Polonium-210 poisoning: a first-hand account. *The Lancet* 388(10049):1075–1080.
@@ -447,7 +462,7 @@
 - **ID:** URL https://www.un-ilibrary.org/content/books/9789210582520s002-c002
 - **Establishes:** Occupational exposures in nuclear power plants fell by about a factor of four from the late 1970s to the early 2000s (as summarised in a 2011 SCK CEN review, secondary); worldwide average annual effective dose was about 0.7 mSv for all monitored workers and 1.4 mSv for those with measurable doses (2000–2002, all occupations).
 
-### `nra-japan2008`
+### `japan-npp-dose2008`
 - **Reference:** Japan, occupational exposure statistics for nuclear power stations, FY2008 (as reported in a Japanese government radiation-health summary, secondary).
 - **ID:** URL https://www.env.go.jp/en/chemi/rhm/basic-info/2018/02-04-11.html
 - **Establishes:** Average annual individual dose at Japanese nuclear power stations in FY2008 was 1.1 mSv; maximum 19.5 mSv. (Figure carried in the search summary; page not read.)
