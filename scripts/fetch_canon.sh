@@ -10,8 +10,13 @@
 # Gutenberg, and fails if the word "Gutenberg" survives anywhere.
 #
 # Usage:
-#   scripts/fetch_canon.sh                    download all ten ebooks
+#   scripts/fetch_canon.sh                    download all sixteen ebooks
 #                                             (needs www.gutenberg.org)
+#   scripts/fetch_canon.sh --mirror           download them from GITenberg's
+#                                             GitHub mirror of Project
+#                                             Gutenberg instead (for build
+#                                             environments that block
+#                                             www.gutenberg.org)
 #   scripts/fetch_canon.sh --from FILE...     process local Project Gutenberg
 #                                             plain-text files instead; the
 #                                             ebook number is read from each
@@ -34,8 +39,37 @@ declare -A stems=(
   [834]=the-memoirs-of-sherlock-holmes
   [2344]=the-adventure-of-the-cardboard-box
   [108]=the-return-of-sherlock-holmes
-  [2350]=his-last-bow
+  # His Last Bow: ebook 2350 holds only the title story, so the collection's
+  # seven stories are stored one file per ebook (2343, 2345-2350).
+  [2343]=his-last-bow-01-wisteria-lodge
+  [2345]=his-last-bow-02-the-red-circle
+  [2346]=his-last-bow-03-the-bruce-partington-plans
+  [2347]=his-last-bow-04-the-dying-detective
+  [2348]=his-last-bow-05-lady-frances-carfax
+  [2349]=his-last-bow-06-the-devils-foot
+  [2350]=his-last-bow-07-his-last-bow
   [69700]=the-case-book-of-sherlock-holmes
+)
+
+# ebook number -> path of the same ebook in GITenberg's mirror
+mirror_base=https://raw.githubusercontent.com/GITenberg
+declare -A mirror=(
+  [244]=A-Study-in-Scarlet_244/master/244.txt
+  [2097]=The-Sign-of-the-Four_2097/master/2097.txt
+  [2852]=The-Hound-of-the-Baskervilles_2852/master/2852.txt
+  [3289]=The-Valley-of-Fear_3289/master/3289.txt
+  [1661]=The-Adventures-of-Sherlock-Holmes_1661/master/1661.txt
+  [834]=The-Memoirs-of-Sherlock-Holmes_834/master/834.txt
+  [2344]=The-Adventure-of-the-Cardboard-Box_2344/master/2344.txt
+  [108]=The-Return-of-Sherlock-Holmes_108/master/108.txt
+  [2343]=The-Adventure-of-Wisteria-Lodge_2343/master/2343.txt
+  [2345]=The-Adventure-of-the-Red-Circle_2345/master/2345.txt
+  [2346]=The-Adventure-of-the-Bruce-Partington-Plans_2346/master/2346.txt
+  [2347]=The-Adventure-of-the-Dying-Detective_2347/master/2347.txt
+  [2348]=The-Disappearance-of-Lady-Frances-Carfax_2348/master/2348.txt
+  [2349]=The-Adventure-of-the-Devil-s-Foot_2349/master/2349.txt
+  [2350]=His-Last-Bow--An-Epilogue-of-Sherlock-Holmes_2350/master/2350.txt
+  [69700]=The-Case-Book-of-Sherlock-Holmes_69700/master/69700-0.txt
 )
 
 today="$(date -u +%Y-%m-%d)"
@@ -44,9 +78,13 @@ today="$(date -u +%Y-%m-%d)"
 # process ID RAW_FILE SOURCE_DESCRIPTION
 process() {
   local id="$1" raw="$2" src="$3" stem="${stems[$1]}"
-  # Body between the START and END markers, CRLF normalised to LF.
+  # Body between the START and END markers, CRLF normalised to LF. Newer
+  # files wrap a long marker onto a second line, so a marker runs until the
+  # line that ends in "***".
   tr -d '\r' < "$raw" \
-    | awk '/^\*\*\* *START OF/ {on=1; next} /^\*\*\* *END OF/ {on=0} on' \
+    | awk '/^\*\*\* *START OF/ {skip = ($0 !~ /\*\*\* *$/); on=1; next}
+           skip {skip = ($0 !~ /\*\*\* *$/); next}
+           /^\*\*\* *END OF/ {on=0} on' \
     | grep -v -i 'gutenberg' > "$out/$stem.txt" || true
   if [ ! -s "$out/$stem.txt" ]; then
     echo "error: empty body for ebook $id ($src)" >&2
@@ -64,12 +102,21 @@ if [ "${1:-}" = "--from" ]; then
   shift
   [ "$#" -gt 0 ] || { echo "error: --from needs at least one file" >&2; exit 1; }
   for f in "$@"; do
-    id="$(tr -d '\r' < "$f" | grep -m1 -o -E '\[eBook #[0-9]+\]' | grep -o -E '[0-9]+' || true)"
+    # Older files spell it "[EBook #N]".
+    id="$(tr -d '\r' < "$f" | grep -m1 -o -i -E '\[ebook #[0-9]+\]' | grep -o -E '[0-9]+' || true)"
     if [ -z "$id" ] || [ -z "${stems[$id]:-}" ]; then
-      echo "error: $f is not one of the ten canon ebooks (found ebook '${id:-none}')" >&2
+      echo "error: $f is not one of the sixteen canon ebooks (found ebook '${id:-none}')" >&2
       exit 1
     fi
     process "$id" "$f" "owner-supplied copy of https://www.gutenberg.org/ebooks/$id (sha256 of upload $(sha256sum "$f" | cut -d' ' -f1))"
+  done
+elif [ "${1:-}" = "--mirror" ]; then
+  for id in $(printf '%s\n' "${!stems[@]}" | sort -n); do
+    url="$mirror_base/${mirror[$id]}"
+    raw="$(mktemp)"
+    curl -fsSL "$url" -o "$raw"
+    process "$id" "$raw" "$url (GITenberg mirror of https://www.gutenberg.org/ebooks/$id)"
+    rm -f "$raw"
   done
 else
   for id in $(printf '%s\n' "${!stems[@]}" | sort -n); do
@@ -80,6 +127,16 @@ else
     rm -f "$raw"
   done
 fi
+
+# Keep SOURCES.tsv to one sorted row per stored file, dropping rows for
+# files that no longer exist.
+{
+  head -n 1 "$sources"
+  tail -n +2 "$sources" | while IFS=$'\t' read -r file rest; do
+    [ -f "$root/canon/$file" ] && printf '%s\t%s\n' "$file" "$rest"
+  done | sort
+} > "$sources.tmp"
+mv "$sources.tmp" "$sources"
 
 # Trademark check: nothing that names Project Gutenberg may remain.
 if grep -ril 'gutenberg' "$out"; then
@@ -100,12 +157,14 @@ for id in "${!have[@]}"; do
   sed "s/[\"'’“”]//g" "$out/${stems[$id]}.txt" > "$norm/$id.txt"
 done
 missing=0 checked=0 pending=0
-while IFS=$'\t' read -r wid _ _ pg title; do
+while IFS=$'\t' read -r wid _ _ pg title source_title; do
   case "$wid" in '#'*|'') continue ;; esac
   if [ -z "${have[$pg]:-}" ]; then pending=$((pending + 1)); continue; fi
   checked=$((checked + 1))
   # Compare on the distinctive part of the title, case-insensitive,
   # ignoring quote marks.
+  # A source edition may title a story differently (works.tsv column 6).
+  [ -n "${source_title:-}" ] && title="$source_title"
   key="$(printf '%s' "$title" | sed -E 's/^(The Adventure of (the )?|The Problem of |The Disappearance of )//; s/["'\''’]//g')"
   if ! grep -qiF "$key" "$norm/$pg.txt"; then
     echo "missing: $wid $title (expected in ebook $pg)" >&2

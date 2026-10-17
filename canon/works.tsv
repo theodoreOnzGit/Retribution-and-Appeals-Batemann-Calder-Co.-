@@ -1,4 +1,4 @@
-# id	collection	year	pg_ebook	title
+# id	collection	year	pg_ebook	title	title_in_source (when the source edition titles it differently)
 N1	novel	1887	244	A Study in Scarlet
 N2	novel	1890	2097	The Sign of the Four
 N3	novel	1902	2852	The Hound of the Baskervilles
@@ -18,10 +18,10 @@ ADV12	The Adventures of Sherlock Holmes	1892	1661	The Adventure of the Copper Be
 MEM01	The Memoirs of Sherlock Holmes	1894	834	Silver Blaze
 MEM02	The Memoirs of Sherlock Holmes	1894	2344	The Adventure of the Cardboard Box
 MEM03	The Memoirs of Sherlock Holmes	1894	834	The Yellow Face
-MEM04	The Memoirs of Sherlock Holmes	1894	834	The Stockbroker's Clerk
+MEM04	The Memoirs of Sherlock Holmes	1894	834	The Stockbroker's Clerk	Stock-Broker's Clerk
 MEM05	The Memoirs of Sherlock Holmes	1894	834	The "Gloria Scott"
 MEM06	The Memoirs of Sherlock Holmes	1894	834	The Musgrave Ritual
-MEM07	The Memoirs of Sherlock Holmes	1894	834	The Reigate Squire
+MEM07	The Memoirs of Sherlock Holmes	1894	834	The Reigate Squire	Reigate Puzzle
 MEM08	The Memoirs of Sherlock Holmes	1894	834	The Crooked Man
 MEM09	The Memoirs of Sherlock Holmes	1894	834	The Resident Patient
 MEM10	The Memoirs of Sherlock Holmes	1894	834	The Greek Interpreter
@@ -40,12 +40,12 @@ RET10	The Return of Sherlock Holmes	1905	108	The Adventure of the Golden Pince-N
 RET11	The Return of Sherlock Holmes	1905	108	The Adventure of the Missing Three-Quarter
 RET12	The Return of Sherlock Holmes	1905	108	The Adventure of the Abbey Grange
 RET13	The Return of Sherlock Holmes	1905	108	The Adventure of the Second Stain
-BOW01	His Last Bow	1917	2350	The Adventure of Wisteria Lodge
-BOW02	His Last Bow	1917	2350	The Adventure of the Red Circle
-BOW03	His Last Bow	1917	2350	The Adventure of the Bruce-Partington Plans
-BOW04	His Last Bow	1917	2350	The Adventure of the Dying Detective
-BOW05	His Last Bow	1917	2350	The Disappearance of Lady Frances Carfax
-BOW06	His Last Bow	1917	2350	The Adventure of the Devil's Foot
+BOW01	His Last Bow	1917	2343	The Adventure of Wisteria Lodge
+BOW02	His Last Bow	1917	2345	The Adventure of the Red Circle
+BOW03	His Last Bow	1917	2346	The Adventure of the Bruce-Partington Plans
+BOW04	His Last Bow	1917	2347	The Adventure of the Dying Detective
+BOW05	His Last Bow	1917	2348	The Disappearance of Lady Frances Carfax
+BOW06	His Last Bow	1917	2349	The Adventure of the Devil's Foot
 BOW07	His Last Bow	1917	2350	His Last Bow
 CAS01	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Illustrious Client
 CAS02	The Case-Book of Sherlock Holmes	1927	69700	The Adventure of the Blanched Soldier
