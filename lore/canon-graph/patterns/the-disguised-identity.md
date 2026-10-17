@@ -5,7 +5,7 @@
 id = "pattern:the-disguised-identity"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:50:00+08:00"
+modified = "2026-10-18T01:02:00+08:00"
 origin = "ai"
 title = "The disguised identity"
 verified = true
@@ -150,6 +150,11 @@ note = "Lucy wears a mask and long gloves so that no one at the window will see 
 target = "work:MEM10"
 kind = "appears_in"
 note = "Paul Kratides's face is criss-crossed with plaster so that his sister will not know him."
+
+[[relation]]
+target = "work:BOW02"
+kind = "appears_in"
+note = "A woman has taken the place of the man who rented the rooms."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -158,7 +163,7 @@ A person is not who they appear to be: an alias, a costume, a double life, or th
 
 The most frequent device in the canon. It splits into: the criminal's alias (ADV02, MEM01), the double life (ADV06), the family member in disguise (ADV03), and Holmes's own disguises (ADV01, ADV06, ADV11). The fair-play rule Doyle often follows is that a disguise is betrayed by a detail it cannot cover: knees, typeface, ears, a voice.
 
-## Occurrences (28 works)
+## Occurrences (29 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Hope's accomplice comes for the ring as old "Mrs. Sawyer".
 - [N2 The Sign of the Four](../works/N2.md): Achmet travels "under the guise of a merchant"; Holmes, as an old seaman, fools both Watson and Jones.
@@ -182,6 +187,7 @@ The most frequent device in the canon. It splits into: the criminal's alias (ADV
 - [RET07 The Adventure of Charles Augustus Milverton](../works/RET07.md): Holmes engaged to a maid under a false name.
 - [RET13 The Adventure of the Second Stain](../works/RET13.md): Lucas's double life as M. Henri Fournaye in Paris.
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): "Henderson" is Murillo; "Miss Burnet" is Signora Durando.
+- [BOW02 The Adventure of the Red Circle](../works/BOW02.md): A woman has taken the place of the man who rented the rooms.
 - [BOW05 The Disappearance of Lady Frances Carfax](../works/BOW05.md): Holy Peters as the missionary Dr. Shlessinger.
 - [BOW07 His Last Bow](../works/BOW07.md): Holmes as Altamont, two years in the part.
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Watson as "Dr. Hill Barton", collector of Ming china.

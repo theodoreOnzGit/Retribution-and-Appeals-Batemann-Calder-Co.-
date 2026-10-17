@@ -5,7 +5,7 @@
 id = "theme:justice-outside-the-law"
 kind = "theme"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:47:00+08:00"
+modified = "2026-10-18T01:05:00+08:00"
 origin = "ai"
 title = "Justice outside the law"
 verified = true
@@ -123,7 +123,7 @@ note = "\"A pretty general vote of thanks\" in New York."
 [[relation]]
 target = "work:BOW06"
 kind = "explored_in"
-note = "\"I think you must agree, Watson, that it is not a case in which we...\""
+note = "\"I think you must agree, Watson, that it is not a case in which we are called upon to interfere.\""
 
 [[relation]]
 target = "work:CAS01"
@@ -170,7 +170,7 @@ Holmes as a private agent who judges, forgives or punishes where the law cannot 
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): Watson as a British jury.
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): The Tiger escapes the law and is killed in Madrid.
 - [BOW02 The Adventure of the Red Circle](../works/BOW02.md): "A pretty general vote of thanks" in New York.
-- [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): "I think you must agree, Watson, that it is not a case in which we..."
+- [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): "I think you must agree, Watson, that it is not a case in which we are called upon to interfere."
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): "When an object is good and a client is sufficiently illustrious, even the rigid British law becomes human and elastic."
 - [CAS07 The Problem of Thor Bridge](../works/CAS07.md): A dead woman's revenge on an innocent.
 - [CAS09 The Adventure of the Veiled Lodger](../works/CAS09.md): "Your life is not your own."

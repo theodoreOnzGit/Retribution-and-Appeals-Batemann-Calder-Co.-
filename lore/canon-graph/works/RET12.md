@@ -5,7 +5,7 @@
 id = "work:RET12"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:59:00+08:00"
+modified = "2026-10-18T01:03:00+08:00"
 origin = "ai"
 title = "The Adventure of the Abbey Grange"
 verified = true
@@ -137,7 +137,7 @@ Lady Brackenstall, born Mary Fraser of Adelaide (`text:the-return-of-sherlock-ho
 1. Brackenstall is a drunken brute who once set her dog on fire (`text:the-return-of-sherlock-holmes.txt#L10654`) (`text:the-return-of-sherlock-holmes.txt#L10817-L10819`).
 2. Crocker, now a captain, visits secretly through Theresa; Brackenstall surprises them, strikes his wife across the face with a stick, and Crocker kills him with the poker (`text:the-return-of-sherlock-holmes.txt#L11375-L11395`).
 3. With Theresa ("it was her plot as much as mine") they stage a burglary by the Randall gang, then in the papers for a job at Sydenham: ~~bell-rope torn down~~ **corrected 2026-10-17** Crocker climbs from the mantel bracket and cuts the bell-rope so as not to ring the bell, then frays the end to look torn; he ties Lady Brackenstall to the chair with sailor's knots; a few pieces of silver are taken; the wine Crocker had opened, with a pocket screw, for Mary and himself is made to look like three men's (`text:the-return-of-sherlock-holmes.txt#L11403-L11417`) (`text:the-return-of-sherlock-holmes.txt#L10699-L10711`) (`text:the-return-of-sherlock-holmes.txt#L10873-L10881`). Crocker throws the silver into the pond (`text:the-return-of-sherlock-holmes.txt#L11226-L11248`).
-4. Holmes notices beeswing in only one glass (one was poured into three) and that the bell-rope broke three inches from the top, its end frayed with a knife (`text:the-return-of-sherlock-holmes.txt#L10990-L11011`) (`text:the-return-of-sherlock-holmes.txt#L11059-L11066`). He nearly leaves, then turns back (`text:the-return-of-sherlock-holmes.txt#L10945`).
+4. Holmes notices beeswing in only one glass (~~one was poured into three~~ **corrected 2026-10-17** only two were used, and the dregs of both poured into a third, `text:the-return-of-sherlock-holmes.txt#L11009-L11011`) and that the bell-rope broke three inches from the top, its end frayed with a knife (`text:the-return-of-sherlock-holmes.txt#L10990-L11011`) (`text:the-return-of-sherlock-holmes.txt#L11059-L11066`). He nearly leaves, then turns back (`text:the-return-of-sherlock-holmes.txt#L10945`).
 5. He traces the sailor through the Adelaide-Southampton line (`text:the-return-of-sherlock-holmes.txt#L11170-L11190`). The Randalls are arrested in New York (`text:the-return-of-sherlock-holmes.txt#L11254`).
 5a. Holmes, unwilling to have a warrant made out, holds back from Hopkins: "I had rather play tricks with the law of England than with my own conscience"; he gives Hopkins only the hint of the pond and a "blind" (`text:the-return-of-sherlock-holmes.txt#L11200-L11206`) (`text:the-return-of-sherlock-holmes.txt#L11294-L11299`), and telegraphs Crocker (`text:the-return-of-sherlock-holmes.txt#L11195-L11198`).
 6. Crocker confesses. Holmes offers him twenty-four hours to disappear; Crocker refuses, since Mary would face the court as accomplice, and Holmes says "I was only testing you" (`text:the-return-of-sherlock-holmes.txt#L11439-L11457`). Holmes sits him as prisoner and Watson as jury: "Not guilty, my lord" (`text:the-return-of-sherlock-holmes.txt#L11460-L11468`).

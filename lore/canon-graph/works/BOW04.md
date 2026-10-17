@@ -5,7 +5,7 @@
 id = "work:BOW04"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:03:00+08:00"
 origin = "ai"
 title = "The Adventure of the Dying Detective"
 verified = true
@@ -69,11 +69,6 @@ kind = "exhibits"
 note = "Holmes lures the murderer to his bedside to confess."
 
 [[relation]]
-target = "pattern:the-false-account"
-kind = "exhibits"
-note = "Holmes deceives Watson and Mrs. Hudson."
-
-[[relation]]
 target = "technique:poisons-and-toxicology"
 kind = "uses_technique"
 note = "A spring in an ivory box carrying an infection."
@@ -111,8 +106,9 @@ Victor Savage was Culverton Smith's nephew (`text:his-last-bow-04-the-dying-dete
 1. Culverton Smith killed Savage with an infection (`text:his-last-bow-04-the-dying-detective.txt#L579-L584`).
 2. Holmes, suspecting him, receives an ivory box with a sharp spring "like a viper's tooth", and does not touch it (`text:his-last-bow-04-the-dying-detective.txt#L226-L237`) (`text:his-last-bow-04-the-dying-detective.txt#L632-L635`) (`text:his-last-bow-04-the-dying-detective.txt#L745-L747`).
 3. Holmes fasts for three days and makes himself up to look dying of a "coolie disease from Sumatra"; Mrs. Hudson fetches Watson (`text:his-last-bow-04-the-dying-detective.txt#L47-L61`) (`text:his-last-bow-04-the-dying-detective.txt#L729-L732`).
-4. Holmes will not let Watson examine him and sends him to fetch Culverton Smith (`text:his-last-bow-04-the-dying-detective.txt#L86-L122`) (`text:his-last-bow-04-the-dying-detective.txt#L278`).
-5. Watson hides behind the bed; Smith gloats, admits sending the box and causing Savage's death, and gives the signal by turning up the gas (`text:his-last-bow-04-the-dying-detective.txt#L505-L509`) (`text:his-last-bow-04-the-dying-detective.txt#L579-L648`) (`text:his-last-bow-04-the-dying-detective.txt#L688`).
+4. Holmes keeps Watson at a distance with talk of a disease "contagious by touch" and an insult to his qualifications, locks the door until six, when Smith will be at home, has the gas kept half on, has the ivory box moved with the sugar-tongs to the table beside him, and sends Watson to fetch Culverton Smith, a Sumatra planter, telling him to come back ahead of Smith (`text:his-last-bow-04-the-dying-detective.txt#L114-L123`) (`text:his-last-bow-04-the-dying-detective.txt#L151-L154`) (`text:his-last-bow-04-the-dying-detective.txt#L184-L214`) (`text:his-last-bow-04-the-dying-detective.txt#L270-L297`) (`text:his-last-bow-04-the-dying-detective.txt#L326-L328`) (`text:his-last-bow-04-the-dying-detective.txt#L86-L122`) (`text:his-last-bow-04-the-dying-detective.txt#L278`).
+4a. Inspector Morton, in tweeds, is outside the house when Watson leaves (`text:his-last-bow-04-the-dying-detective.txt#L342-L353`); Smith, at Lower Burke Street, refuses to see Watson until he hears Holmes's name (`text:his-last-bow-04-the-dying-detective.txt#L365-L425`).
+5. Watson hides behind the head of the bed; Smith gloats, pockets the box ("There goes your last shred of evidence"), admits sending the box and causing Savage's death, and gives the signal by turning up the gas (`text:his-last-bow-04-the-dying-detective.txt#L505-L509`) (`text:his-last-bow-04-the-dying-detective.txt#L579-L648`) (`text:his-last-bow-04-the-dying-detective.txt#L688`).
 6. Inspector Morton arrests him (`text:his-last-bow-04-the-dying-detective.txt#L676-L683`).
 
 ## Apparent explanation
@@ -125,11 +121,13 @@ Culverton Smith: Savage "stood between this monster and a reversion" (`text:his-
 
 ## Evidence and investigative techniques
 
-- A confession obtained by a staged deathbed with a hidden witness.
+- A confession obtained by a staged deathbed with a hidden witness, against Smith's boast "My word is always as good as yours" (`text:his-last-bow-04-the-dying-detective.txt#L700-L705`).
+- Smith gives himself away by asking about a box, and takes it from the table (`text:his-last-bow-04-the-dying-detective.txt#L621-L648`); Holmes has Morton take it from his right-hand pocket (`text:his-last-bow-04-the-dying-detective.txt#L689-L692`).
+- Holmes's guard against packages: "I am somewhat upon my guard against any packages which reach me" (`text:his-last-bow-04-the-dying-detective.txt#L749-L751`).
 
 ## Red herrings and misdirection
 
-Holmes's ravings about oysters and half-crowns, meant to keep Watson from examining him (`text:his-last-bow-04-the-dying-detective.txt#L258`) (`text:his-last-bow-04-the-dying-detective.txt#L331`).
+Holmes's ravings about oysters and half-crowns, ~~meant to keep Watson from examining him~~ **corrected 2026-10-17** to produce "a pleasing effect of delirium" (`text:his-last-bow-04-the-dying-detective.txt#L733-L736`); he kept Watson off by the claim of contagion (`text:his-last-bow-04-the-dying-detective.txt#L114-L123`) (`text:his-last-bow-04-the-dying-detective.txt#L258`) (`text:his-last-bow-04-the-dying-detective.txt#L331`).
 
 ## Twists
 
@@ -138,6 +136,11 @@ The dying detective is in perfect health (`text:his-last-bow-04-the-dying-detect
 ## Ethical questions
 
 Holmes deceives his closest friend and his landlady for the sake of a convincing performance (`text:his-last-bow-04-the-dying-detective.txt#L708`) (`text:his-last-bow-04-the-dying-detective.txt#L718`). He kept Watson at four yards because a doctor close to would have found no rise of pulse or temperature (`text:his-last-bow-04-the-dying-detective.txt#L741-L744`).
+
+## Pattern tags checked
+
+- Removed 2026-10-17: *the false account*. The pattern is a witness who lies or stays silent; here the deceiver is the detective, whose staged illness is covered by *the medical deception* and *the detective's ruse* (`text:his-last-bow-04-the-dying-detective.txt#L714-L725`).
+- Kept: *the medical deception*, *the detective's ruse*.
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -158,7 +161,6 @@ This is one of the brief's named sources for The Quiet Dose: misleading medical 
 
 - [The medical deception](../patterns/the-medical-deception.md): Holmes fakes a dying illness with make-up and fasting.
 - [The detective's ruse](../patterns/the-detectives-ruse.md): Holmes lures the murderer to his bedside to confess.
-- [The false account (protective lie, silence or false confession)](../patterns/the-false-account.md): Holmes deceives Watson and Mrs. Hudson.
 
 **Techniques**
 

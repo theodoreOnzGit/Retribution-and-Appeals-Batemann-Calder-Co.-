@@ -350,7 +350,6 @@ character:mrs-warren	appears_in	work:BOW02
 character:mrs-windibank	appears_in	work:ADV03
 character:mulatto-cook	appears_in	work:BOW01
 character:mycroft-holmes	appears_in	work:BOW03
-character:mycroft-holmes	appears_in	work:BOW07
 character:mycroft-holmes	appears_in	work:MEM10
 character:mycroft-holmes	appears_in	work:MEM12
 character:mycroft-holmes	appears_in	work:RET01
@@ -570,7 +569,6 @@ organisation:worthingdon-bank-gang	appears_in	work:MEM09
 pattern:holmes-lets-the-culprit-go	appears_in	work:ADV04
 pattern:holmes-lets-the-culprit-go	appears_in	work:ADV07
 pattern:holmes-lets-the-culprit-go	appears_in	work:ADV11
-pattern:holmes-lets-the-culprit-go	appears_in	work:BOW02
 pattern:holmes-lets-the-culprit-go	appears_in	work:BOW06
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS01
 pattern:holmes-lets-the-culprit-go	appears_in	work:CAS04
@@ -644,6 +642,8 @@ pattern:the-crime-with-no-crime	appears_in	work:RET11
 pattern:the-detective-errs	appears_in	work:ADV01
 pattern:the-detective-errs	appears_in	work:ADV05
 pattern:the-detective-errs	appears_in	work:ADV08
+pattern:the-detective-errs	appears_in	work:BOW01
+pattern:the-detective-errs	appears_in	work:BOW03
 pattern:the-detective-errs	appears_in	work:BOW05
 pattern:the-detective-errs	appears_in	work:CAS12
 pattern:the-detective-errs	appears_in	work:MEM01
@@ -687,6 +687,7 @@ pattern:the-disguised-identity	appears_in	work:ADV07
 pattern:the-disguised-identity	appears_in	work:ADV09
 pattern:the-disguised-identity	appears_in	work:ADV12
 pattern:the-disguised-identity	appears_in	work:BOW01
+pattern:the-disguised-identity	appears_in	work:BOW02
 pattern:the-disguised-identity	appears_in	work:BOW05
 pattern:the-disguised-identity	appears_in	work:BOW07
 pattern:the-disguised-identity	appears_in	work:CAS01
@@ -717,7 +718,6 @@ pattern:the-dog-that-did-nothing	related_to	pattern:the-staged-scene
 pattern:the-false-account	appears_in	work:ADV04
 pattern:the-false-account	appears_in	work:ADV07
 pattern:the-false-account	appears_in	work:ADV11
-pattern:the-false-account	appears_in	work:BOW04
 pattern:the-false-account	appears_in	work:CAS02
 pattern:the-false-account	appears_in	work:CAS05
 pattern:the-false-account	appears_in	work:CAS09
@@ -965,6 +965,7 @@ technique:disguise-and-undercover	used_in	work:ADV11
 technique:disguise-and-undercover	used_in	work:ADV12
 technique:disguise-and-undercover	used_in	work:BOW01
 technique:disguise-and-undercover	used_in	work:BOW04
+technique:disguise-and-undercover	used_in	work:BOW05
 technique:disguise-and-undercover	used_in	work:BOW07
 technique:disguise-and-undercover	used_in	work:CAS01
 technique:disguise-and-undercover	used_in	work:CAS03
@@ -1506,6 +1507,7 @@ work:ADV12	uses_technique	technique:disguise-and-undercover
 work:ADV12	uses_technique	technique:elimination-reasoning
 work:ADV12	uses_technique	technique:observation-of-the-person
 work:BOW01	exhibits	pattern:the-avenging-brotherhood
+work:BOW01	exhibits	pattern:the-detective-errs
 work:BOW01	exhibits	pattern:the-detectives-ruse
 work:BOW01	exhibits	pattern:the-disguised-identity
 work:BOW01	exhibits	pattern:the-hidden-message
@@ -1528,8 +1530,8 @@ work:BOW01	set_in	place:high-gable
 work:BOW01	set_in	place:wisteria-lodge
 work:BOW01	uses_technique	technique:disguise-and-undercover
 work:BOW01	uses_technique	technique:observation-of-the-person
-work:BOW02	exhibits	pattern:holmes-lets-the-culprit-go
 work:BOW02	exhibits	pattern:the-avenging-brotherhood
+work:BOW02	exhibits	pattern:the-disguised-identity
 work:BOW02	exhibits	pattern:the-hidden-message
 work:BOW02	exhibits	pattern:the-past-returning-from-abroad
 work:BOW02	explores	theme:justice-outside-the-law
@@ -1552,6 +1554,7 @@ work:BOW02	uses_technique	technique:ciphers-and-codes
 work:BOW02	uses_technique	technique:newspapers-and-advertisements
 work:BOW02	uses_technique	technique:observation-of-the-person
 work:BOW03	exhibits	pattern:the-compromising-document
+work:BOW03	exhibits	pattern:the-detective-errs
 work:BOW03	exhibits	pattern:the-detectives-ruse
 work:BOW03	exhibits	pattern:the-dog-that-did-nothing
 work:BOW03	exhibits	pattern:the-staged-scene
@@ -1577,7 +1580,6 @@ work:BOW03	uses_technique	technique:geography-and-maps
 work:BOW03	uses_technique	technique:newspapers-and-advertisements
 work:BOW03	uses_technique	technique:records-and-registers
 work:BOW04	exhibits	pattern:the-detectives-ruse
-work:BOW04	exhibits	pattern:the-false-account
 work:BOW04	exhibits	pattern:the-medical-deception
 work:BOW04	explores	theme:greed-and-inheritance
 work:BOW04	features	character:culverton-smith
@@ -1608,6 +1610,7 @@ work:BOW05	features	character:rose-spender
 work:BOW05	features	character:sherlock-holmes
 work:BOW05	involves	organisation:scotland-yard
 work:BOW05	set_in	place:poultney-square
+work:BOW05	uses_technique	technique:disguise-and-undercover
 work:BOW05	uses_technique	technique:observation-of-the-person
 work:BOW05	uses_technique	technique:poisons-and-toxicology
 work:BOW05	uses_technique	technique:records-and-registers
@@ -1636,7 +1639,6 @@ work:BOW07	explores	theme:secrecy-and-the-state
 work:BOW07	features	character:altamont
 work:BOW07	features	character:john-watson
 work:BOW07	features	character:martha
-work:BOW07	features	character:mycroft-holmes
 work:BOW07	features	character:sherlock-holmes
 work:BOW07	features	character:von-bork
 work:BOW07	features	character:von-herling

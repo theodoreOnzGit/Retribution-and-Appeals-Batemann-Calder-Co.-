@@ -5,7 +5,7 @@
 id = "pattern:holmes-lets-the-culprit-go"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-18T00:54:00+08:00"
+modified = "2026-10-18T01:02:00+08:00"
 origin = "ai"
 title = "Holmes lets the culprit go"
 verified = true
@@ -61,11 +61,6 @@ kind = "appears_in"
 note = "Holmes returns the letter to the box and screens Lady Hilda."
 
 [[relation]]
-target = "work:BOW02"
-kind = "appears_in"
-note = "Gennaro, who killed in self-defence, is not expected to be charged."
-
-[[relation]]
 target = "work:BOW06"
 kind = "appears_in"
 note = "Sterndale goes back to Africa."
@@ -97,7 +92,7 @@ Holmes, as a private agent, declines to hand a culprit to the law.
 
 Holmes repeatedly states that he is not an official agent (ADV04 (`text:the-adventures-of-sherlock-holmes.txt#L3820-L3822`); ADV07 (`text:the-adventures-of-sherlock-holmes.txt#L6740-L6741`)). His reasons vary: a dying man, a frightened first offender, a scandal to avoid. This is the canon's sharpest question about accountability, and the closest match to the game's theme.
 
-## Occurrences (15 works)
+## Occurrences (14 works)
 
 - [ADV04 The Boscombe Valley Mystery](../works/ADV04.md): Holmes keeps Turner's signed confession unused.
 - [ADV07 The Adventure of the Blue Carbuncle](../works/ADV07.md): "Get out!"
@@ -109,7 +104,6 @@ Holmes repeatedly states that he is not an official agent (ADV04 (`text:the-adve
 - [RET09 The Adventure of the Three Students](../works/RET09.md): Gilchrist confesses, withdraws and goes to the Rhodesian Police.
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): "You are acquitted, Captain Crocker."
 - [RET13 The Adventure of the Second Stain](../works/RET13.md): Holmes returns the letter to the box and screens Lady Hilda.
-- [BOW02 The Adventure of the Red Circle](../works/BOW02.md): Gennaro, who killed in self-defence, is not expected to be charged.
 - [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): Sterndale goes back to Africa.
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Kitty Winter gets "the lowest" sentence; Holmes is not prosecuted for burglary.
 - [CAS04 The Adventure of the Three Gables](../works/CAS04.md): "I suppose I shall have to compound a felony as usual."
