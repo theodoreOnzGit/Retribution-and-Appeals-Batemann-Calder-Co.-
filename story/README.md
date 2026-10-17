@@ -18,6 +18,36 @@ decision the brief lists as open. Doyle material is marked with its source as
 | [`opening-chapter.md`](opening-chapter.md) | Player-facing draft of the opening chapter, "Headroom", introducing the world and the case's people before Elias Ward's death, with a ledger of every fact it plants, and variant tables for the Holmes and player-identity decisions | Proposal, not canon |
 | [`science-review-questions.md`](science-review-questions.md) | 58 questions for the scientific director, each with a best current answer, a confidence and a type (established, practice, speculative, story); index of placeholder numbers | Proposal, awaiting review |
 | [`audit.md`](audit.md) | Plot holes, unfair clues, weak motivations, continuity risks and a safety review of these drafts, with what was fixed and what is left open | Proposal, not canon |
+| [`sources/bibliography.md`](sources/bibliography.md) | 121 sources (standards, papers, official reports, inquiries, judgments), each with a key, identifier, access date and what it establishes | Research support, 2026-10-17 |
+| [`sources/science-claims.md`](sources/science-claims.md) | 74 scientific claims (SQ-01..SQ-58 plus 18 found in the drafts) graded against the literature, with seven literature checks | Research support, 2026-10-17 |
+| [`sources/behaviour-claims.md`](sources/behaviour-claims.md) | 46 claims about why people and institutions act as they do, graded against research and documented cases | Research support, 2026-10-17 |
+
+## Literature grounding (added 2026-10-17)
+
+The owner's rule (brief, top section) requires every scientific and
+behavioural claim to be grounded in published literature. `sources/` holds
+the result. Claims in the drafts now carry `[src: key]` or `[unsourced]`
+inline (kept out of player-facing prose); keys resolve in
+`sources/bibliography.md`.
+
+| Claims | Grounded | Partly grounded | Extrapolation | Unsourced | Total |
+|---|---|---|---|---|---|
+| Science (`sources/science-claims.md`) | 44 | 19 | 7 | 4 | 74 |
+| Behaviour (`sources/behaviour-claims.md`) | 25 | 12 | 3 | 6 | 46 |
+| **All** | **69** | **31** | **10** | **10** | **120** |
+
+Two science items (SQ-21, SQ-50) are decisions or review questions and are not
+counted. Sources were located by web search and confirmed from search
+results; no page could be fetched in full in that session, so entries say
+when their confirmation is secondary. Main disagreements with the drafts, all
+left for the owner or the director unless a plain fact: a 12 % dosimetry
+error is inside accepted accuracy (LC-1); the history of radiation-made
+ammonia is nitrogen with water, not hydrogen, about 60 times less efficient
+than Haber–Bosch (LC-2, corrected in SQ-56); "no induced radioactivity" holds
+only within processing energy limits (LC-3); real gamma-source supply is
+already an oligopoly (LC-4); Elias's lifetime dose is high for a modern
+career (LC-5); and Julian's motive has the weakest support of any behaviour
+in the case (LB-1).
 
 ## Recommended first case, in brief
 
