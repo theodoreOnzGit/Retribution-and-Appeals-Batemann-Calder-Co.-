@@ -5,7 +5,7 @@
 id = "work:MEM04"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:42:00+08:00"
 origin = "ai"
 title = "The Stockbroker's Clerk"
 verified = true
@@ -100,7 +100,7 @@ The two Beddington brothers work together; one, as "Arthur Pinner", hires Pycrof
 3. In Birmingham "Harry Pinner" sets him to copy the Paris directory (`text:the-memoirs-of-sherlock-holmes.txt#L2282-L2299`).
 4. Pycroft notices that both brothers have the same gold-stuffed tooth (`text:the-memoirs-of-sherlock-holmes.txt#L2330-L2345`) and consults Holmes.
 5. In Birmingham the "managing director" reads the *Evening Standard* and hangs himself with his braces; they hold him up and revive him (`text:the-memoirs-of-sherlock-holmes.txt#L2503-L2513`).
-6. The paper reports the Mawson's robbery: Beddington, using Pycroft's name, killed the watchman and rifled the safe; he is arrested on the steps by Sergeant Tuson of the City Police (`text:the-memoirs-of-sherlock-holmes.txt#L2635-L2678`).
+6. The paper reports the Mawson's robbery: Beddington, using Pycroft's name, killed the watchman with a poker from behind and rifled the safe of nearly a hundred thousand pounds in American railway bonds; he is arrested on the steps by Sergeant Tuson of the City Police. The Beddingtons, forger and cracksman, had lately come out of five years' penal servitude (`text:the-memoirs-of-sherlock-holmes.txt#L2635-L2678`).
 
 ## Apparent explanation
 
@@ -114,6 +114,8 @@ The Beddington brothers, for the bonds. The forger needed Pycroft's handwriting 
 
 - The same tooth in "two" men (`text:the-memoirs-of-sherlock-holmes.txt#L2330-L2345`).
 - The specimen of handwriting (`text:the-memoirs-of-sherlock-holmes.txt#L2561`) (`text:the-memoirs-of-sherlock-holmes.txt#L2578`).
+- The managing director was already pale when they came in, so it was not their visit that frightened him; Holmes forgets the newspaper until the man croaks "The paper!" (`text:the-memoirs-of-sherlock-holmes.txt#L2482-L2483`) (`text:the-memoirs-of-sherlock-holmes.txt#L2626-L2632`).
+- Holmes and Watson are introduced as job-seekers, "Mr. Harris, of Bermondsey" and "Mr. Price" (`text:the-memoirs-of-sherlock-holmes.txt#L2422-L2436`).
 
 ## Red herrings and misdirection
 
@@ -125,7 +127,7 @@ The man who "hires" Pycroft tries to hang himself on reading the news (`text:the
 
 ## Ethical questions
 
-Pycroft is used because he is unknown at his new firm: a worker's identity as the weak point of a security system.
+Pycroft is used because he is unknown at his new firm: a worker's identity as the weak point of a security system. Pycroft describes "Arthur Pinner" with an antisemitic phrase (`text:the-memoirs-of-sherlock-holmes.txt#L2070-L2071`), which an adaptation should not reuse.
 
 ## Textual notes
 

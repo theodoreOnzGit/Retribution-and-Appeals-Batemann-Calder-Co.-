@@ -5,7 +5,7 @@
 id = "character:susan-the-maid"
 kind = "character"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:10:00+08:00"
 origin = "ai"
 title = "Susan"
 verified = true
@@ -19,7 +19,7 @@ role = "spy"
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
 
-Mrs. Maberley's maid, Barney's informant.
+Mrs. Maberley's maid, Barney's informant and, as Isadora Klein reveals, his wife (`text:the-case-book-of-sherlock-holmes.txt#L3605-L3608`).
 
 ## Appears in (1 works)
 

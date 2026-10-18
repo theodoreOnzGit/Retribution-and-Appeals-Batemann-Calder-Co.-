@@ -5,7 +5,7 @@
 id = "work:RET09"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:57:00+08:00"
 origin = "ai"
 title = "The Adventure of the Three Students"
 verified = true
@@ -106,8 +106,9 @@ Bannister was butler to Sir Jabez Gilchrist, the young man's father (`text:the-r
 
 1. The day before an examination, proofs of the Greek paper (half a chapter of Thucydides) arrive and are left in Soames's room; Bannister leaves his key in the door (`text:the-return-of-sherlock-holmes.txt#L7818-L7838`).
 2. Gilchrist, passing the window in his jumping-shoes, sees the proofs, goes in and copies them; Soames comes back and he hides in the bedroom (`text:the-return-of-sherlock-holmes.txt#L8493-L8534`).
-3. Bannister sees Gilchrist's gloves on the chair and sits on them until Soames leaves (`text:the-return-of-sherlock-holmes.txt#L8575-L8577`); he nearly faints (`text:the-return-of-sherlock-holmes.txt#L7871`).
+3. Bannister sees Gilchrist's tan gloves on the chair by the window and sits on them until Soames leaves, feigning faintness (`text:the-return-of-sherlock-holmes.txt#L7871-L7873`) (`text:the-return-of-sherlock-holmes.txt#L8573-L8578`); then he lets Gilchrist out of the bedroom, hears his confession, and speaks to him "as his dead father would have done" (`text:the-return-of-sherlock-holmes.txt#L8578-L8582`).
 4. Holmes finds pencil shavings with "NN", a cut in the desk's leather, and clay pyramids with sawdust (`text:the-return-of-sherlock-holmes.txt#L8002-L8032`).
+4a. Holmes visits the students' rooms, breaking his pencil and borrowing pencils and a knife in two of them; McLaren will not open his door (`text:the-return-of-sherlock-holmes.txt#L8241-L8255`). The stationers cannot match the pencil (`text:the-return-of-sherlock-holmes.txt#L8324-L8332`).
 5. He checks which student is tall enough to see through the window (`text:the-return-of-sherlock-holmes.txt#L8493`) (`text:the-return-of-sherlock-holmes.txt#L8266`), fetches clay and tan from the jumping-pit (`text:the-return-of-sherlock-holmes.txt#L8534-L8538`), and confronts Bannister and Gilchrist, who confesses (`text:the-return-of-sherlock-holmes.txt#L8402-L8468`).
 6. Gilchrist has already written to say he will withdraw and take a commission in the Rhodesian Police (`text:the-return-of-sherlock-holmes.txt#L8547-L8551`).
 
@@ -122,11 +123,15 @@ Gilchrist, a moment's temptation (`text:the-return-of-sherlock-holmes.txt#L8525`
 ## Evidence and investigative techniques
 
 - The pencil, a "Johann Faber" (`text:the-return-of-sherlock-holmes.txt#L8022`).
+- The three slips: first on the floor, second in the window, third where it was left (`text:the-return-of-sherlock-holmes.txt#L7847-L7856`); the window table chosen to watch the court, though Soames came by the side door (`text:the-return-of-sherlock-holmes.txt#L7979-L7988`).
+- The cut in the leather, slight at one end and deepening toward the bedroom door, where a second pyramid of clay lies behind the curtain (`text:the-return-of-sherlock-holmes.txt#L8032-L8070`) (`text:the-return-of-sherlock-holmes.txt#L8529-L8534`).
+- Bannister sat in the chair in the corner, not one near the door (`text:the-return-of-sherlock-holmes.txt#L8191-L8198`).
+- Only a man of six feet could see the papers on the central table from outside (`text:the-return-of-sherlock-holmes.txt#L8490-L8498`).
 - The clay and the spikes (`text:the-return-of-sherlock-holmes.txt#L8508-L8509`) (`text:the-return-of-sherlock-holmes.txt#L8536-L8538`).
 
 ## Red herrings and misdirection
 
-The Indian student and the wayward McLaren; Bannister's faint.
+The Indian student, who had seen the rolled proofs and paces his room (`text:the-return-of-sherlock-holmes.txt#L7907-L7920`) (`text:the-return-of-sherlock-holmes.txt#L8231-L8232`) (`text:the-return-of-sherlock-holmes.txt#L8300-L8312`); the wayward McLaren, nearly expelled over cards, who swears at the door (`text:the-return-of-sherlock-holmes.txt#L8122-L8131`) (`text:the-return-of-sherlock-holmes.txt#L8252-L8260`); Bannister's faint; Soames's theory of an entry by the bedroom window (`text:the-return-of-sherlock-holmes.txt#L8078-L8089`).
 
 ## Twists
 
@@ -134,7 +139,11 @@ The servant was protecting the culprit (`text:the-return-of-sherlock-holmes.txt#
 
 ## Ethical questions
 
-Holmes lets the matter end privately; an honest confession and a fresh start abroad (`text:the-return-of-sherlock-holmes.txt#L8547-L8551`).
+Holmes lets the matter end privately, convening "a small private court-martial" (`text:the-return-of-sherlock-holmes.txt#L8393-L8397`); Gilchrist had written his withdrawal before he knew he was found out, persuaded by Bannister (`text:the-return-of-sherlock-holmes.txt#L8546-L8559`). Soames's description of Daulat Ras ("as most of those Indians are", `text:the-return-of-sherlock-holmes.txt#L8118-L8120`) is a period prejudice the narrative does not question; Holmes dismisses the suspicion it feeds (`text:the-return-of-sherlock-holmes.txt#L8304-L8311`).
+
+## Pattern tags checked
+
+- Kept: *Holmes lets the culprit go*, *the false account* (Bannister's "There was no man, sir", `text:the-return-of-sherlock-holmes.txt#L8428-L8439`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 

@@ -5,7 +5,7 @@
 id = "character:carrie-evans"
 kind = "character"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:18:00+08:00"
 origin = "ai"
 title = "Carrie Evans (Mrs. Norlett)"
 verified = true
@@ -19,7 +19,7 @@ role = "accomplice"
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
 
-Lady Beatrice's maid.
+Lady Beatrice's maid for some years, married to Mr. Norlett, and Sir Robert's "willing tool" in hiding the death (`text:the-case-book-of-sherlock-holmes.txt#L9178-L9180`) (`text:the-case-book-of-sherlock-holmes.txt#L8967`).
 
 ## Appears in (1 works)
 

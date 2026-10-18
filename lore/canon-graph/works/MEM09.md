@@ -5,7 +5,7 @@
 id = "work:MEM09"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:47:00+08:00"
 origin = "ai"
 title = "The Resident Patient"
 verified = true
@@ -58,29 +58,19 @@ kind = "exhibits"
 note = "Murder made to look like suicide by hanging."
 
 [[relation]]
-target = "pattern:the-past-returning-from-abroad"
-kind = "exhibits"
-note = "Not abroad: released prisoners return for the informer."
-
-[[relation]]
 target = "pattern:the-avenging-brotherhood"
 kind = "exhibits"
 note = "The gang's revenge on the man who turned informer."
 
 [[relation]]
-target = "pattern:the-locked-room"
-kind = "exhibits"
-note = "Blessington, locked in, found hanging."
-
-[[relation]]
 target = "technique:tobacco-ash"
 kind = "uses_technique"
-note = "Cigar ends bitten and cut, unlike Blessington's own Havanas."
+note = "Four Dutch East Indian cigar ends, two from a holder and two bitten, unlike the Havana in Blessington's case."
 
 [[relation]]
 target = "technique:footprints-and-tracks"
 kind = "uses_technique"
-note = "Three sets of footprints on the stair carpet."
+note = "Three sets of footprints on the stair carpet, their order read from superimposition; the \"son's\" square toes clear Trevelyan."
 
 [[relation]]
 target = "technique:observation-of-the-person"
@@ -90,7 +80,7 @@ note = "Holmes reads Watson's thoughts (Gordon, Beecher) in this edition."
 [[relation]]
 target = "theme:justice-outside-the-law"
 kind = "explores"
-note = "\"Whatever... justice is still there to avenge.\""
+note = "Holmes: \"though that shield may fail to guard, the sword of justice is still there to avenge.\""
 
 [[relation]]
 target = "theme:greed-and-inheritance"
@@ -120,7 +110,8 @@ Blessington is Sutton, informer against the Worthingdon gang (`text:the-memoirs-
 2. Sutton, as Blessington, sets up Dr. Trevelyan in Brook Street and lives in the house (`text:the-memoirs-of-sherlock-holmes.txt#L6100-L6153`).
 3. When the three are released early, a "cataleptic Russian nobleman" and his "son" twice call on Trevelyan at the hour of Blessington's walk, and the "son" gets into Blessington's room (`text:the-memoirs-of-sherlock-holmes.txt#L6189-L6254`) (`text:the-memoirs-of-sherlock-holmes.txt#L6407-L6423`).
 4. Blessington, terrified, lies to Holmes about who they are (`text:the-memoirs-of-sherlock-holmes.txt#L6359-L6392`).
-5. With the help of the page, the three get in at night, try him, and hang him from the hook in his ceiling (`text:the-memoirs-of-sherlock-holmes.txt#L6478-L6507`) (`text:the-memoirs-of-sherlock-holmes.txt#L6612`).
+4a. Weeks earlier Blessington had seen the gang's release in the papers; his talk of a West End burglary and stronger bolts was "the merest blind" (`text:the-memoirs-of-sherlock-holmes.txt#L6170-L6176`) (`text:the-memoirs-of-sherlock-holmes.txt#L6711-L6715`).
+5. With the help of the page, who admits them, the three climb the stair on tiptoe, force round the key of Blessington's locked door with a wire, gag him, hold "something in the nature of a judicial proceeding" while smoking, and hang him from the hook in his ceiling with rope cut from his own fire-escape coil; the page bars the door behind them (`text:the-memoirs-of-sherlock-holmes.txt#L6606-L6655`) (`text:the-memoirs-of-sherlock-holmes.txt#L6591-L6596`).
 6. Holmes reads the cigar ends, screwdriver and footprints as murder (`text:the-memoirs-of-sherlock-holmes.txt#L6537-L6559`). The three escape, and are believed lost on the steamer *Norah Creina* off Oporto; the case against the page fails (`text:the-memoirs-of-sherlock-holmes.txt#L6732-L6735`).
 
 ## Apparent explanation
@@ -133,13 +124,18 @@ Biddle, Hayward and Moffat, revenge on the informer (`text:the-memoirs-of-sherlo
 
 ## Evidence and investigative techniques
 
-- Four cigar ends, two kinds, cut and bitten, and an Havana in Blessington's case (`text:the-memoirs-of-sherlock-holmes.txt#L6537-L6559`).
-- A screwdriver and screws: the hook prepared (`text:the-memoirs-of-sherlock-holmes.txt#L6537`).
+- Four cigar ends, ~~two kinds~~ **corrected 2026-10-17** all four of the Dutch East Indian sort, two smoked from a holder and two without, two cut with a blunt knife and two bitten; the one cigar in Blessington's case is an Havana, and he has no holder (`text:the-memoirs-of-sherlock-holmes.txt#L6537-L6559`).
+- A screwdriver and screws ~~: the hook prepared~~ **corrected 2026-10-17**: Holmes conceives they were brought to fix up "some sort of block or pulley" as a gallows, made unnecessary when the killers saw the hook (`text:the-memoirs-of-sherlock-holmes.txt#L6537-L6538`) (`text:the-memoirs-of-sherlock-holmes.txt#L6649-L6653`).
+- Scratches on the ward of the key, where a wire forced it round from outside (`text:the-memoirs-of-sherlock-holmes.txt#L6629-L6632`).
+- The order of the three sets of footmarks on the stair carpet, read from their superimposition (`text:the-memoirs-of-sherlock-holmes.txt#L6620-L6628`).
+- The fake catalepsy: "a very easy complaint to imitate. I have done it myself" (`text:the-memoirs-of-sherlock-holmes.txt#L6412-L6416`).
 - The footprints on the carpet and the measured boots (`text:the-memoirs-of-sherlock-holmes.txt#L6447`).
 
 ## Red herrings and misdirection
 
-The cataleptic patient: Trevelyan himself is briefly suspected (`text:the-memoirs-of-sherlock-holmes.txt#L6436-L6437`).
+The cataleptic patient: ~~Trevelyan himself is briefly suspected~~ **corrected 2026-10-17** Watson suggests Trevelyan concocted the story; Holmes had considered and dismissed it, since the "son's" square-toed prints are an inch and a third longer than the doctor's (`text:the-memoirs-of-sherlock-holmes.txt#L6434-L6449`).
+
+Inspector Lanner's suicide theory: the bed slept in, five in the morning "about his time for hanging himself" (`text:the-memoirs-of-sherlock-holmes.txt#L6524-L6530`). Blessington's own burglary story (`text:the-memoirs-of-sherlock-holmes.txt#L6170-L6176`).
 
 ## Twists
 
@@ -147,11 +143,19 @@ The rich patron is a criminal; the "suicide" is an execution by his old gang.
 
 ## Ethical questions
 
-The informer's guilt and the gang's private justice; Watson's last line on the fate of the killers.
+The informer's guilt and the gang's private justice: Holmes calls Sutton "the worst of the gang" yet "still living under the shield of British law" (`text:the-memoirs-of-sherlock-holmes.txt#L6703-L6704`) (`text:the-memoirs-of-sherlock-holmes.txt#L6720-L6726`). Watson's last line on the fate of the killers, surmised lost on the *Norah Creina* (`text:the-memoirs-of-sherlock-holmes.txt#L6729-L6734`).
 
 ## Textual notes
 
 The opening thought-reading of Watson (General Gordon, Henry Ward Beecher) appears here in this edition (`text:the-memoirs-of-sherlock-holmes.txt#L5964-L5989`); the same passage opens *The Cardboard Box* in its own ebook (`text:the-adventure-of-the-cardboard-box.txt#L109-L128`).
+
+The opening dates the case to "a close, rainy day in October" yet speaks of "a thermometer of 90" (`text:the-memoirs-of-sherlock-holmes.txt#L5896-L5900`); the hot-weather passage belongs to the thought-reading scene shared with *The Cardboard Box*, an August story.
+
+## Pattern tags checked
+
+- Removed 2026-10-17: *the past returning from abroad*. The crime was the Worthingdon bank robbery in England and the avengers come from prison, not from abroad; the old note itself said "Not abroad" (`text:the-memoirs-of-sherlock-holmes.txt#L6698-L6709`).
+- Removed 2026-10-17: *the locked room*. No impossibility is posed: the killers forced the key with a wire and the page barred the door after them, and nobody treats the room as sealed (`text:the-memoirs-of-sherlock-holmes.txt#L6629-L6655`).
+- Kept: *the medical deception*, *the staged scene*, *the avenging brotherhood*.
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -171,17 +175,15 @@ A wealthy patron of a young clinic, who insists on living on the premises, was o
 
 - [The medical deception](../patterns/the-medical-deception.md): A "Russian nobleman" fakes catalepsy to get into the house.
 - [The staged scene](../patterns/the-staged-scene.md): Murder made to look like suicide by hanging.
-- [The past returning from abroad](../patterns/the-past-returning-from-abroad.md): Not abroad: released prisoners return for the informer.
 - [The avenging brotherhood](../patterns/the-avenging-brotherhood.md): The gang's revenge on the man who turned informer.
-- [The locked room](../patterns/the-locked-room.md): Blessington, locked in, found hanging.
 
 **Techniques**
 
-- [Tobacco ash](../techniques/tobacco-ash.md): Cigar ends bitten and cut, unlike Blessington's own Havanas.
-- [Footprints and tracks](../techniques/footprints-and-tracks.md): Three sets of footprints on the stair carpet.
+- [Tobacco ash](../techniques/tobacco-ash.md): Four Dutch East Indian cigar ends, two from a holder and two bitten, unlike the Havana in Blessington's case.
+- [Footprints and tracks](../techniques/footprints-and-tracks.md): Three sets of footprints on the stair carpet, their order read from superimposition; the "son's" square toes clear Trevelyan.
 - [Reading the person](../techniques/observation-of-the-person.md): Holmes reads Watson's thoughts (Gordon, Beecher) in this edition.
 
 **Themes**
 
-- [Justice outside the law](../themes/justice-outside-the-law.md): "Whatever... justice is still there to avenge."
+- [Justice outside the law](../themes/justice-outside-the-law.md): Holmes: "though that shield may fail to guard, the sword of justice is still there to avenge."
 - [Greed and inheritance](../themes/greed-and-inheritance.md): The bank robbery money that set up the practice.

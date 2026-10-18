@@ -5,7 +5,7 @@
 id = "work:RET06"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:55:00+08:00"
 origin = "ai"
 title = "The Adventure of Black Peter"
 verified = true
@@ -84,6 +84,11 @@ kind = "uses_technique"
 note = "\"Captain Basil\"."
 
 [[relation]]
+target = "technique:tobacco-ash"
+kind = "uses_technique"
+note = "A sealskin pouch of coarse ship's tobacco, and no pipe in the cabin."
+
+[[relation]]
 target = "theme:justice-outside-the-law"
 kind = "explores"
 note = "Cairns claims he killed in self-defence."
@@ -113,12 +118,14 @@ Carey commanded the *Sea Unicorn*; Cairns was spare harpooner (`text:the-return-
 
 ## Actual chronology
 
-1. 1883: the *Sea Unicorn* picks up the banker Neligan escaping to Norway with securities in a tin box; Carey kills him; Cairns sees it (`text:the-return-of-sherlock-holmes.txt#L6086-L6100`) (`text:the-return-of-sherlock-holmes.txt#L5809-L5828`).
+1. August 1883: the *Sea Unicorn*, homeward from the ice, picks up the banker Neligan, his yacht blown north and its crew gone in the dinghy, with a tin box of securities; on the second night Carey tips him over the rail, and Cairns alone sees it (`text:the-return-of-sherlock-holmes.txt#L6084-L6103`). Neligan had fled for Norway meaning, his son says, to realise the securities and pay every creditor (`text:the-return-of-sherlock-holmes.txt#L6086-L6100`) (`text:the-return-of-sherlock-holmes.txt#L5809-L5828`).
 2. Carey retires to Woodman's Lee, drinks, beats his wife and daughter (`text:the-return-of-sherlock-holmes.txt#L5413`) (`text:the-return-of-sherlock-holmes.txt#L5446`) (`text:the-return-of-sherlock-holmes.txt#L5644`).
-3. Cairns finds him and tries to blackmail him; they quarrel; Cairns drives a harpoon through him (`text:the-return-of-sherlock-holmes.txt#L6105-L6120`). The box has no money in it (`text:the-return-of-sherlock-holmes.txt#L6132`).
+2a. Young Neligan traces securities sold on the London market back to Carey, and comes to the Brambletye Hotel on the day of the crime (`text:the-return-of-sherlock-holmes.txt#L5819-L5842`) (`text:the-return-of-sherlock-holmes.txt#L5926-L5928`).
+3. Cairns finds him and tries to blackmail him; on the Monday they agree terms (the stonemason Slater sees a short-bearded profile on the blind); on the Wednesday night, over rum, Carey draws a clasp-knife and Cairns drives a harpoon through him (`text:the-return-of-sherlock-holmes.txt#L5434-L5444`) (`text:the-return-of-sherlock-holmes.txt#L6105-L6120`). Cairns takes the tin box from the shelf and leaves his own sealskin pouch on the table (`text:the-return-of-sherlock-holmes.txt#L6119-L6122`). The box has no money in it (`text:the-return-of-sherlock-holmes.txt#L6132`).
+3a. A man comes to the hut, cries out and runs; this is Neligan, who drops his notebook by the door after the murder (`text:the-return-of-sherlock-holmes.txt#L6124-L6128`) (`text:the-return-of-sherlock-holmes.txt#L5578-L5590`) (`text:the-return-of-sherlock-holmes.txt#L5866-L5870`).
 4. Stanley Hopkins finds a sealskin pouch marked "P.C." and a notebook marked "J.H.N." with "C.P.R." securities (`text:the-return-of-sherlock-holmes.txt#L5522-L5556`).
 5. Holmes spends a morning harpooning a pig (`text:the-return-of-sherlock-holmes.txt#L5331-L5334`).
-6. Young Neligan, trying to recover his father's securities, is caught at the cabin; Hopkins arrests him (`text:the-return-of-sherlock-holmes.txt#L5743-L5839`).
+6. Young Neligan, after a failed attempt with a penknife, breaks into the cabin at night to read the logbook for August 1883, finds the pages torn out, and is caught; Hopkins arrests him (`text:the-return-of-sherlock-holmes.txt#L5743-L5839`).
 7. Holmes, as Captain Basil, advertises for harpooners for an Arctic expedition; Cairns answers and is handcuffed (`text:the-return-of-sherlock-holmes.txt#L5905`) (`text:the-return-of-sherlock-holmes.txt#L6000`) (`text:the-return-of-sherlock-holmes.txt#L6063-L6080`) (`text:the-return-of-sherlock-holmes.txt#L6171`).
 
 ## Apparent explanation
@@ -133,19 +140,26 @@ Patrick Cairns, in a quarrel over blackmail; he says self-defence (`text:the-ret
 
 - The harpoon thrust took great strength and skill, beyond the weak young Neligan (`text:the-return-of-sherlock-holmes.txt#L5951`).
 - Rum, a sealskin pouch with ship's tobacco: a seaman, a whaler (`text:the-return-of-sherlock-holmes.txt#L6152-L6158`).
-- The 1883 crew list (`text:the-return-of-sherlock-holmes.txt#L6165-L6168`).
+- The 1883 crew list, by three days' wiring to Dundee (`text:the-return-of-sherlock-holmes.txt#L6165-L6168`).
+- No pipe in the cabin and Carey seldom smoked; rum drunk though the tantalus of brandy and whisky was full: "How many landsmen... would drink rum" (`text:the-return-of-sherlock-holmes.txt#L5378-L5381`) (`text:the-return-of-sherlock-holmes.txt#L5507-L5514`) (`text:the-return-of-sherlock-holmes.txt#L6154-L6159`).
+- The blood-stain on the underside of the notebook: dropped after the crime (`text:the-return-of-sherlock-holmes.txt#L5576-L5590`).
+- Less dust in one corner of the shelf: something, the box, taken (`text:the-return-of-sherlock-holmes.txt#L5693-L5699`).
 
 ## Red herrings and misdirection
 
-The notebook "J.H.N." and Neligan's night visit.
+The notebook "J.H.N." and Neligan's night visit. The pouch's "P.C." read as Peter Carey's (`text:the-return-of-sherlock-holmes.txt#L5375-L5376`). Hopkins's reading of "C.P.R." as a client's initials (`text:the-return-of-sherlock-holmes.txt#L5539-L5543`).
 
 ## Twists
 
-The "P.C." pouch was Carey's own, Peter Carey (`text:the-return-of-sherlock-holmes.txt#L5375`) (`text:the-return-of-sherlock-holmes.txt#L6154`).
+~~The "P.C." pouch was Carey's own, Peter Carey~~ **corrected 2026-10-17** The "P.C." pouch was not Carey's, as Hopkins assumed (`text:the-return-of-sherlock-holmes.txt#L5375`): Holmes took the initials for "a coincidence" (`text:the-return-of-sherlock-holmes.txt#L6154-L6156`), and it was Patrick Cairns's, left on the table (`text:the-return-of-sherlock-holmes.txt#L6121-L6122`). The murderer answers Holmes's advertisement for harpooners (`text:the-return-of-sherlock-holmes.txt#L6168-L6172`).
 
 ## Ethical questions
 
-Holmes is disappointed in Hopkins for fixing on one theory (`text:the-return-of-sherlock-holmes.txt#L5888`). Carey's wife and daughter bless the hand that killed him (`text:the-return-of-sherlock-holmes.txt#L5644`).
+Holmes is disappointed in Hopkins for fixing on one theory (`text:the-return-of-sherlock-holmes.txt#L5888`). Carey's daughter blesses the hand that struck him down (`text:the-return-of-sherlock-holmes.txt#L5642-L5645`). Cairns: "You say I murdered Peter Carey, I say I KILLED Peter Carey" (`text:the-return-of-sherlock-holmes.txt#L6068-L6080`). Holmes tells Hopkins he owes Neligan an apology; the box goes back to the son, but the sold securities "are lost forever" (`text:the-return-of-sherlock-holmes.txt#L6176-L6179`).
+
+## Pattern tags checked
+
+- Kept: *the wrongly accused*, *the past returning from abroad* (a killing at sea, `text:the-return-of-sherlock-holmes.txt#L6084-L6103`), *the detective's ruse*.
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -172,6 +186,7 @@ A retired captain of an Arctic thorium-ore freighter is killed in a converted sh
 - [Reconstruction and experiment](../techniques/reconstruction-and-experiment.md): Holmes harpoons a dead pig to measure the strength needed.
 - [Records and registers](../techniques/records-and-registers.md): The crew list of the *Sea Unicorn* in 1883.
 - [Disguise and undercover work](../techniques/disguise-and-undercover.md): "Captain Basil".
+- [Tobacco ash](../techniques/tobacco-ash.md): A sealskin pouch of coarse ship's tobacco, and no pipe in the cabin.
 
 **Themes**
 

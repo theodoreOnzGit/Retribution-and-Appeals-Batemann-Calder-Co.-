@@ -5,7 +5,7 @@
 id = "pattern:the-past-returning-from-abroad"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:47:00+08:00"
 origin = "ai"
 title = "The past returning from abroad"
 verified = true
@@ -66,11 +66,6 @@ kind = "appears_in"
 note = "A betrayal in the Mutiny reaches Aldershot thirty years later."
 
 [[relation]]
-target = "work:MEM09"
-kind = "appears_in"
-note = "Not abroad: released prisoners return for the informer."
-
-[[relation]]
 target = "work:RET03"
 kind = "appears_in"
 note = "A Chicago gangster follows Elsie to Norfolk."
@@ -97,7 +92,7 @@ A crime committed in the colonies, America or at sea follows its author home to 
 
 Australia (ADV04), India and the Andamans (N2, ADV08), Utah (N1), the American South (ADV05), the Pennsylvania-style coalfield of N4. The device lets Doyle keep English settings respectable while the violence happened elsewhere, which an adaptation can question rather than repeat.
 
-## Occurrences (15 works)
+## Occurrences (14 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Twenty years of Utah pursued across America and Europe to London.
 - [N2 The Sign of the Four](../works/N2.md): The Agra treasure and the Andaman convicts reach Upper Norwood.
@@ -109,7 +104,6 @@ Australia (ADV04), India and the Andamans (N2, ADV08), Utah (N1), the American S
 - [ADV10 The Adventure of the Noble Bachelor](../works/ADV10.md): A husband believed dead in Apache country appears in the pew.
 - [MEM05 The "Gloria Scott"](../works/MEM05.md): A convict-ship mutiny of 1855 returns to a Norfolk magistrate.
 - [MEM08 The Crooked Man](../works/MEM08.md): A betrayal in the Mutiny reaches Aldershot thirty years later.
-- [MEM09 The Resident Patient](../works/MEM09.md): Not abroad: released prisoners return for the informer.
 - [RET03 The Adventure of the Dancing Men](../works/RET03.md): A Chicago gangster follows Elsie to Norfolk.
 - [RET06 The Adventure of Black Peter](../works/RET06.md): A murder at sea in 1883.
 - [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): A betrayal in Russia reaches Kent.

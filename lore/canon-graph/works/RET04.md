@@ -5,7 +5,7 @@
 id = "work:RET04"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:53:00+08:00"
 origin = "ai"
 title = "The Adventure of the Solitary Cyclist"
 verified = true
@@ -77,7 +77,7 @@ note = "The bearded cyclist is Carruthers."
 [[relation]]
 target = "pattern:the-detective-errs"
 kind = "exhibits"
-note = "Holmes scolds Watson, then arrives too late himself."
+note = "Holmes scolds Watson, then misses the earlier train and arrives too late; \"I have been very obtuse\"."
 
 [[relation]]
 target = "technique:disguise-and-undercover"
@@ -117,7 +117,7 @@ Short story in *The Return of Sherlock Holmes*, first book publication 1905. Tex
 
 ## Relationships
 
-Carruthers and Woodley knew Ralph Smith in South Africa; they played cards on the voyage to decide who should marry Violet (`text:the-return-of-sherlock-holmes.txt#L3755-L3781`). Williamson is their confederate (`text:the-return-of-sherlock-holmes.txt#L3755`). Violet is engaged to Cyril Morton (`text:the-return-of-sherlock-holmes.txt#L3146-L3147`).
+Carruthers and Woodley knew Ralph Smith in South Africa; they played cards on the voyage to decide who should marry Violet (`text:the-return-of-sherlock-holmes.txt#L3755-L3781`). ~~Williamson is their confederate~~ **corrected 2026-10-17** Williamson was not one of the South African party: he had never seen either man until two months before and never been in Africa; Woodley "picked up with this outcast padre" after quarrelling with Carruthers (`text:the-return-of-sherlock-holmes.txt#L3754-L3764`) (`text:the-return-of-sherlock-holmes.txt#L3795-L3799`). Violet is engaged to Cyril Morton (`text:the-return-of-sherlock-holmes.txt#L3146-L3147`).
 
 ## Actual chronology
 
@@ -125,9 +125,11 @@ Carruthers and Woodley knew Ralph Smith in South Africa; they played cards on th
 2. Carruthers hires her as music teacher at Chiltern Grange for a hundred a year (`text:the-return-of-sherlock-holmes.txt#L3150-L3161`). Woodley courts her brutally and is thrown out (`text:the-return-of-sherlock-holmes.txt#L3165-L3176`).
 3. A bearded cyclist follows her each Saturday across Charlington Heath (`text:the-return-of-sherlock-holmes.txt#L3178-L3208`).
 4. Watson watches, and Holmes tells him he has "done remarkably badly" (`text:the-return-of-sherlock-holmes.txt#L3317-L3392`); Holmes fights Woodley in a pub (`text:the-return-of-sherlock-holmes.txt#L3432-L3454`).
-5. Carruthers proposes; Violet decides to leave (`text:the-return-of-sherlock-holmes.txt#L3410-L3412`) (`text:the-return-of-sherlock-holmes.txt#L3462-L3465`).
-6. On her last journey Woodley and Williamson seize her; Williamson, an unfrocked clergyman, "marries" her to Woodley in the grounds of Charlington Hall (`text:the-return-of-sherlock-holmes.txt#L3532-L3620`) (`text:the-return-of-sherlock-holmes.txt#L3682-L3687`).
-7. Carruthers, the bearded cyclist, shoots Woodley (`text:the-return-of-sherlock-holmes.txt#L3624-L3643`). Holmes declares the forced marriage no marriage (`text:the-return-of-sherlock-holmes.txt#L3695-L3696`).
+4a. Watson finds that Charlington Hall was let a month before to a Mr. Williamson (`text:the-return-of-sherlock-holmes.txt#L3366-L3373`); the landlord says he is white-bearded, rumoured a clergyman, with week-end visitors including Woodley (`text:the-return-of-sherlock-holmes.txt#L3437-L3448`).
+5. Carruthers proposes and is gently refused; Woodley reappears, disfigured from Holmes's fists, and has a long talk with Carruthers; Violet decides to leave (`text:the-return-of-sherlock-holmes.txt#L3410-L3412`) (`text:the-return-of-sherlock-holmes.txt#L3462-L3465`).
+5a. Two days earlier a cable, "The old man is dead", had come; Woodley asked Carruthers to stand by the bargain or to marry her himself and share, and Carruthers refused any violence (`text:the-return-of-sherlock-holmes.txt#L3727-L3736`) (`text:the-return-of-sherlock-holmes.txt#L3801-L3809`).
+6. On her last journey, in the new trap, she takes an earlier train than Holmes allowed for; Woodley and Williamson club the groom Peter and seize her (`text:the-return-of-sherlock-holmes.txt#L3518-L3536`) (`text:the-return-of-sherlock-holmes.txt#L3581-L3588`); Williamson, an unfrocked clergyman, "marries" her to Woodley in the grounds of Charlington Hall (`text:the-return-of-sherlock-holmes.txt#L3532-L3620`) (`text:the-return-of-sherlock-holmes.txt#L3682-L3687`).
+7. Carruthers, the bearded cyclist, throws off his beard and shoots Woodley, who survives (`text:the-return-of-sherlock-holmes.txt#L3624-L3643`) (`text:the-return-of-sherlock-holmes.txt#L3674`). Holmes declares the forced marriage no marriage (`text:the-return-of-sherlock-holmes.txt#L3695-L3696`).
 8. Williamson gets seven years and Woodley ten; Violet marries Morton (`text:the-return-of-sherlock-holmes.txt#L3841-L3844`).
 
 ## Apparent explanation
@@ -141,11 +143,14 @@ Woodley and Williamson, for Ralph Smith's fortune: Violet was next of kin and he
 ## Evidence and investigative techniques
 
 - Holmes reads music, not typewriting, in Violet's fingers (`text:the-return-of-sherlock-holmes.txt#L3091-L3097`).
-- Local gossip from the publican (`text:the-return-of-sherlock-holmes.txt#L3439-L3441`).
+- Local gossip from the publican, and a clerical agency's record of a Williamson "in orders, whose career has been a singularly dark one" (`text:the-return-of-sherlock-holmes.txt#L3437-L3446`).
+- Holmes's three odd points: the cyclist appears only at one spot, the unlike pair both keen to trace Ralph Smith's relations, and double pay for a governess in a house with no horse (`text:the-return-of-sherlock-holmes.txt#L3294-L3302`).
+- By exclusion the cyclist must leave the road toward Charlington Hall (`text:the-return-of-sherlock-holmes.txt#L3226-L3238`).
+- The cyclist "settling his necktie" in the shrubbery, which Holmes later says "alone should have told me all" (`text:the-return-of-sherlock-holmes.txt#L3355-L3359`) (`text:the-return-of-sherlock-holmes.txt#L3816-L3819`).
 
 ## Red herrings and misdirection
 
-The bearded cyclist, who is the protector, not the danger.
+The bearded cyclist, who is the protector, not the danger. Holmes first takes it for "some secretive lover" (`text:the-return-of-sherlock-holmes.txt#L3288-L3291`).
 
 ## Twists
 
@@ -153,7 +158,11 @@ The man who was following her was guarding her (`text:the-return-of-sherlock-hol
 
 ## Ethical questions
 
-Carruthers joined a plot to marry her for money, then tried to protect her; Holmes allows him to have "done what you could to make amends" (`text:the-return-of-sherlock-holmes.txt#L3830`).
+Carruthers joined a plot to marry her for money, won and lost by cards (`text:the-return-of-sherlock-holmes.txt#L3776-L3781`), then tried to protect her without telling her, because she would have left; Watson calls it "selfishness" (`text:the-return-of-sherlock-holmes.txt#L3715-L3725`); Holmes allows him to have "done what you could to make amends" (`text:the-return-of-sherlock-holmes.txt#L3830`).
+
+## Pattern tags checked
+
+- Kept: *the predatory guardian* (the pattern node itself records RET04 as the employer variant), *the absurd employment*, *the disguised identity*, *the detective errs* ("Fool that I was not to allow for that earlier train!", `text:the-return-of-sherlock-holmes.txt#L3532-L3536`; "I have been very obtuse", `text:the-return-of-sherlock-holmes.txt#L3816-L3819`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -170,7 +179,7 @@ A young technician who has inherited a compensation award she doesn't know about
 - [The predatory guardian](../patterns/the-predatory-guardian.md): An employer and his partner scheme over her inheritance.
 - [The absurd employment](../patterns/the-absurd-employment.md): A hundred a year to teach one child music, "certainly splendid pay".
 - [The disguised identity](../patterns/the-disguised-identity.md): The bearded cyclist is Carruthers.
-- [The detective errs](../patterns/the-detective-errs.md): Holmes scolds Watson, then arrives too late himself.
+- [The detective errs](../patterns/the-detective-errs.md): Holmes scolds Watson, then misses the earlier train and arrives too late; "I have been very obtuse".
 
 **Techniques**
 

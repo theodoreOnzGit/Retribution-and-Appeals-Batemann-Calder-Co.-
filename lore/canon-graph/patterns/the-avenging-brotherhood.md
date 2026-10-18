@@ -5,7 +5,7 @@
 id = "pattern:the-avenging-brotherhood"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:58:00+08:00"
 origin = "ai"
 title = "The avenging brotherhood"
 verified = true
@@ -37,14 +37,9 @@ kind = "appears_in"
 note = "The gang's revenge on the man who turned informer."
 
 [[relation]]
-target = "work:RET08"
-kind = "appears_in"
-note = "Venucci's Mafia connection."
-
-[[relation]]
 target = "work:RET10"
 kind = "appears_in"
-note = "Coram fears the Brotherhood."
+note = "Only as a threat: Coram shields Anna because she could give him to the Brotherhood."
 
 [[relation]]
 target = "work:BOW01"
@@ -63,14 +58,13 @@ A secret society or sworn band pursues its enemies across years and oceans.
 
 The Ku Klux Klan (ADV05), the Danites as Doyle imagines them (N1), the four of the Agra treasure (N2), the Scowrers (N4). The token or warning before the blow (pips, a countdown) is part of the device.
 
-## Occurrences (9 works)
+## Occurrences (8 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): The Danites and the "Holy Four" in Part II.
 - [N2 The Sign of the Four](../works/N2.md): The four are sworn to one another.
 - [N4 The Valley of Fear](../works/N4.md): The lodge's ten-year vendetta.
 - [ADV05 The Five Orange Pips](../works/ADV05.md): The pips, the K.K.K. and the demand to "put the papers on the sundial".
 - [MEM09 The Resident Patient](../works/MEM09.md): The gang's revenge on the man who turned informer.
-- [RET08 The Adventure of the Six Napoleons](../works/RET08.md): Venucci's Mafia connection.
-- [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): Coram fears the Brotherhood.
+- [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): Only as a threat: Coram shields Anna because she could give him to the Brotherhood.
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): Exiles of San Pedro sworn to kill the tyrant.
 - [BOW02 The Adventure of the Red Circle](../works/BOW02.md): The Red Circle's mandate for murder.

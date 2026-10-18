@@ -5,7 +5,7 @@
 id = "pattern:the-disguised-identity"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:02:00+08:00"
 origin = "ai"
 title = "The disguised identity"
 verified = true
@@ -79,7 +79,7 @@ note = "Armitage and Evans changed their names in Australia."
 [[relation]]
 target = "work:MEM12"
 kind = "appears_in"
-note = "Mycroft as the cab driver; Holmes as an Italian priest."
+note = "Holmes as a venerable Italian priest; Mycroft as the brougham's cloaked driver."
 
 [[relation]]
 target = "work:RET01"
@@ -135,6 +135,26 @@ note = "Evans as an American lawyer named Garrideb."
 target = "work:CAS10"
 kind = "appears_in"
 note = "The maid's husband plays the dead lady in her carriage."
+
+[[relation]]
+target = "work:N2"
+kind = "appears_in"
+note = "Achmet travels \"under the guise of a merchant\"; Holmes, as an old seaman, fools both Watson and Jones."
+
+[[relation]]
+target = "work:MEM03"
+kind = "appears_in"
+note = "Lucy wears a mask and long gloves so that no one at the window will see that she is Black."
+
+[[relation]]
+target = "work:MEM10"
+kind = "appears_in"
+note = "Paul Kratides's face is criss-crossed with plaster so that his sister will not know him."
+
+[[relation]]
+target = "work:BOW02"
+kind = "appears_in"
+note = "A woman has taken the place of the man who rented the rooms."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -143,9 +163,10 @@ A person is not who they appear to be: an alias, a costume, a double life, or th
 
 The most frequent device in the canon. It splits into: the criminal's alias (ADV02, MEM01), the double life (ADV06), the family member in disguise (ADV03), and Holmes's own disguises (ADV01, ADV06, ADV11). The fair-play rule Doyle often follows is that a disguise is betrayed by a detail it cannot cover: knees, typeface, ears, a voice.
 
-## Occurrences (25 works)
+## Occurrences (29 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): Hope's accomplice comes for the ring as old "Mrs. Sawyer".
+- [N2 The Sign of the Four](../works/N2.md): Achmet travels "under the guise of a merchant"; Holmes, as an old seaman, fools both Watson and Jones.
 - [N3 The Hound of the Baskervilles](../works/N3.md): Stapleton's false name and false beard; his wife posed as his sister.
 - [N4 The Valley of Fear](../works/N4.md): Douglas is Edwards is McMurdo.
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): The King comes as "Count Von Kramm"; Holmes plays a groom and a clergyman; Irene follows Holmes in male dress.
@@ -156,14 +177,17 @@ The most frequent device in the canon. It splits into: the criminal's alias (ADV
 - [ADV09 The Adventure of the Engineer's Thumb](../works/ADV09.md): "Colonel Lysander Stark" is an alias; the house is let as a doctor's.
 - [ADV12 The Adventure of the Copper Beeches](../works/ADV12.md): The governess is made to impersonate the imprisoned daughter.
 - [MEM01 Silver Blaze](../works/MEM01.md): Straker as "William Derbyshire"; Silver Blaze's white face disguised.
+- [MEM03 The Yellow Face](../works/MEM03.md): Lucy wears a mask and long gloves so that no one at the window will see that she is Black.
 - [MEM04 The Stockbroker's Clerk](../works/MEM04.md): One brother plays two "Pinner" brothers; the other plays Pycroft.
 - [MEM05 The "Gloria Scott"](../works/MEM05.md): Armitage and Evans changed their names in Australia.
-- [MEM12 The Final Problem](../works/MEM12.md): Mycroft as the cab driver; Holmes as an Italian priest.
+- [MEM10 The Greek Interpreter](../works/MEM10.md): Paul Kratides's face is criss-crossed with plaster so that his sister will not know him.
+- [MEM12 The Final Problem](../works/MEM12.md): Holmes as a venerable Italian priest; Mycroft as the brougham's cloaked driver.
 - [RET01 The Adventure of the Empty House](../works/RET01.md): Holmes as an old bookseller.
 - [RET04 The Adventure of the Solitary Cyclist](../works/RET04.md): The bearded cyclist is Carruthers.
 - [RET07 The Adventure of Charles Augustus Milverton](../works/RET07.md): Holmes engaged to a maid under a false name.
 - [RET13 The Adventure of the Second Stain](../works/RET13.md): Lucas's double life as M. Henri Fournaye in Paris.
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): "Henderson" is Murillo; "Miss Burnet" is Signora Durando.
+- [BOW02 The Adventure of the Red Circle](../works/BOW02.md): A woman has taken the place of the man who rented the rooms.
 - [BOW05 The Disappearance of Lady Frances Carfax](../works/BOW05.md): Holy Peters as the missionary Dr. Shlessinger.
 - [BOW07 His Last Bow](../works/BOW07.md): Holmes as Altamont, two years in the part.
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Watson as "Dr. Hill Barton", collector of Ming china.

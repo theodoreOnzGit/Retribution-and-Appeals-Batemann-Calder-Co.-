@@ -5,7 +5,7 @@
 id = "character:james-moriarty"
 kind = "character"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:51:00+08:00"
 origin = "ai"
 title = "Professor James Moriarty"
 verified = true
@@ -20,6 +20,12 @@ role = "hidden hand"
 target = "work:MEM12"
 kind = "appears_in"
 role = "antagonist"
+
+[[relation]]
+target = "work:RET01"
+kind = "appears_in"
+role = "antagonist (in Holmes's account)"
+note = "Falls at Reichenbach; Moran was his chief of staff."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -34,7 +40,8 @@ Mathematician and organiser of crime, Holmes's chief antagonist.
 
 The brief makes Anthony Vale a maternal-line descendant of Moriarty (CANON: LOCKED, §6). The genealogy's details (Vale's family tree) are an open decision (§15) and are not settled here.
 
-## Appears in (2 works)
+## Appears in (3 works)
 
 - [N4 The Valley of Fear](../works/N4.md), *hidden hand*
 - [MEM12 The Final Problem](../works/MEM12.md), *antagonist*
+- [RET01 The Adventure of the Empty House](../works/RET01.md), *antagonist (in Holmes's account)*: Falls at Reichenbach; Moran was his chief of staff.

@@ -5,7 +5,7 @@
 id = "work:CAS11"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:17:00+08:00"
 origin = "ai"
 title = "The Adventure of the Retired Colourman"
 verified = true
@@ -129,13 +129,13 @@ Amberley's wife and Dr. Ray Ernest are said to have eloped (`text:the-case-book-
 
 ## Actual chronology
 
-1. Amberley, sixty-one, retires to Lewisham with a younger wife (`text:the-case-book-of-sherlock-holmes.txt#L9318-L9332`). A miser and jealous, he suspects her with Ernest (`text:the-case-book-of-sherlock-holmes.txt#L9545-L9548`) (`text:the-case-book-of-sherlock-holmes.txt#L9802-L9805`).
-2. He lures them into his strong-room and turns on the gas from a tap in the passage (`text:the-case-book-of-sherlock-holmes.txt#L9840-L9846`). Ernest begins to write "We were murdered" in indelible pencil (`text:the-case-book-of-sherlock-holmes.txt#L9899-L9909`).
-3. He tells the police that his wife, with a duplicate key to his strong-room, has run off with Ernest and some seven thousand pounds' worth of cash and securities (`text:the-case-book-of-sherlock-holmes.txt#L9472-L9483`), and consults Holmes (`text:the-case-book-of-sherlock-holmes.txt#L9568`).
+1. Amberley, junior partner of Brickfall and Amberley, makers of artists' materials, retires at sixty-one in 1896 to The Haven, Lewisham, and early in 1897 marries a woman twenty years younger (`text:the-case-book-of-sherlock-holmes.txt#L9317-L9332`) (`text:the-case-book-of-sherlock-holmes.txt#L9377`). He has an artificial leg (`text:the-case-book-of-sherlock-holmes.txt#L9410-L9414`) and plays chess with a young doctor, Ray Ernest (`text:the-case-book-of-sherlock-holmes.txt#L9340-L9343`). A miser and jealous, he suspects her with Ernest (`text:the-case-book-of-sherlock-holmes.txt#L9545-L9548`) (`text:the-case-book-of-sherlock-holmes.txt#L9802-L9805`).
+2. He gets them into his strong-room, by a device Holmes does not know (`text:the-case-book-of-sherlock-holmes.txt#L9848-L9849`), and turns on the gas from a tap in the passage; the pipe ends open in the ceiling rose (`text:the-case-book-of-sherlock-holmes.txt#L9840-L9846`). ~~Ernest begins to write "We were murdered" in indelible pencil~~ **corrected 2026-10-17** One of them scribbles "We we----" in purple indelible pencil a foot above the floor, which Holmes and MacKinnon read as "We were murdered" (`text:the-case-book-of-sherlock-holmes.txt#L9899-L9911`).
+3. He tells the police that his wife, with a duplicate key to his strong-room, has run off with Ernest and some seven thousand pounds' worth of cash and securities (`text:the-case-book-of-sherlock-holmes.txt#L9472-L9483`), and, sent on by the Yard, consults Holmes, insisting that he come in person (`text:the-case-book-of-sherlock-holmes.txt#L9310-L9313`) (`text:the-case-book-of-sherlock-holmes.txt#L9358-L9360`). Holmes, busy with "the two Coptic Patriarchs", sends Watson to Lewisham (`text:the-case-book-of-sherlock-holmes.txt#L9354-L9360`). Amberley tears up his wife's photograph before Watson (`text:the-case-book-of-sherlock-holmes.txt#L9496-L9498`). A tall, dark man with grey-tinted glasses and a Masonic tie-pin follows Watson to London Bridge (`text:the-case-book-of-sherlock-holmes.txt#L9389-L9394`) (`text:the-case-book-of-sherlock-holmes.txt#L9502-L9516`).
 4. He claims to have been at the Haymarket Theatre, showing Watson the unused ticket for his wife, seat 31 of row B of the upper circle (`text:the-case-book-of-sherlock-holmes.txt#L9452-L9467`).
 5. He is painting the hall and passage (`text:the-case-book-of-sherlock-holmes.txt#L9430`) (`text:the-case-book-of-sherlock-holmes.txt#L9489`).
-6. Holmes sends Amberley and Watson to Little Purlington with a fake telegram from the vicar, so he can search the house (`text:the-case-book-of-sherlock-holmes.txt#L9597-L9672`).
-7. Holmes finds the box-office chart shows neither B 30 nor 32 occupied (`text:the-case-book-of-sherlock-holmes.txt#L9822-L9826`), and the gas pipe (`text:the-case-book-of-sherlock-holmes.txt#L9840`). With Barker he confronts Amberley, who tries to commit suicide in front of witnesses (`text:the-case-book-of-sherlock-holmes.txt#L9702-L9723`) (`text:the-case-book-of-sherlock-holmes.txt#L9776-L9778`).
+6. Holmes sends Amberley and Watson to Little Purlington, Essex, with a forged telegram in the name of the vicar, J. C. Elman, taken from Crockford, so he can search the house (`text:the-case-book-of-sherlock-holmes.txt#L9592-L9672`) (`text:the-case-book-of-sherlock-holmes.txt#L9828-L9833`). Watson is to wire "Bolted" if Amberley breaks away (`text:the-case-book-of-sherlock-holmes.txt#L9634-L9637`). Holmes burgles the house; Barker, hired by Ernest's family and watching the house, catches him at the pantry window and they join forces (`text:the-case-book-of-sherlock-holmes.txt#L9837-L9839`) (`text:the-case-book-of-sherlock-holmes.txt#L9857-L9869`).
+7. Holmes finds the box-office chart shows neither B 30 nor 32 occupied (`text:the-case-book-of-sherlock-holmes.txt#L9822-L9826`), and the gas pipe (`text:the-case-book-of-sherlock-holmes.txt#L9840`). With Barker he confronts Amberley, who tries to commit suicide in front of witnesses (`text:the-case-book-of-sherlock-holmes.txt#L9702-L9723`) (`text:the-case-book-of-sherlock-holmes.txt#L9776-L9778`): Holmes knocks a white pellet from his lips: "No short cuts, Josiah Amberley" (`text:the-case-book-of-sherlock-holmes.txt#L9717-L9723`). The securities are presumably hidden, to be "found" later (`text:the-case-book-of-sherlock-holmes.txt#L9913-L9920`).
 8. The bodies are found in a disused well under a dog-kennel (`text:the-case-book-of-sherlock-holmes.txt#L9787-L9788`) (`text:the-case-book-of-sherlock-holmes.txt#L9949`). MacKinnon takes the credit (`text:the-case-book-of-sherlock-holmes.txt#L9756-L9759`).
 
 ## Apparent explanation
@@ -162,7 +162,17 @@ The client hired Holmes out of "pure swank" (`text:the-case-book-of-sherlock-hol
 
 ## Ethical questions
 
-Holmes thinks Amberley belongs in Broadmoor rather than on the scaffold (`text:the-case-book-of-sherlock-holmes.txt#L9797`). He gives away the credit (`text:the-case-book-of-sherlock-holmes.txt#L9758`).
+Holmes ~~thinks Amberley belongs in Broadmoor rather than on the scaffold~~ **corrected 2026-10-17** predicts that Amberley's "destination is more likely to be Broadmoor than the scaffold" (`text:the-case-book-of-sherlock-holmes.txt#L9795-L9797`), and gives his mind "the mediæval Italian nature" (`text:the-case-book-of-sherlock-holmes.txt#L9797-L9799`). Holmes's burglary, and his claim that the police "could never have bluffed this rascal" because of the compulsory caution (`text:the-case-book-of-sherlock-holmes.txt#L9747-L9750`) (`text:the-case-book-of-sherlock-holmes.txt#L9837-L9839`). He gives away the credit (`text:the-case-book-of-sherlock-holmes.txt#L9758`).
+
+## Textual notes
+
+- The telegram is first said to come from "Little Turlington", then the village is Little Purlington (`text:the-case-book-of-sherlock-holmes.txt#L9596-L9600`).
+- Summer (`text:the-case-book-of-sherlock-holmes.txt#L9364`); the account in the bi-weekly *North Surrey Observer*, "The Haven Horror", credits MacKinnon (`text:the-case-book-of-sherlock-holmes.txt#L9937-L9951`).
+
+## Pattern tags checked
+
+- Kept `the-client-who-is-the-culprit`: Amberley insists on Holmes, from "pure swank" (`text:the-case-book-of-sherlock-holmes.txt#L9358-L9360`) (`text:the-case-book-of-sherlock-holmes.txt#L9926-L9929`).
+- Kept `the-staged-scene`, `the-detectives-ruse`, `the-vanishing-or-faked-death`, `the-hidden-message`.
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 

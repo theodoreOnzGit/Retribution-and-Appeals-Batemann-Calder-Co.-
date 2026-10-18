@@ -5,7 +5,7 @@
 id = "technique:observation-of-the-person"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:02:00+08:00"
 origin = "ai"
 title = "Reading the person"
 verified = true
@@ -134,7 +134,7 @@ note = "The knots on the bell-rope: a sailor's."
 [[relation]]
 target = "work:RET13"
 kind = "used_in"
-note = "The stain on the carpet and the stain on the floor do not match."
+note = "The stain on the carpet and the stain on the floor do not match; Lady Hilda sits with the light behind her."
 
 [[relation]]
 target = "work:BOW01"
@@ -144,7 +144,7 @@ note = "Reading the note's paper, fold and writing."
 [[relation]]
 target = "work:BOW02"
 kind = "used_in"
-note = "A cigarette-end and words printed in block letters."
+note = "A cigarette-end and words printed in block letters, \"match\" for \"matches\"."
 
 [[relation]]
 target = "work:BOW05"
@@ -210,9 +210,9 @@ Wear patterns survive automation: implant scars, dosimeter-badge tan lines, exos
 - [RET09 The Adventure of the Three Students](../works/RET09.md): A tall man's view of the papers through the window.
 - [RET10 The Adventure of the Golden Pince-Nez](../works/RET10.md): The pince-nez: a woman, short-sighted, of refinement, with a thick nose, eyes close together.
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): The knots on the bell-rope: a sailor's.
-- [RET13 The Adventure of the Second Stain](../works/RET13.md): The stain on the carpet and the stain on the floor do not match.
+- [RET13 The Adventure of the Second Stain](../works/RET13.md): The stain on the carpet and the stain on the floor do not match; Lady Hilda sits with the light behind her.
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): Reading the note's paper, fold and writing.
-- [BOW02 The Adventure of the Red Circle](../works/BOW02.md): A cigarette-end and words printed in block letters.
+- [BOW02 The Adventure of the Red Circle](../works/BOW02.md): A cigarette-end and words printed in block letters, "match" for "matches".
 - [BOW05 The Disappearance of Lady Frances Carfax](../works/BOW05.md): Watson's Turkish bath read from his boots.
 - [CAS02 The Adventure of the Blanched Soldier](../works/CAS02.md): Dodd's sunburn and his yeomanry service; tar on the butler's gloves.
 - [CAS05 The Adventure of the Sussex Vampire](../works/CAS05.md): Jack's face reflected in a window as he watches his father with the baby.

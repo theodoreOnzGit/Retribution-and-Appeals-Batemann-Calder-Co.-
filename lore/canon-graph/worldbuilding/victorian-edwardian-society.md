@@ -5,7 +5,7 @@
 id = "worldbuilding:victorian-edwardian-society"
 kind = "worldbuilding"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:20:00+08:00"
 origin = "ai"
 title = "Victorian and Edwardian society in the canon"
 verified = false
@@ -20,7 +20,7 @@ target = "theme:women-money-and-marriage"
 kind = "related_to"
 ```
 
-**Verification:** recall-based (`verified = false`). Historical or general context written from general knowledge, not from `canon/texts/`; it has not been checked against a source. Canon citations in it, where given, were checked against the text.
+**Verification:** recall-based (`verified = false`). Historical or general context written from general knowledge, not from `canon/texts/`; ~~it has not been checked against a source~~ **corrected 2026-10-17** its historical claims were checked by web search on 2026-10-17 (see "Web check" below). The sources are secondary and were read as search summaries, not in full. Canon citations in it, where given, were checked against the text.
 
 The social world the stories take for granted: rank, money, servants, marriage, and the city against the country.
 
@@ -32,9 +32,14 @@ The social world the stories take for granted: rank, money, servants, marriage, 
 - **City and country.** Holmes thinks the lonely countryside more dangerous than the worst London alley, because public opinion and the police are far away (`text:the-adventures-of-sherlock-holmes.txt#L11286-L11316`).
 - **Poverty as an occupation.** A beggar out-earns a reporter (`text:the-adventures-of-sherlock-holmes.txt#L5742-L5762`).
 
-## Historical context (recall, not checked)
+## Historical context (recall, ~~not checked~~ **corrected 2026-10-17** web-checked; see below)
 
 Married women's property in England was reformed by the Married Women's Property Acts (1870, 1882), which is relevant to why a woman's income mattered so much to the men around her. Divorce was difficult and expensive throughout the period (compare Sterndale, who "could not divorce" (`text:his-last-bow-06-the-devils-foot.txt#L934`)). These are general historical statements made from recall and should be checked before use.
+
+## Web check (2026-10-17)
+
+- **Married Women's Property Acts 1870 and 1882: confirmed.** The 1870 Act (33 & 34 Vict. c. 93) let married women own the money they earned and inherit property in their own name; before it, under coverture, such property passed to the husband. The 1882 Act (45 & 46 Vict. c. 75), in force from 1 January 1883, let a married woman acquire, hold and dispose of property as if unmarried, and repealed the 1870 Act and its 1874 amendment. Sources: <https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870>, <https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1882>, <https://www.legislation.gov.uk/ukpga/Vict/45-46/75/enacted>.
+- **"Divorce was difficult and expensive": partly sourced.** The Matrimonial Causes Act 1857 moved divorce from private Acts of Parliament to a civil court. Divorce stayed costly, out of reach of the poor, and unequal: a husband could divorce for adultery alone, while a wife had to prove aggravated adultery. Source: <https://journals.library.columbia.edu/index.php/cjgl/article/download/2440/7174/38306> (a law-journal article). Cost figures (£1,000 to £5,000 for a parliamentary divorce) appeared only on weak sources and are unsourced here. The link between the Acts and why "a woman's income mattered" in the stories is interpretation, not a historical claim.
 
 ## Proposal (not canon)
 

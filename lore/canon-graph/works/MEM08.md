@@ -5,7 +5,7 @@
 id = "work:MEM08"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:44:00+08:00"
 origin = "ai"
 title = "The Crooked Man"
 verified = true
@@ -49,6 +49,11 @@ kind = "features"
 role = "informant"
 
 [[relation]]
+target = "character:teddy-the-mongoose"
+kind = "features"
+role = "animal"
+
+[[relation]]
 target = "place:aldershot"
 kind = "set_in"
 
@@ -65,7 +70,7 @@ note = "A betrayal in the Mutiny reaches Aldershot thirty years later."
 [[relation]]
 target = "pattern:the-wrongly-accused"
 kind = "exhibits"
-note = "Mrs. Barclay faces trial for a death from apoplexy."
+note = "Mrs. Barclay is suspected of killing her husband with a club; the police are \"only waiting for her to come to her senses to arrest her\"."
 
 [[relation]]
 target = "pattern:the-animal-instrument"
@@ -116,6 +121,7 @@ Short story in *The Memoirs of Sherlock Holmes*, first book publication 1894. Te
 - [Henry Wood](../characters/henry-wood.md), *witness, wronged man*
 - [Miss Morrison](../characters/miss-morrison.md), *witness*
 - [Major Murphy](../characters/major-murphy.md), *informant*
+- [Teddy (the mongoose)](../characters/teddy-the-mongoose.md), *animal*
 
 ## Relationships
 
@@ -143,10 +149,13 @@ No crime by the people in the room; the historical crime is Barclay's betrayal o
 - The locked door and the missing key (`text:the-memoirs-of-sherlock-holmes.txt#L5366`) (`text:the-memoirs-of-sherlock-holmes.txt#L5385-L5386`) (`text:the-memoirs-of-sherlock-holmes.txt#L5505`).
 - The creature's tracks on the curtain and the canary cage (`text:the-memoirs-of-sherlock-holmes.txt#L5463-L5487`).
 - "Elementary," says Holmes at the start (`text:the-memoirs-of-sherlock-holmes.txt#L5203`).
+- Five footprints of a man who crossed the lawn from the road at a run (`text:the-memoirs-of-sherlock-holmes.txt#L5440-L5447`).
+- Wood's "bad florin" left with his landlady is an Indian rupee (`text:the-memoirs-of-sherlock-holmes.txt#L5624-L5626`). A Baker Street boy, Simpson, watches him (`text:the-memoirs-of-sherlock-holmes.txt#L5647-L5649`) (`text:the-memoirs-of-sherlock-holmes.txt#L5662-L5668`).
+- "David": Holmes says the word "should have told me the whole story had I been the ideal reasoner" (`text:the-memoirs-of-sherlock-holmes.txt#L5858-L5867`).
 
 ## Red herrings and misdirection
 
-The club found by the body; the quarrel.
+The club found by the body, which is Wood's stick, dropped while he chased the mongoose (`text:the-memoirs-of-sherlock-holmes.txt#L5377-L5383`) (`text:the-memoirs-of-sherlock-holmes.txt#L5808-L5809`); the quarrel; the wound on the back of the head, from the fender, not a blow (`text:the-memoirs-of-sherlock-holmes.txt#L5374-L5376`) (`text:the-memoirs-of-sherlock-holmes.txt#L5796-L5800`). Holmes's first conjecture, an affair between the Colonel and Miss Morrison, which he drops (`text:the-memoirs-of-sherlock-holmes.txt#L5532-L5543`).
 
 ## Twists
 
@@ -154,7 +163,7 @@ The killer of thirty years ago dies of seeing his victim.
 
 ## Ethical questions
 
-Wood took no revenge, yet Barclay's guilt kills him. Should the betrayal be made public, now that the man is dead?
+Wood took no revenge, yet Barclay's guilt kills him. Should the betrayal be made public, now that the man is dead? Holmes decides there is "no object in raking up this scandal against a dead man" unless Mrs. Barclay is in danger, and Wood promises to come forward if needed (`text:the-memoirs-of-sherlock-holmes.txt#L5828-L5836`).
 
 ## Textual notes
 
@@ -174,7 +183,7 @@ A plant director, decorated for heroism in an emergency evacuation, had sabotage
 **Patterns**
 
 - [The past returning from abroad](../patterns/the-past-returning-from-abroad.md): A betrayal in the Mutiny reaches Aldershot thirty years later.
-- [The wrongly accused](../patterns/the-wrongly-accused.md): Mrs. Barclay faces trial for a death from apoplexy.
+- [The wrongly accused](../patterns/the-wrongly-accused.md): Mrs. Barclay is suspected of killing her husband with a club; the police are "only waiting for her to come to her senses to arrest her".
 - [The animal as instrument](../patterns/the-animal-instrument.md): The creature that ran up the curtain is a mongoose.
 - [The false account (protective lie, silence or false confession)](../patterns/the-false-account.md): Miss Morrison is silent to keep a promise.
 - [The locked room](../patterns/the-locked-room.md): A locked morning-room with the key gone.

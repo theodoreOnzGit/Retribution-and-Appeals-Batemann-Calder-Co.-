@@ -5,7 +5,7 @@
 id = "work:MEM07"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:44:00+08:00"
 origin = "ai"
 title = "The Reigate Squire"
 verified = true
@@ -140,10 +140,13 @@ The Cunninghams, to stop Kirwan's blackmail (`text:the-memoirs-of-sherlock-holme
 
 - The note: two writers, alternate words, strong t's of the younger hand, the older hand fitting "quarter" in afterwards; family resemblance in the writing (`text:the-memoirs-of-sherlock-holmes.txt#L4958-L5017`).
 - Powder marks (`text:the-memoirs-of-sherlock-holmes.txt#L5025-L5026`).
+- The paper was torn from the dead man's hand; if the "burglar" had fled at once, only Alec could have taken it (`text:the-memoirs-of-sherlock-holmes.txt#L4945-L4956`).
+- No bootmarks in the moist ditch where both Cunninghams said the man reached the road: "there had never been any unknown man upon the scene at all" (`text:the-memoirs-of-sherlock-holmes.txt#L5028-L5033`).
+- Lights in both men's windows, which a practised burglar would not ignore (`text:the-memoirs-of-sherlock-holmes.txt#L4702-L4712`); the note reached William by the afternoon post (`text:the-memoirs-of-sherlock-holmes.txt#L4629-L4630`).
 
 ## Red herrings and misdirection
 
-The burglaries, with their odd loot (a volume of Pope's Homer, candlesticks, a ball of twine) (`text:the-memoirs-of-sherlock-holmes.txt#L4360-L4361`) (`text:the-memoirs-of-sherlock-holmes.txt#L4723`).
+Inspector Forrester's idea that William was in league with the burglar (`text:the-memoirs-of-sherlock-holmes.txt#L4516-L4520`). The burglaries, with their odd loot (a volume of Pope's Homer, candlesticks, a ball of twine) (`text:the-memoirs-of-sherlock-holmes.txt#L4360-L4361`) (`text:the-memoirs-of-sherlock-holmes.txt#L4723`).
 
 ## Twists
 

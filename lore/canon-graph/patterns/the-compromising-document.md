@@ -5,7 +5,7 @@
 id = "pattern:the-compromising-document"
 kind = "pattern"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:09:00+08:00"
 origin = "ai"
 title = "The compromising object"
 verified = true
@@ -51,11 +51,6 @@ kind = "appears_in"
 note = "Gruner's \"lust diary\", a locked book of his conquests."
 
 [[relation]]
-target = "work:CAS03"
-kind = "appears_in"
-note = "The Crown diamond (the Mazarin stone)."
-
-[[relation]]
 target = "work:CAS04"
 kind = "appears_in"
 note = "Douglas's manuscript novel of the affair."
@@ -65,7 +60,7 @@ note = "Douglas's manuscript novel of the affair."
 
 A photograph, letter or pledged treasure whose exposure would cause a scandal.
 
-## Occurrences (9 works)
+## Occurrences (8 works)
 
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): A cabinet photograph of the King and Irene together.
 - [ADV11 The Adventure of the Beryl Coronet](../works/ADV11.md): Not a document but a pledged national treasure; scandal is the threat.
@@ -74,7 +69,6 @@ A photograph, letter or pledged treasure whose exposure would cause a scandal.
 - [RET13 The Adventure of the Second Stain](../works/RET13.md): A foreign potentate's letter that could start a war; a wife's letter before marriage.
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): The submarine plans.
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): Gruner's "lust diary", a locked book of his conquests.
-- [CAS03 The Adventure of the Mazarin Stone](../works/CAS03.md): The Crown diamond (the Mazarin stone).
 - [CAS04 The Adventure of the Three Gables](../works/CAS04.md): Douglas's manuscript novel of the affair.
 
 ## Relations

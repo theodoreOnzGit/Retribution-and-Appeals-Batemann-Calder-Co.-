@@ -5,7 +5,7 @@
 id = "work:MEM02"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:41:00+08:00"
 origin = "ai"
 title = "The Adventure of the Cardboard Box"
 verified = true
@@ -117,8 +117,8 @@ Susan, Sarah and Mary Cushing are sisters; Mary married Jim Browner, a steward o
 ## Actual chronology
 
 1. Sarah, staying with the Browners in Liverpool, makes advances to Jim; rebuffed, she sets about turning Mary against him and introduces Fairbairn (`text:the-adventure-of-the-cardboard-box.txt#L708-L766`).
-2. Browner, drinking again, threatens to send Mary one of Fairbairn's ears if he comes back (`text:the-adventure-of-the-cardboard-box.txt#L789-L793`).
-3. He follows Mary and Fairbairn to New Brighton, rows after their boat, kills them both with a stick and sinks the boat (`text:the-adventure-of-the-cardboard-box.txt#L834-L862`).
+2. Browner, drinking again, ~~threatens to send Mary one of Fairbairn's ears if he comes back~~ **corrected 2026-10-17** tells *Sarah* that if Fairbairn shows his face again "I'll send you one of his ears for a keepsake"; Sarah leaves that evening and lets lodgings to sailors two streets off, where Mary meets Fairbairn (`text:the-adventure-of-the-cardboard-box.txt#L787-L801`). Sarah later goes to live with Susan in Croydon, and two months before the story moves to New Street, Wallington (`text:the-adventure-of-the-cardboard-box.txt#L426-L429`) (`text:the-adventure-of-the-cardboard-box.txt#L441`) (`text:the-adventure-of-the-cardboard-box.txt#L811-L813`).
+3. When the *May Day* puts back into port for twelve hours, he comes home unexpectedly, sees them together in a cab, and follows them to New Brighton (`text:the-adventure-of-the-cardboard-box.txt#L816-L842`), rows after their boat, kills them both with a stick and sinks the boat (`text:the-adventure-of-the-cardboard-box.txt#L834-L862`).
 4. He cuts off an ear from each, packs them in salt and posts them from Belfast to "Miss S. Cushing" at the Croydon address Sarah had left (`text:the-adventure-of-the-cardboard-box.txt#L862-L867`) (`text:the-adventure-of-the-cardboard-box.txt#L587-L595`).
 5. Holmes sees that Susan's ear matches the female ear exactly (`text:the-adventure-of-the-cardboard-box.txt#L575-L585`), deduces a sailor (tarred twine, pierced male ear), and has Lestrade meet the *May Day* in the Thames (`text:the-adventure-of-the-cardboard-box.txt#L256-L258`) (`text:the-adventure-of-the-cardboard-box.txt#L607-L620`) (`text:the-adventure-of-the-cardboard-box.txt#L641-L643`) (`text:the-adventure-of-the-cardboard-box.txt#L651-L669`).
 6. Browner confesses (`text:the-adventure-of-the-cardboard-box.txt#L687-L873`).
@@ -133,7 +133,9 @@ Jim Browner, jealousy and drink (`text:the-adventure-of-the-cardboard-box.txt#L7
 
 ## Evidence and investigative techniques
 
-- The address: "Croydon" first spelled with an "i"; the box handled by a man with a broad thumb (`text:the-adventure-of-the-cardboard-box.txt#L273-L280`).
+- The address: "Croydon" first spelled with an "i", in masculine printing with a broad pen, by a man unfamiliar with the town; ~~the box handled by a man with a broad thumb~~ **corrected 2026-10-17** the box has "two thumb marks at the left bottom corner" (the text says nothing of a broad thumb), and the brown paper smells of coffee (`text:the-adventure-of-the-cardboard-box.txt#L270-L280`).
+- The salt is the coarse kind used for preserving hides (`text:the-adventure-of-the-cardboard-box.txt#L280-L282`).
+- A telegram to Algar of the Liverpool police confirms that Mrs. Browner's house has been shut for three days and that Browner sailed in the *May Day* (`text:the-adventure-of-the-cardboard-box.txt#L613-L620`) (`text:the-adventure-of-the-cardboard-box.txt#L636-L642`).
 - The tarred twine and knot of a sailor (`text:the-adventure-of-the-cardboard-box.txt#L256-L258`).
 - Dissecting-room ears are injected with preservative fluid, not packed in rough salt, and these were cut with a blunt instrument (`text:the-adventure-of-the-cardboard-box.txt#L300-L307`).
 - Ear anatomy as a family resemblance (`text:the-adventure-of-the-cardboard-box.txt#L575-L585`).
@@ -141,7 +143,7 @@ Jim Browner, jealousy and drink (`text:the-adventure-of-the-cardboard-box.txt#L7
 
 ## Red herrings and misdirection
 
-The students; the respectable Susan, who knows nothing.
+The students; the respectable Susan, who knows nothing. One of the students came from the north of Ireland, perhaps Belfast (`text:the-adventure-of-the-cardboard-box.txt#L174-L182`). Holmes also tests the alternative that a rejected lover killed both Browners (`text:the-adventure-of-the-cardboard-box.txt#L613-L617`).
 
 ## Twists
 

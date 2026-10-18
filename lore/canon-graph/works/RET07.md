@@ -5,7 +5,7 @@
 id = "work:RET07"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:56:00+08:00"
 origin = "ai"
 title = "The Adventure of Charles Augustus Milverton"
 verified = true
@@ -75,6 +75,11 @@ kind = "exhibits"
 note = "Holmes engaged to a maid under a false name."
 
 [[relation]]
+target = "pattern:the-detective-errs"
+kind = "exhibits"
+note = "Milverton outplays Holmes at Baker Street, and the burglary miscalculates his movements."
+
+[[relation]]
 target = "technique:disguise-and-undercover"
 kind = "uses_technique"
 note = "\"Escott, a plumber with a rising business\"."
@@ -115,12 +120,13 @@ Milverton holds Lady Eva's letters (`text:the-return-of-sherlock-holmes.txt#L626
 
 ## Actual chronology
 
-1. Lady Eva, about to marry, consults Holmes; Milverton demands seven thousand pounds and will not lower his price (`text:the-return-of-sherlock-holmes.txt#L6262-L6370`) (`text:the-return-of-sherlock-holmes.txt#L6304`).
-2. Holmes courts Milverton's maid to learn the house (`text:the-return-of-sherlock-holmes.txt#L6437-L6452`), and with Watson burgles Appledore Towers at night (`text:the-return-of-sherlock-holmes.txt#L6463-L6465`) (`text:the-return-of-sherlock-holmes.txt#L6549-L6605`).
-3. They hide behind a curtain while Milverton waits for a visitor (`text:the-return-of-sherlock-holmes.txt#L6675-L6724`). A veiled woman comes: her husband died of a broken heart after Milverton sent him her letters. She shoots Milverton and grinds her heel into his face (`text:the-return-of-sherlock-holmes.txt#L6738-L6784`).
-4. Holmes burns the contents of the safe and they escape over the wall (`text:the-return-of-sherlock-holmes.txt#L6792-L6811`).
+1. Lady Eva, to marry the Earl of Dovercourt in a fortnight, consults Holmes over "imprudent" letters to an impecunious young squire; Milverton demands seven thousand pounds by the 14th, refuses Holmes's two thousand, since a severe example will soften "eight or ten similar cases maturing", and, armed, laughs off Holmes's attempt to seize his notebook (`text:the-return-of-sherlock-holmes.txt#L6261-L6268`) (`text:the-return-of-sherlock-holmes.txt#L6346-L6412`) (`text:the-return-of-sherlock-holmes.txt#L6262-L6370`) (`text:the-return-of-sherlock-holmes.txt#L6304`).
+2. Holmes, as Escott the plumber, courts Milverton's maid to learn the house; she shuts up the dog for him (`text:the-return-of-sherlock-holmes.txt#L6418-L6421`) (`text:the-return-of-sherlock-holmes.txt#L6563-L6568`) (`text:the-return-of-sherlock-holmes.txt#L6437-L6452`), and with Watson burgles Appledore Towers at night (`text:the-return-of-sherlock-holmes.txt#L6463-L6465`) (`text:the-return-of-sherlock-holmes.txt#L6549-L6605`).
+2a. They find the study's veranda door unlocked, and Holmes opens the safe; Milverton, who has not gone to bed as expected ("we had entirely miscalculated his movements"), comes in and sits reading (`text:the-return-of-sherlock-holmes.txt#L6614-L6621`) (`text:the-return-of-sherlock-holmes.txt#L6647-L6687`).
+3. They hide behind a curtain while Milverton waits for a visitor who is supposedly a maid selling five letters of the Countess d'Albert's (`text:the-return-of-sherlock-holmes.txt#L6675-L6724`). A veiled woman comes: her husband died of a broken heart after Milverton sent him her letters. She shoots Milverton and grinds her heel into his face (`text:the-return-of-sherlock-holmes.txt#L6724-L6784`). Holmes's grip on Watson's wrist keeps him from springing out (`text:the-return-of-sherlock-holmes.txt#L6783-L6789`).
+4. Holmes locks the inner door, burns the whole contents of the safe and the blood-mottled letter on the table, locks the veranda door behind them, and they escape over a six-foot wall, an under-gardener catching at Watson's ankle (`text:the-return-of-sherlock-holmes.txt#L6792-L6811`).
 5. Next morning Lestrade asks Holmes to help catch the two "burglars", one of whom fits Watson. Holmes refuses (`text:the-return-of-sherlock-holmes.txt#L6821-L6867`).
-6. In a shop window they see a photograph of the woman, a great lady, wife of a statesman; Holmes puts a finger to his lips (`text:the-return-of-sherlock-holmes.txt#L6877-L6885`).
+6. In a shop window they see a photograph of the woman, a great lady, ~~wife of a statesman~~ **corrected 2026-10-17** the widow of a great nobleman and statesman ("whose wife she had been"); Holmes puts a finger to his lips (`text:the-return-of-sherlock-holmes.txt#L6877-L6885`).
 
 ## Apparent explanation
 
@@ -132,11 +138,11 @@ The unnamed lady, revenge for her husband's death (`text:the-return-of-sherlock-
 
 ## Evidence and investigative techniques
 
-Burglary and disguise rather than detection.
+Burglary and disguise rather than detection. The one deduction is the unlocked door and Milverton's glances at his watch, which explain each other (`text:the-return-of-sherlock-holmes.txt#L6704-L6715`). Holmes's burgling kit (`text:the-return-of-sherlock-holmes.txt#L6531-L6537`).
 
 ## Red herrings and misdirection
 
-The "burglars", who are Holmes and Watson.
+The "burglars", who are Holmes and Watson; Lestrade's description "might be a description of Watson" (`text:the-return-of-sherlock-holmes.txt#L6848-L6859`). The police theory that the criminals were "men of good position" seeking to prevent exposure (`text:the-return-of-sherlock-holmes.txt#L6842-L6844`).
 
 ## Twists
 
@@ -146,7 +152,14 @@ Holmes, the burglar, witnesses a murder and lets the murderer go (`text:the-retu
 
 - Holmes deceives Agatha with a sham engagement; he consoles himself that "a hated rival" will cut him out (`text:the-return-of-sherlock-holmes.txt#L6455-L6460`).
 - Watson agrees the burglary is "morally justifiable" (`text:the-return-of-sherlock-holmes.txt#L6488`).
+- Holmes and Watson stand by while a man is shot: "No interference upon our part could have saved the man from his fate" (`text:the-return-of-sherlock-holmes.txt#L6783-L6789`).
+- Holmes on why the law fails: "What would it profit a woman... to get him a few months' imprisonment if her own ruin must immediately follow?" (`text:the-return-of-sherlock-holmes.txt#L6252-L6257`).
 - Holmes's refusal: "certain crimes which the law cannot touch, and which therefore, to some extent, justify private revenge" (`text:the-return-of-sherlock-holmes.txt#L6862-L6866`).
+
+## Pattern tags checked
+
+- Added 2026-10-17: *the detective errs*. Milverton has "the best of the first exchanges" (`text:the-return-of-sherlock-holmes.txt#L6503-L6505`), and the burglary miscalculates his movements (`text:the-return-of-sherlock-holmes.txt#L6675-L6678`); the plan is overtaken by the lady's arrival.
+- Kept: *Holmes lets the culprit go*, *the compromising document*, *the disguised identity* (Escott; the lady comes in the character of a maid selling letters).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
@@ -167,6 +180,7 @@ A data broker trades in leaked medical and dose records of the rich, and of work
 - [Holmes lets the culprit go](../patterns/holmes-lets-the-culprit-go.md): "My sympathies are with the criminals rather than with the victim."
 - [The compromising object](../patterns/the-compromising-document.md): Letters that would break off a marriage.
 - [The disguised identity](../patterns/the-disguised-identity.md): Holmes engaged to a maid under a false name.
+- [The detective errs](../patterns/the-detective-errs.md): Milverton outplays Holmes at Baker Street, and the burglary miscalculates his movements.
 
 **Techniques**
 

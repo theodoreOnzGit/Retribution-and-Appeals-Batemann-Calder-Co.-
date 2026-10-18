@@ -5,7 +5,7 @@
 id = "work:RET01"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:51:00+08:00"
 origin = "ai"
 title = "The Adventure of the Empty House"
 verified = true
@@ -57,6 +57,12 @@ note = "Kept Holmes's rooms and money."
 target = "character:oscar-meunier"
 kind = "features"
 role = "sculptor"
+
+[[relation]]
+target = "character:james-moriarty"
+kind = "features"
+role = "antagonist (in Holmes's account)"
+note = "Falls at Reichenbach; Moran was his chief of staff."
 
 [[relation]]
 target = "place:baker-street-221b"
@@ -145,6 +151,7 @@ Short story in *The Return of Sherlock Holmes*, first book publication 1905. Tex
 - [Mrs. Hudson](../characters/mrs-hudson.md), *landlady*: Moves the bust every quarter of an hour.
 - [Mycroft Holmes](../characters/mycroft-holmes.md), *confidant*: Kept Holmes's rooms and money.
 - [Oscar Meunier](../characters/oscar-meunier.md), *sculptor*
+- [Professor James Moriarty](../characters/james-moriarty.md), *antagonist (in Holmes's account)*: Falls at Reichenbach; Moran was his chief of staff.
 
 ## Relationships
 
@@ -152,12 +159,13 @@ Moran played whist in partnership with Adair (`text:the-return-of-sherlock-holme
 
 ## Actual chronology
 
-1. At Reichenbach, Holmes threw Moriarty with the help of "baritsu" and let the world think he was dead (`text:the-return-of-sherlock-holmes.txt#L294`) (`text:the-return-of-sherlock-holmes.txt#L319`).
-2. For three years he travelled: two years in Tibet as "Sigerson", Persia, Mecca, Khartoum, then coal-tar research in Montpellier (`text:the-return-of-sherlock-holmes.txt#L384-L391`).
-3. March 30, 1894: Ronald Adair is shot in his locked room at 427 Park Lane, with money and his card accounts on the table; no shot was heard (`text:the-return-of-sherlock-holmes.txt#L59-L160`). Moran had been cheating at cards and Adair had threatened to expose him (`text:the-return-of-sherlock-holmes.txt#L884-L894`).
-4. Holmes, disguised as an old bookseller, reveals himself to Watson (`text:the-return-of-sherlock-holmes.txt#L201-L258`).
+1. At Reichenbach, Moriarty rushed at Holmes and ~~Holmes threw Moriarty with the help of "baritsu"~~ **corrected 2026-10-17** Holmes, using "baritsu", slipped through his grip, and Moriarty lost his balance and fell (`text:the-return-of-sherlock-holmes.txt#L290-L300`). Holmes climbed to a ledge rather than leave tracks, to let the world think he was dead (`text:the-return-of-sherlock-holmes.txt#L308-L340`). A confederate, Moran, rolled rocks down on him; Holmes scrambled down, did ten miles over the mountains in the dark, and was in Florence a week later (`text:the-return-of-sherlock-holmes.txt#L342-L367`) (`text:the-return-of-sherlock-holmes.txt#L843-L845`).
+2. The trial of the Moriarty gang left two of its most dangerous members at liberty (`text:the-return-of-sherlock-holmes.txt#L381-L383`). For three years he travelled: two years in Tibet as "Sigerson", Persia, Mecca, Khartoum, then coal-tar research in Montpellier (`text:the-return-of-sherlock-holmes.txt#L384-L391`).
+3. March 30, 1894: Ronald Adair is shot in his locked room at 427 Park Lane, with money and his card accounts on the table; no shot was heard (`text:the-return-of-sherlock-holmes.txt#L59-L160`). ~~Moran had been cheating at cards and Adair had threatened to expose him~~ **corrected 2026-10-17** Why is never established: Holmes offers it as "conjecture", that Adair had found Moran cheating and threatened to expose him, and locked the door while working out what to give back; it "will be verified or disproved at the trial" (`text:the-return-of-sherlock-holmes.txt#L876-L902`). The inquest returns wilful murder by persons unknown (`text:the-return-of-sherlock-holmes.txt#L87-L89`).
+4. Holmes, disguised as an old bookseller whose books Watson knocks down outside 427 Park Lane, follows him home and reveals himself; Watson faints (`text:the-return-of-sherlock-holmes.txt#L174-L191`) (`text:the-return-of-sherlock-holmes.txt#L201-L258`).
+4a. Holmes knows the rooms are watched: he has seen the sentinel Parker, "a garroter by trade", from his window (`text:the-return-of-sherlock-holmes.txt#L507-L528`).
 5. Holmes places Meunier's wax bust of himself in the window of 221B, and with Watson waits in Camden House opposite (`text:the-return-of-sherlock-holmes.txt#L461-L498`) (`text:the-return-of-sherlock-holmes.txt#L564`).
-6. Moran fires at the bust with Von Herder's air-gun from Camden House and is seized (`text:the-return-of-sherlock-holmes.txt#L619-L682`) (`text:the-return-of-sherlock-holmes.txt#L701-L708`) (`text:the-return-of-sherlock-holmes.txt#L903`).
+6. Moran fires at the bust with Von Herder's air-gun from Camden House and is seized; Holmes admits he had expected him to shoot from the street, where Lestrade waited (`text:the-return-of-sherlock-holmes.txt#L685-L689`) (`text:the-return-of-sherlock-holmes.txt#L619-L682`) (`text:the-return-of-sherlock-holmes.txt#L701-L708`) (`text:the-return-of-sherlock-holmes.txt#L903`).
 7. Holmes has Lestrade arrest Moran for Adair's murder and stays out of the credit (`text:the-return-of-sherlock-holmes.txt#L719-L727`).
 
 ## Apparent explanation
@@ -166,16 +174,18 @@ An inexplicable killing in a locked room, by an unheard gun.
 
 ## Culprit and motive
 
-Colonel Sebastian Moran, to avoid exposure as a card cheat on whom his living depended (`text:the-return-of-sherlock-holmes.txt#L884-L894`).
+Colonel Sebastian Moran, Moriarty's former chief of staff (`text:the-return-of-sherlock-holmes.txt#L828-L838`). Motive, as Holmes's own conjecture: to avoid exposure as a card cheat whose expulsion from his clubs would ruin him (`text:the-return-of-sherlock-holmes.txt#L876-L898`).
 
 ## Evidence and investigative techniques
 
 - A soft revolver bullet fired from an air-gun (`text:the-return-of-sherlock-holmes.txt#L761-L763`).
-- Holmes's index entry for Moran (`text:the-return-of-sherlock-holmes.txt#L789-L809`).
+- Holmes's index entry for Moran: 1st Bangalore Pioneers, son of Sir Augustus Moran, author of two hunting books, a member of the Bagatelle Card Club; in the margin "The second most dangerous man in London" (`text:the-return-of-sherlock-holmes.txt#L789-L809`).
+- The bullet from the bust flattens on the wall: "The bullets alone are enough to put his head in a noose" (`text:the-return-of-sherlock-holmes.txt#L754-L763`) (`text:the-return-of-sherlock-holmes.txt#L860`).
+- The inquest facts: a smoky fire and an open window, a twenty-foot drop over undisturbed crocuses, the money in little piles and the list of club friends (`text:the-return-of-sherlock-holmes.txt#L130-L168`).
 
 ## Red herrings and misdirection
 
-The locked room itself; the absence of sound.
+The locked room itself; the absence of sound (`text:the-return-of-sherlock-holmes.txt#L148-L168`). The tall thin man with coloured glasses lecturing the crowd at Park Lane, whose theory Watson finds absurd (`text:the-return-of-sherlock-holmes.txt#L176-L182`). Watson's own fruitless attempt to apply Holmes's methods (`text:the-return-of-sherlock-holmes.txt#L81-L98`).
 
 ## Twists
 
@@ -183,7 +193,12 @@ Holmes is alive. And the empty house opposite Baker Street is the hunter's blind
 
 ## Ethical questions
 
-Holmes deceived his closest friend for three years for his safety (`text:the-return-of-sherlock-holmes.txt#L369-L377`).
+Holmes deceived his closest friend for three years for his safety (`text:the-return-of-sherlock-holmes.txt#L369-L379`). Holmes says he could not shoot Moran on sight "or I should myself be in the dock", nor could a magistrate act on suspicion (`text:the-return-of-sherlock-holmes.txt#L851-L854`).
+
+## Pattern tags checked
+
+- Kept: *the vanishing or faked death*, *the disguised identity*, *the detective's ruse*, *the locked room* (the door was locked from inside, by Adair himself on Holmes's reading, `text:the-return-of-sherlock-holmes.txt#L896-L898`).
+- Considered, not added: *the detective errs*. Holmes misjudged where Moran would shoot from (`text:the-return-of-sherlock-holmes.txt#L685-L689`), but the plan still worked.
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 

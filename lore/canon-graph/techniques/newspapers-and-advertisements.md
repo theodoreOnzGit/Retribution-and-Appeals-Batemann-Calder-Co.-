@@ -5,7 +5,7 @@
 id = "technique:newspapers-and-advertisements"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:56:00+08:00"
 origin = "ai"
 title = "Newspapers and advertisements"
 verified = true
@@ -40,6 +40,11 @@ note = "The *Daily Gazette* agony column."
 target = "work:BOW03"
 kind = "used_in"
 note = "\"Pierrot\" in the *Daily Telegraph*."
+
+[[relation]]
+target = "work:RET08"
+kind = "used_in"
+note = "Holmes plants the lunatic theory in the press, and finds the pearl's date in old newspaper files."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -54,11 +59,12 @@ The lost-ring bait (`text:a-study-in-scarlet.txt#L1568-L1570`); the advertisemen
 
 Bait posts on public feeds; scraping classifieds; reading the "agony column" of anonymous message boards.
 
-## Used in (6 works)
+## Used in (7 works)
 
 - [N1 A Study in Scarlet](../works/N1.md): The ring advertisement.
 - [ADV07 The Adventure of the Blue Carbuncle](../works/ADV07.md): Advertising for Henry Baker in the evening papers.
 - [MEM04 The Stockbroker's Clerk](../works/MEM04.md): The *Evening Standard* gives the robbery.
 - [MEM10 The Greek Interpreter](../works/MEM10.md): Mycroft's advertisement brings an answer.
+- [RET08 The Adventure of the Six Napoleons](../works/RET08.md): Holmes plants the lunatic theory in the press, and finds the pearl's date in old newspaper files.
 - [BOW02 The Adventure of the Red Circle](../works/BOW02.md): The *Daily Gazette* agony column.
 - [BOW03 The Adventure of the Bruce-Partington Plans](../works/BOW03.md): "Pierrot" in the *Daily Telegraph*.

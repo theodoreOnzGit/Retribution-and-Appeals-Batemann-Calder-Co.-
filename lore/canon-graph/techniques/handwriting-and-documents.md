@@ -5,7 +5,7 @@
 id = "technique:handwriting-and-documents"
 kind = "technique"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:48:00+08:00"
 origin = "ai"
 title = "Documents, paper and ink"
 verified = true
@@ -70,6 +70,11 @@ note = "The telegram read from the blotting-pad."
 target = "work:CAS06"
 kind = "used_in"
 note = "An advertisement with \"plough\" misspelt and American terms."
+
+[[relation]]
+target = "work:MEM10"
+kind = "used_in"
+note = "Mycroft reads the writer of the answer from pen and paper."
 ```
 
 **Verification:** text-based (`verified = true`): checked against the stored text in `canon/texts/`, and line citations point into it. This is an AI reading of the text, not human review.
@@ -84,7 +89,7 @@ The Bohemian watermark (`text:the-adventures-of-sherlock-holmes.txt#L186-L212`);
 
 Document provenance: metadata, signing keys, ink chemistry for the rare paper document, isotopic dating of materials.
 
-## Used in (12 works)
+## Used in (13 works)
 
 - [N3 The Hound of the Baskervilles](../works/N3.md): The *Times* type of the pasted warning.
 - [ADV01 A Scandal in Bohemia](../works/ADV01.md): Bohemian paper read from its watermark; the writer's nationality from sentence order.
@@ -94,6 +99,7 @@ Document provenance: metadata, signing keys, ink chemistry for the rare paper do
 - [MEM02 The Adventure of the Cardboard Box](../works/MEM02.md): "Croydon" first misspelled; tarred twine; a sailor's knot.
 - [MEM04 The Stockbroker's Clerk](../works/MEM04.md): The sham company needed a specimen of Pycroft's handwriting.
 - [MEM07 The Reigate Squire](../works/MEM07.md): A torn note written in alternate words by two related hands.
+- [MEM10 The Greek Interpreter](../works/MEM10.md): Mycroft reads the writer of the answer from pen and paper.
 - [RET02 The Adventure of the Norwood Builder](../works/RET02.md): A will written in a train: good writing at stations, bad between them.
 - [RET09 The Adventure of the Three Students](../works/RET09.md): Pencil shavings: "NN" from Johann Faber's name.
 - [RET11 The Adventure of the Missing Three-Quarter](../works/RET11.md): The telegram read from the blotting-pad.

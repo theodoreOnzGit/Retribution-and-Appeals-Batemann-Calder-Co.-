@@ -5,7 +5,7 @@
 id = "theme:justice-outside-the-law"
 kind = "theme"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:05:00+08:00"
 origin = "ai"
 title = "Justice outside the law"
 verified = true
@@ -68,7 +68,7 @@ note = "The betrayer dies of the shock; no one is punished."
 [[relation]]
 target = "work:MEM09"
 kind = "explored_in"
-note = "\"Whatever... justice is still there to avenge.\""
+note = "Holmes: \"though that shield may fail to guard, the sword of justice is still there to avenge.\""
 
 [[relation]]
 target = "work:MEM10"
@@ -123,7 +123,7 @@ note = "\"A pretty general vote of thanks\" in New York."
 [[relation]]
 target = "work:BOW06"
 kind = "explored_in"
-note = "\"I think you must agree, Watson, that it is not a case in which we...\""
+note = "\"I think you must agree, Watson, that it is not a case in which we are called upon to interfere.\""
 
 [[relation]]
 target = "work:CAS01"
@@ -159,7 +159,7 @@ Holmes as a private agent who judges, forgives or punishes where the law cannot 
 - [MEM02 The Adventure of the Cardboard Box](../works/MEM02.md): "What object is served by this circle of misery and violence and fear?"
 - [MEM05 The "Gloria Scott"](../works/MEM05.md): A secret kept for thirty years, and a death from fear of exposure.
 - [MEM08 The Crooked Man](../works/MEM08.md): The betrayer dies of the shock; no one is punished.
-- [MEM09 The Resident Patient](../works/MEM09.md): "Whatever... justice is still there to avenge."
+- [MEM09 The Resident Patient](../works/MEM09.md): Holmes: "though that shield may fail to guard, the sword of justice is still there to avenge."
 - [MEM10 The Greek Interpreter](../works/MEM10.md): The two Englishmen are found stabbed in Buda-Pesth.
 - [RET01 The Adventure of the Empty House](../works/RET01.md): Holmes will not appear; Lestrade takes the credit.
 - [RET04 The Adventure of the Solitary Cyclist](../works/RET04.md): Holmes "represents the official police until they come".
@@ -170,7 +170,7 @@ Holmes as a private agent who judges, forgives or punishes where the law cannot 
 - [RET12 The Adventure of the Abbey Grange](../works/RET12.md): Watson as a British jury.
 - [BOW01 The Adventure of Wisteria Lodge](../works/BOW01.md): The Tiger escapes the law and is killed in Madrid.
 - [BOW02 The Adventure of the Red Circle](../works/BOW02.md): "A pretty general vote of thanks" in New York.
-- [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): "I think you must agree, Watson, that it is not a case in which we..."
+- [BOW06 The Adventure of the Devil's Foot](../works/BOW06.md): "I think you must agree, Watson, that it is not a case in which we are called upon to interfere."
 - [CAS01 The Adventure of the Illustrious Client](../works/CAS01.md): "When an object is good and a client is sufficiently illustrious, even the rigid British law becomes human and elastic."
 - [CAS07 The Problem of Thor Bridge](../works/CAS07.md): A dead woman's revenge on an innocent.
 - [CAS09 The Adventure of the Veiled Lodger](../works/CAS09.md): "Your life is not your own."

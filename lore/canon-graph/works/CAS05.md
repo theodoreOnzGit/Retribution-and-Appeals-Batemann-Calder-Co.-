@@ -5,7 +5,7 @@
 id = "work:CAS05"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T01:10:00+08:00"
 origin = "ai"
 title = "The Adventure of the Sussex Vampire"
 verified = true
@@ -105,15 +105,18 @@ Short story in *The Case-Book of Sherlock Holmes*, first book publication 1927. 
 
 ## Relationships
 
-Ferguson married a Peruvian lady about five years before; his son Jack is by his first wife (`text:the-case-book-of-sherlock-holmes.txt#L3820-L3836`). Watson played rugby against Ferguson when Watson was at Blackheath (`text:the-case-book-of-sherlock-holmes.txt#L3893-L3899`).
+Ferguson, writing as if for "a friend" (`text:the-case-book-of-sherlock-holmes.txt#L3817-L3820`) (`text:the-case-book-of-sherlock-holmes.txt#L3927-L3929`), married a Peruvian lady, a nitrate merchant's daughter, whom he had known only a few weeks, some five years before; his son Jack, fifteen, with a spine twisted by a fall in childhood, is by his first wife (`text:the-case-book-of-sherlock-holmes.txt#L3965-L3969`) (`text:the-case-book-of-sherlock-holmes.txt#L3978-L3981`) (`text:the-case-book-of-sherlock-holmes.txt#L3820-L3836`). Watson played rugby against Ferguson when Watson was at Blackheath (`text:the-case-book-of-sherlock-holmes.txt#L3893-L3899`).
 
 ## Actual chronology
 
-1. Mrs. Ferguson is seen apparently biting her baby's neck and drinking its blood (`text:the-case-book-of-sherlock-holmes.txt#L3845-L3879`); she has also beaten her stepson (`text:the-case-book-of-sherlock-holmes.txt#L4056`).
+0. About four months before, the spaniel Carlo is paralysed in a single night (`text:the-case-book-of-sherlock-holmes.txt#L4104-L4126`).
+1. Mrs. Ferguson is seen by the nurse apparently biting her baby's neck, and pays her five pounds for silence; a month later Ferguson himself sees her rise from the cot with blood on her lips (`text:the-case-book-of-sherlock-holmes.txt#L3845-L3879`); she has also beaten her stepson (`text:the-case-book-of-sherlock-holmes.txt#L4056`).
 2. Holmes, reading the letter, refers to the case of Matilda Briggs and the giant rat of Sumatra, "a story for which the world is not yet prepared" (`text:the-case-book-of-sherlock-holmes.txt#L3737-L3746`).
-3. At Cheeseman's he sees South American weapons on the wall, an empty quiver, and a lame spaniel (`text:the-case-book-of-sherlock-holmes.txt#L4097-L4114`) (`text:the-case-book-of-sherlock-holmes.txt#L4397`).
+2a. Holmes says he had reached his solution before leaving Baker Street (`text:the-case-book-of-sherlock-holmes.txt#L4320-L4327`); he presses Ferguson on Jack's devotion to him and to his dead mother (`text:the-case-book-of-sherlock-holmes.txt#L4027-L4053`).
+3. At Cheeseman's he sees South American weapons on the wall, an empty quiver, and a lame spaniel; Watson finds the wife feverish, saying she would sacrifice herself "rather than break his dear heart" and asking for her child (`text:the-case-book-of-sherlock-holmes.txt#L4180-L4228`) (`text:the-case-book-of-sherlock-holmes.txt#L4097-L4114`) (`text:the-case-book-of-sherlock-holmes.txt#L4397`).
 4. He watches Jack's face reflected in the window as Ferguson fondles the baby (`text:the-case-book-of-sherlock-holmes.txt#L4415-L4418`).
 5. The truth: Jack, jealous of the baby, pricked it with poisoned arrows (having first tried them on the dog); his stepmother sucked out the poison, and kept silent rather than break her husband's heart (`text:the-case-book-of-sherlock-holmes.txt#L4388-L4422`).
+5a. A note from Holmes that he knows all makes her see them (`text:the-case-book-of-sherlock-holmes.txt#L4347-L4355`) (`text:the-case-book-of-sherlock-holmes.txt#L4434-L4437`). She had left the baby these two days only because she had told Mrs. Mason (`text:the-case-book-of-sherlock-holmes.txt#L4441-L4447`).
 6. Holmes prescribes "a year at sea" for Jack (`text:the-case-book-of-sherlock-holmes.txt#L4439`).
 
 ## Apparent explanation
@@ -141,7 +144,11 @@ The "vampire" was saving the baby.
 
 ## Ethical questions
 
-The wife's silence to protect her husband's love for his son (`text:the-case-book-of-sherlock-holmes.txt#L4407`); the remedy is private, not legal (`text:the-case-book-of-sherlock-holmes.txt#L4439`).
+The wife's silence to protect her husband's love for his son; Holmes calls Jack's a "distorted love... for you, and possibly for his dead mother" (`text:the-case-book-of-sherlock-holmes.txt#L4421-L4425`) (`text:the-case-book-of-sherlock-holmes.txt#L4407`); the remedy is private, not legal (`text:the-case-book-of-sherlock-holmes.txt#L4439`).
+
+## Pattern tags checked
+
+- Kept: *the uncanny explained*, *the false account* (the wife's silence; Mrs. Mason's, too, once told), *the animal instrument* (the spaniel as the poisoner's trial, `text:the-case-book-of-sherlock-holmes.txt#L4402-L4405`).
 
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 

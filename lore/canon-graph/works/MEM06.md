@@ -5,7 +5,7 @@
 id = "work:MEM06"
 kind = "work"
 created = "2026-10-17T23:10:00+08:00"
-modified = "2026-10-17T23:10:00+08:00"
+modified = "2026-10-18T00:43:00+08:00"
 origin = "ai"
 title = "The Musgrave Ritual"
 verified = true
@@ -59,9 +59,9 @@ kind = "exhibits"
 note = "Butler and maid vanish."
 
 [[relation]]
-target = "pattern:holmes-lets-the-culprit-go"
+target = "pattern:the-detective-errs"
 kind = "exhibits"
-note = "Rachel Howells is never traced; \"nothing was ever heard\"."
+note = "Holmes misses the \"and under\" until Musgrave reads it out; Watson counts the case among those in which Holmes erred."
 
 [[relation]]
 target = "technique:geography-and-maps"
@@ -108,12 +108,12 @@ Brunton was engaged to Rachel Howells and dropped her for Janet Tregellis (`text
 
 ## Actual chronology
 
-1. A Musgrave ancestor, Sir Ralph, right-hand man of Charles II in exile, hides the crown of the kings of England and leaves a "ritual" of questions and answers as a guide (`text:the-memoirs-of-sherlock-holmes.txt#L4237-L4257`) (`text:the-memoirs-of-sherlock-holmes.txt#L4266-L4272`).
+1. ~~A Musgrave ancestor, Sir Ralph, right-hand man of Charles II in exile, hides the crown of the kings of England and leaves a "ritual" of questions and answers as a guide~~ **corrected 2026-10-17** After the execution of Charles I the crown of the kings of England was hidden at Hurlstone with a "ritual" of questions and answers as a guide; the text does not say who hid it. Musgrave mentions that his ancestor Sir Ralph was "the right-hand man of Charles the Second in his wanderings", and Holmes supposes that the Musgrave who held the secret died before he could explain it (`text:the-memoirs-of-sherlock-holmes.txt#L4237-L4257`) (`text:the-memoirs-of-sherlock-holmes.txt#L4266-L4272`).
 2. The family recites it for generations without understanding it (`text:the-memoirs-of-sherlock-holmes.txt#L3760-L3763`) (`text:the-memoirs-of-sherlock-holmes.txt#L3887`).
 3. Musgrave catches Brunton reading the family papers at night and gives him a week to leave (`text:the-memoirs-of-sherlock-holmes.txt#L3736-L3782`).
 4. Brunton disappears; Rachel Howells, ill and hysterical, vanishes too; a linen bag of rusted metal and pebbles is dragged from the mere (`text:the-memoirs-of-sherlock-holmes.txt#L3818-L3868`).
 5. Holmes works out the ritual: the oak, the shadow of the elm at the right hour, paces north, east, south, west, down, which leads to a cellar under the old wing (`text:the-memoirs-of-sherlock-holmes.txt#L3906-L3914`) (`text:the-memoirs-of-sherlock-holmes.txt#L4040-L4072`).
-6. Under a flagstone they find Brunton, dead in a small chamber, with the box empty (`text:the-memoirs-of-sherlock-holmes.txt#L4102-L4134`).
+6. Under a flagstone in the cellar, with Brunton's muffler tied to its iron ring, they find Brunton, dead in a small chamber, with the box empty (`text:the-memoirs-of-sherlock-holmes.txt#L4102-L4134`).
 7. Holmes reconstructs: Rachel helped him lift the stone; the wooden support slipped, or she knocked it away, and the slab shut him in; she threw the contents into the mere (`text:the-memoirs-of-sherlock-holmes.txt#L4164-L4205`).
 8. The metal is the ancient crown, battered; the coins are of Charles I (`text:the-memoirs-of-sherlock-holmes.txt#L4213-L4250`).
 
@@ -128,6 +128,8 @@ Brunton, for treasure. His death was caused by Rachel Howells, by accident or by
 ## Evidence and investigative techniques
 
 - The ritual as directions (`text:the-memoirs-of-sherlock-holmes.txt#L3981-L4041`).
+- Brunton had asked Musgrave the height of the old elm, sixty-four feet; the elm itself had been cut down ten years before (`text:the-memoirs-of-sherlock-holmes.txt#L3997-L4035`).
+- The billets of wood, one indented at the end and others flattened, which had propped the slab open (`text:the-memoirs-of-sherlock-holmes.txt#L4168-L4181`).
 - Measuring the shadow with a fishing rod and string (`text:the-memoirs-of-sherlock-holmes.txt#L4049-L4062`); a conical depression where Brunton had pegged (`text:the-memoirs-of-sherlock-holmes.txt#L4063-L4064`).
 
 ## Red herrings and misdirection
@@ -146,6 +148,11 @@ Did Rachel kill him? Holmes leaves it open (`text:the-memoirs-of-sherlock-holmes
 
 Holmes's untidy habits (the Persian slipper, pistol practice indoors) open the story (`text:the-memoirs-of-sherlock-holmes.txt#L3512-L3514`).
 
+## Pattern tags checked
+
+- Removed 2026-10-17: *Holmes lets the culprit go*. Holmes never has Rachel Howells in his power: she has fled before he reaches Hurlstone, and "of the woman nothing was ever heard" (`text:the-memoirs-of-sherlock-holmes.txt#L3847-L3859`) (`text:the-memoirs-of-sherlock-holmes.txt#L4282-L4284`). Her flight is covered by *the vanishing*.
+- Added: *the detective errs*: Holmes reads "and under" as an instruction to dig until Musgrave points it out (`text:the-memoirs-of-sherlock-holmes.txt#L4075-L4091`), and Watson names this case as one where "he erred" (`text:the-memoirs-of-sherlock-holmes.txt#L1111-L1114`).
+
 ## Proposal (not canon): nuclear-cyberpunk adaptation
 
 An old reactor-family's induction ritual, recited by heirs, encodes the location of a sealed cache in a decommissioned containment building. A clever facilities manager decodes it and dies inside, shut in by a jilted co-worker. Science hook: geometry and shielding (where you can and cannot dig).
@@ -160,7 +167,7 @@ An old reactor-family's induction ritual, recited by heirs, encodes the location
 
 - [The hidden message](../patterns/the-hidden-message.md): A family catechism that is a set of directions.
 - [The vanishing and the faked death](../patterns/the-vanishing-or-faked-death.md): Butler and maid vanish.
-- [Holmes lets the culprit go](../patterns/holmes-lets-the-culprit-go.md): Rachel Howells is never traced; "nothing was ever heard".
+- [The detective errs](../patterns/the-detective-errs.md): Holmes misses the "and under" until Musgrave reads it out; Watson counts the case among those in which Holmes erred.
 
 **Techniques**
 
