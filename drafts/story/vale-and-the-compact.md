@@ -1,5 +1,8 @@
 # Anthony Vale and the Meridian Compact: expansion proposals
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../README.md).
+
 > **Status: proposal, not canon.** Brief §6 (Vale) and §7 (the Compact) are
 > **CANON: LOCKED**; this file adds to them and contradicts nothing in them.
 > Brief §15 forbids silently settling Vale's age and genealogy, his absolute

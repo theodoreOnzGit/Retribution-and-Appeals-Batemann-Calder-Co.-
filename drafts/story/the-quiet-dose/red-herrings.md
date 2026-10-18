@@ -1,5 +1,8 @@
 # The Quiet Dose: red herrings (Option A)
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: proposal, not canon.** Every red herring here is a person or
 > theory with **real evidence for it** and a **real secret of its own**,
 > which is why it misleads. Each is cleared by evidence the player can find,

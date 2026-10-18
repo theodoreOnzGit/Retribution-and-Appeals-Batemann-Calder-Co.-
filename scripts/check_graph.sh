@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
-# Check the canon knowledge graph in lore/canon-graph/ and regenerate its
+# Check the canon knowledge graph in drafts/lore/canon-graph/ and regenerate its
 # derived files.
 #
 # Every node is a level-1 markdown heading followed by a ```toml block with a
 # [kovan] table (id, kind, ...) and [[relation]] entries (target, kind). This
 # script reads every such block and:
 #
-#   1. writes lore/canon-graph/relations.tsv  (source, kind, target), sorted;
-#   2. writes lore/canon-graph/index.md       (every node by kind, with links);
+#   1. writes drafts/lore/canon-graph/relations.tsv  (source, kind, target), sorted;
+#   2. writes drafts/lore/canon-graph/index.md       (every node by kind, with links);
 #   3. fails if any relation targets an id that has no node, uses a relation
 #      kind not listed below, or if a node id is duplicated, sits in the wrong
 #      folder, lacks `verified`/`source`, or if a work in canon/works.tsv has
@@ -17,12 +17,12 @@
 set -euo pipefail
 
 root="$(cd "$(dirname "$0")/.." && pwd)"
-graph="$root/lore/canon-graph"
+graph="$root/drafts/lore/canon-graph"
 works_tsv="$root/canon/works.tsv"
 tmp="$(mktemp -d)"
 trap 'rm -rf "$tmp"' EXIT
 
-# Relation kinds allowed (documented in lore/canon-graph/README.md).
+# Relation kinds allowed (documented in drafts/lore/canon-graph/README.md).
 allowed="features set_in involves exhibits uses_technique explores
 appears_in used_in explored_in related_to follows precedes
 kin_of married_to engaged_to employs antagonist_of client_of ally_of

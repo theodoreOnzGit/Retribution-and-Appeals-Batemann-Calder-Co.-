@@ -1,5 +1,8 @@
 # Behaviour claims and their sources
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: research support for proposals, not canon.** Every claim the
 > drafts make about why people and institutions act as they do, with the
 > research or documented cases that support it. IDs are `BC-nn`. Source keys

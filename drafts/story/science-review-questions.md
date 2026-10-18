@@ -1,5 +1,8 @@
 # Science review questions for the scientific director
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../README.md).
+
 > **Status: proposal, not canon.** Every scientific claim the story drafts
 > rely on, written as a question for the human scientific director (brief
 > §2, §4: "The human scientific director must review important technical

@@ -1,5 +1,8 @@
 # World bible: New London
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../README.md).
+
 > **Status: proposal, not canon.** Everything here is offered for the owner's
 > editorial approval. Where the brief (`docs/MASTER_CONTEXT.md`) is locked,
 > this file follows it; where §15 of the brief lists a decision as open, the

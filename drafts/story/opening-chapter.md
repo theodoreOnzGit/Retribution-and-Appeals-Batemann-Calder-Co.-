@@ -1,5 +1,8 @@
 # Opening chapter (draft): "Headroom"
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../README.md).
+
 > **Status: proposal, not canon.** A player-facing draft of the chapter that
 > introduces New London and the people of *The Quiet Dose* **before** Elias
 > Ward's death (brief §16 item 7). It assumes the recommended Option A of

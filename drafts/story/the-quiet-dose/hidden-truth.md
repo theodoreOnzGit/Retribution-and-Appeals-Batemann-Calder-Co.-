@@ -1,5 +1,8 @@
 # The Quiet Dose: hidden truth (three options)
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: proposal, not canon.** The brief (§9, §15) leaves the culprit and
 > the complete chronology undecided. This file offers three complete hidden
 > chronologies, recommends one, and gives reasons. The other files in this

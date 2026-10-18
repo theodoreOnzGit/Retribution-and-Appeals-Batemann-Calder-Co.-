@@ -13,12 +13,9 @@ creative brief, the source texts and research. No code.
 |---|---|
 | [`docs/MASTER_CONTEXT.md`](docs/MASTER_CONTEXT.md) | The owner's creative brief for every agent and contributor, headed by the decisions made since |
 | [`canon/`](canon/README.md) | All 60 original Conan Doyle works (4 novels, 56 stories) as plain text, with an index, sources and checksums |
+| [`drafts/`](drafts/README.md) | **AI-generated, not canon.** Story drafts (world bible, Vale and the Compact, the first case, an opening chapter, science review questions, 122 sources) and a 566-entry reference graph of the canon. Proposals until the owner approves them |
 | [`scripts/fetch_canon.sh`](scripts/fetch_canon.sh) | Re-fetches the texts and checks that all 60 are present |
-
-Work in progress on other branches: `lore-canon-graph` (a cross-linked
-reference graph of the canon's characters, places, patterns and techniques)
-and `story-proposals` (world bible and first-case drafts). Everything there
-is a proposal until the owner approves it.
+| [`scripts/check_graph.sh`](scripts/check_graph.sh) | Regenerates the canon graph's index and checks its links |
 
 ## Related projects
 

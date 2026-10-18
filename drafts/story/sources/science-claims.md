@@ -1,5 +1,8 @@
 # Science claims and their sources
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: research support for proposals, not canon.** Every scientific
 > claim the story drafts rely on, starting from the 58 questions in
 > `../science-review-questions.md` (SQ-nn) and adding the claims found in the

@@ -1,5 +1,8 @@
 # Audit of the story drafts
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../README.md).
+
 > **Status: proposal, not canon.** The storyline agent's own audit of the
 > drafts in `story/` (brief §16 item 9): plot holes, unfair clues, weak
 > motivations and continuity risks, each with what was done about it.

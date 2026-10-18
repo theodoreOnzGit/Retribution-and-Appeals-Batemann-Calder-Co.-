@@ -1,5 +1,8 @@
 # The Quiet Dose: evidence matrix (Option A)
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: proposal, not canon.** Written for the recommended option in
 > `hidden-truth.md` (culprit Julian Marsh). Numbers marked *(placeholder)*
 > are illustrative and must be set or approved by the scientific director;

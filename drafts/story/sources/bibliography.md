@@ -1,5 +1,8 @@
 # Bibliography
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: research support for proposals, not canon.** Every source the
 > claim tables (`science-claims.md`, `behaviour-claims.md`) and the inline
 > `[src: key]` markers in the drafts rely on. One entry per source, each with

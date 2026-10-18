@@ -1,5 +1,8 @@
 # The Quiet Dose: branches (Option A)
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../../README.md).
+
 > **Status: proposal, not canon.** Brief §12.6: "Wrong conclusions should
 > produce meaningful responses rather than arbitrary game-over screens."
 > Nothing below ends the game. Every wrong turn costs something (time,

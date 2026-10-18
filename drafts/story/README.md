@@ -1,5 +1,8 @@
 # story/: storyline proposals
 
+> **AI-generated draft, not canon.** Written by Claude agents (Anthropic) and not yet
+> reviewed or approved by the project owner. See [`drafts/README.md`](../README.md).
+
 Everything in this folder is a **proposal, not canon**, offered for the
 owner's editorial approval (brief §2, §15, §16). Nothing here settles a
 decision the brief lists as open. Doyle material is marked with its source as
