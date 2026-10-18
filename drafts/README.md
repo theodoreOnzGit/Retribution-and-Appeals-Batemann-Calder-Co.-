@@ -10,6 +10,7 @@
 | Folder | What it is | How it was made |
 |---|---|---|
 | [`story/`](story/README.md) | World bible, Anthony Vale and the Meridian Compact, the first case *The Quiet Dose* (hidden truths, evidence, red herrings, branches), an opening chapter, 58 science review questions, a plot-hole audit, and `sources/` (122 references with claim tables) | Drafted 2026-10-17 by a storyline agent, then grounded in literature by a research agent; every file marked "proposal, not canon" |
+| [`story/prologue/`](story/prologue/README.md) | The playable prologue specification, *Twenty-Five Pounds*: narrative and scene transitions, dialogue trees (119 nodes), interactions (89), quest state and flags, refrigeration science notes; 20 creative additions listed as proposals | Adapted 2026-10-18 by a storyline agent from the **owner's** storyboard, [`docs/storyboards/prologue-twenty-five-pounds.md`](../docs/storyboards/prologue-twenty-five-pounds.md), which stays the authority |
 | [`lore/canon-graph/`](lore/canon-graph/README.md) | A cross-linked reference graph of the Conan Doyle canon: 566 entries (works, characters, places, organisations, patterns, techniques, themes, worldbuilding) | Built 2026-10-17, then checked against the full text of all 60 works with line citations; every entry's TOML block says `origin = "ai"` |
 
 ## Rules for these drafts
