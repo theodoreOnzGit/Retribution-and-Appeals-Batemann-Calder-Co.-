@@ -34,6 +34,7 @@ literature**, so that every mechanism and every motive is plausible.
 | Avoid | EA names and concepts (Nod, CABAL, …); "cabal" as a word for the conspiracy; anything from modern Holmes adaptations; "Sherlock Holmes" as title or brand |
 | Rogue AI | Three options proposed (captured, conscientious, feared-by-the-Compact); **not decided** |
 | Food, water and the economy (owner canon, added 2026-10-17) | **Radiocatalysis makes ammonia at room temperature**; ammonia is fertiliser. **Radioactive sources purify otherwise toxic water** for drinking and farming. The sources are made in **molten-salt reactors**, and **a few companies hold an oligopoly** on them. Whoever owns the ammonia owns the food, and so the economy; the same holds for water. Which companies form the oligopoly, and whether Batemann & Calder is one, is **not decided**. The science behind it is open for review (`drafts/story/science-review-questions.md` SQ-38, SQ-56 to SQ-58). |
+| Prologue (owner draft, 2026-10-18) | *Twenty-Five Pounds*: the player's ordinary Friday evening in District Seven, before any mystery. Storyboard: [`docs/storyboards/prologue-twenty-five-pounds.md`](storyboards/prologue-twenty-five-pounds.md). It replaces the AI-drafted opening chapter (`drafts/story/opening-chapter.md`) as the game's opening. Mrs Tan and Ah Seng are recurring NPC candidates. |
 
 ---
 
